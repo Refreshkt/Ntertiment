@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ** Alfred Hitchcock Presenta **</title>
+<title>** Alfred Hitchcock Presenta **</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ** [COLOR lime] [makelist.param2][/COLOR] **</title>
+        <title>** [COLOR blue] [makelist.param2][/COLOR] **</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://pics.filmaffinity.com/the_new_alfred_hitchcock_presents_tv_series-812272559-large.jpg</thumbnail>
-		<fanart>https://i.ytimg.com/vi/gVoFCFT_xG4/hqdefault.jpg</fanart>
+        <thumbnail>http://i.copiapop.com/images/coverPhoto/c9f02184-8206-4ba7-87ef-1b1be8b12a09</thumbnail>
+		<fanart>http://i.copiapop.com/images/coverPhoto/c9f02184-8206-4ba7-87ef-1b1be8b12a09</fanart>
 ]]></listrepeat>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
-<page>http://copiapop.com/Txarly/alfred-hitchcock-presenta-64647/gallery,1,4</page>
+<page>http://copiapop.com/Txarly/bbc-el-universo-65311/gallery,1,2</page>
 <cookieJar></cookieJar>
 </regex>
 
@@ -27,6 +27,6 @@
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://pics.filmaffinity.com/the_new_alfred_hitchcock_presents_tv_series-812272559-large.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/gVoFCFT_xG4/hqdefault.jpg</fanart>
+<thumbnail>http://copiapop.com/Txarly/bbc-el-universo-65311/gallery,1,2</thumbnail>
+<fanart>http://copiapop.com/Txarly/bbc-el-universo-65311/gallery,1,2</fanart>
 </item> 
