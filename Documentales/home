@@ -9,8 +9,9 @@
         <title>** [COLOR blue] [makelist.param2][/COLOR] **</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>http://i.copiapop.com/images/coverPhoto/c9f02184-8206-4ba7-87ef-1b1be8b12a09</thumbnail>
-		<fanart>http://i.copiapop.com/images/coverPhoto/c9f02184-8206-4ba7-87ef-1b1be8b12a09</fanart>
-]]></listrepeat>
+	<fanart>http://i.copiapop.com/images/coverPhoto/c9f02184-8206-4ba7-87ef-1b1be8b12a09</fanart>
+	]]>
+  </listrepeat>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
 <page>http://copiapop.com/Txarly/bbc-el-universo-65311/gallery,1,2</page>
 <cookieJar></cookieJar>
