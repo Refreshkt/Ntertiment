@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<!-----------------                         SERIES COMEDIA
--->
 <item>
 <title>[COLOR red]Me Llamo Earl[/COLOR]</title>
 <link>$doregex[makelist]</link>
