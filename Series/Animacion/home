@@ -12,7 +12,9 @@
 <page></page>
 <cookieJar></cookieJar>
 </regex>
+</item> 
 
+<item>
 <title>[COLOR red]South Park[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
