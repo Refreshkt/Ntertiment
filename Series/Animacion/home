@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<documento>
-<nombre>[COLOR white]SERIES ANIMACION[/COLOR]</nombre>
+
 <item>
+<title>[COLOR white]SERIES ANIMACION[/COLOR]</title>
+<link></link>
+<regex>
+         <title></title>
+        <link></link>
+        <thumbnail></thumbnail>
+	      <fanart></fanart>
+<expres></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+
 <title>[COLOR red]South Park[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -31,4 +42,3 @@
 <thumbnail>http://static.giantbomb.com/uploads/original/17/174460/2638131-3083711486-south.jpg</thumbnail>
 <fanart>http://www.much.com/wp-content/uploads/2015/06/South-Park-Canada-feature-479x269.jpg</fanart>
 </item> 
-</documento>
