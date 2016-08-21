@@ -1,19 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<item>
-<title>[COLOR white]SERIES ANIMACION[/COLOR]</title>
-<link></link>
-<regex>
-         <title></title>
-        <link></link>
-        <thumbnail></thumbnail>
-	      <fanart></fanart>
-<expres></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-</item> 
-
 <item>
 <title>[COLOR red]South Park[/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -29,7 +14,6 @@
 <page>http://copiapop.com/Koba1994/south-park-39449/gallery,1,12</page>
 <cookieJar></cookieJar>
 </regex>
-
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
