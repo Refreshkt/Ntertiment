@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<item>
-<title>[COLOR cyan]################################# SERIES ANIMACION #################################[/COLOR]</title>
-</item>
+<!-----------------                         SERIES ANIMACION
+-->
 <item>
 <title>[COLOR red]South Park[/COLOR]</title>
 <link>$doregex[makelist]</link>
