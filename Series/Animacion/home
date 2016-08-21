@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <documento>
-<title>[COLOR white]SERIES ANIMACION[/COLOR]</title>
+<nombre>[COLOR white]SERIES ANIMACION[/COLOR]</nombre>
 <item>
 <title>[COLOR red]South Park[/COLOR]</title>
 <link>$doregex[makelist]</link>
