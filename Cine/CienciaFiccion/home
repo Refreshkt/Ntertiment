@@ -1,7 +1,5 @@
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<!-----------------                         CIENCIA FICCION
--->
 <item>
 <title>[COLOR red]Paradojas Temporales[/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -17,7 +15,6 @@
 <page>http://copiapop.com/Mega2/ciclo-paradojas-temporales-26224/gallery,1,11</page>
 <cookieJar></cookieJar>
 </regex>
-
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
