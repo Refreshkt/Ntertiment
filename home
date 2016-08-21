@@ -1,6 +1,13 @@
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
            
+<item>
+<title>[COLOR red]Cine[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/1kcuQf_YJwI/0.jpg</thumbnail>
+<fanart>http://www.usm.cl/assets/img/vida-universitaria-ciclo-de-cine.w700.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Refreshkt/Ntertiment/master/Cine/home</externallink>	
+</item> 
 
 <item>
 <title>[COLOR red]Documentales[/COLOR]</title>
