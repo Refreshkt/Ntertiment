@@ -1,8 +1,7 @@
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<item>
-<title>[COLOR cyan]################################# CIENCIA FICCION #################################[/COLOR]</title>
-</item>
+<!-----------------                         CIENCIA FICCION
+-->
 <item>
 <title>[COLOR red]Paradojas Temporales[/COLOR]</title>
 <link>$doregex[makelist]</link>
