@@ -16,7 +16,7 @@
 <regex>
 <name>get-id</name>
 <expres>ggplayer.html\?(.*?)"</expres>
-<page>http://biophobia.tv/multis/best1.php</page>
+<page>http://09stream.com/canales/plusestrenos.html</page>
 </regex>
 <thumbnail>http://i.imgur.com/oSO9uRy.jpg</thumbnail>
 </item>
