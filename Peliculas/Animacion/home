@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR red]Big Hero6[/COLOR]</title>
+<title>[COLOR red]Animacion[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat>
-        <title>[COLOR blue]Big Hero6r[/COLOR]</title>
+        <title>[COLOR blue][makelist.param2][/COLOR]</title>
         <link>http://copiapop.com/JOE221277/peliculas-s-50026/big-hero-6-bdrip-m1080p-castellano-animacion-2014,801925,gallery,1,1.mkv</link>
         <thumbnail></thumbnail>
 	      <fanart></fanart>
