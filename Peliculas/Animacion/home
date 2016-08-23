@@ -11,14 +11,14 @@
 	      <fanart></fanart>
       ]]></list>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
-<page>http://copiapop.com/JOE221277/peliculas-s-50026/big-hero-6-bdrip-m1080p-castellano-animacion-2014,801925,gallery,1,1.mkv</page>
+<page>http://copiapop.com/JOE221277/peliculas-s-50026/big-hero-6-bdrip-m1080p-castellano-animacion-2014,801925,gallery,1,1</page>
 <cookieJar></cookieJar>
 </regex>
 
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://copiapop.com/[makelist.param3]</page>
+<page>http://copiapop.com/JOE221277/peliculas-s-50026/big-hero-6-bdrip-m1080p-castellano-animacion-2014,801925,gallery,1,1.mkv</page>
 <rawpost>fileId=[makelist.param4]&__RequestVerificationToken=[makelist.param5]</rawpost>
 <referer>http://copiapop.com/[makelist.param1]</referer>
 <connection>keep-alive</connection>
