@@ -4,12 +4,12 @@
 
 <regex>
   <name>makelist</name>
-      <list>
+      <list><![CDATA[
         <title>[COLOR blue]Big Hero6[/COLOR]</title>
-        <link>http://copiapop.com/JOE221277/peliculas-s-50026/big-hero-6-bdrip-m1080p-castellano-animacion-2014,801925,gallery,1,1.mkv</link>
+        <link>$doregex[getUrl]</link>
         <thumbnail></thumbnail>
 	      <fanart></fanart>
-      </list>
+      ]]></list>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
 <page>http://copiapop.com/JOE221277/peliculas-s-50026/gallery,1,1</page>
 <cookieJar></cookieJar>
