@@ -2,7 +2,7 @@
 
 <item>
 <title>[COLOR red]Big Hero6[/COLOR]</title>
-<link>http://nofollow</link>
+<link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
