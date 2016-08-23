@@ -3,7 +3,7 @@
            
 <item>
 <title>[COLOR red]Documentales[/COLOR]</title>
-<link>http://Ignoreme</link>
+<link></link>
 <thumbnail>http://revista.cinedocumental.com.ar/wp-content/uploads/imagen%203%20home.jpg</thumbnail>
 <fanart>http://pendulo.com/images/minitiendas/titulares/documentales.png</fanart>
 <externallink>https://raw.githubusercontent.com/Refreshkt/Ntertiment/master/Documentales/home</externallink>	
@@ -11,7 +11,7 @@
 
 <item>
 <title>[COLOR red]Series[/COLOR]</title>
-<link>http://Ignoreme</link>
+<link></link>
 <thumbnail>http://listas.eleconomista.es/system/lists/000/004/170/medium/series.jpg?1447029050</thumbnail>
 <fanart>http://www.elcineenlasombra.com/wp-content/uploads/2015/12/Series-TV-.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Refreshkt/Ntertiment/master/Series/home</externallink>	
@@ -19,7 +19,7 @@
 
 <item>
 <title>[COLOR red]listas[/COLOR]</title>
-<link>http://Ignoreme</link>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/Refreshkt/Ntertiment/master/Listas/home</externallink>	
