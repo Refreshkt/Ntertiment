@@ -4,18 +4,6 @@
 <title>[COLOR red]Animacion[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
-  <name>makelist</name>
-  <listrepeat>
-        <title>[COLOR blue][makelist.param2][/COLOR]</title>
-        <link>http://copiapop.com/JOE221277/peliculas-s-50026/big-hero-6-bdrip-m1080p-castellano-animacion-2014,801925,gallery,1,1.mkv</link>
-        <thumbnail></thumbnail>
-	      <fanart></fanart>
-  </listrepeat>
-<expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
-<page>http://copiapop.com/JOE221277/peliculas-s-50026/big-hero-6-bdrip-m1080p-castellano-animacion-2014,801925,gallery,1,1</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
 <page>http://copiapop.com/[makelist.param3]</page>
