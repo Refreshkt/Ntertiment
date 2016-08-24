@@ -2,7 +2,7 @@
 
 <item>
 <list>
-  <title>[makelist.param2]</title>
+  <title>[makelist.param0]</title>
  
   <link>$doregex[getUrl]</link>
   <thumbnail></thumbnail>
