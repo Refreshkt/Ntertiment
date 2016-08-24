@@ -3,10 +3,23 @@
 <item>
 <title>Big Hero6</title>
 <link>$doregex[getUrl]</link>
+
+<regex>
+  <name>makelist</name>
+<expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
+<page>http://copiapop.com/JOE221277/peliculas-s-50026/big-hero-6-bdrip-m1080p-castellano-animacion-2014,801925.mkv</page>
+<cookieJar></cookieJar>
+</regex>
+
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)</expres>
-<page>http://copiapop.com/JOE221277/peliculas-s-50026/big-hero-6-bdrip-m1080p-castellano-animacion-2014,801925.mkv</page>
+<page>http://copiapop.com/[makelist.param2]</page>
+<rawpost>fileId=[makelist.param3]&__RequestVerificationToken=[makelist.param4]</rawpost>
+<referer>http://copiapop.com/[makelist.param1]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
