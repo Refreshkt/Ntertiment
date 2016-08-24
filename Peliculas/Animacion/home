@@ -17,8 +17,8 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)</expres>
-<page>http://copiapop.com/[makelist.param2]</page>
-<rawpost>fileId=[makelist.param3]&__RequestVerificationToken=[makelist.param4]</rawpost>
+<page>http://copiapop.com/[makelist.param3]</page>
+<rawpost>fileId=[makelist.param4]&__RequestVerificationToken=[makelist.param5]</rawpost>
 <referer>http://copiapop.com/[makelist.param1]</referer>
 <connection>keep-alive</connection>
 <accept>*/*</accept>
