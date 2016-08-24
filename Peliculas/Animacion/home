@@ -2,11 +2,8 @@
 
 <item>
 <list>
-  <title>[makelist.param1]</title>
-  <p>[makelist.param2]</p>
-  <p>[makelist.param3]</p>
-  <p>[makelist.param4]</p>
-  <p>[makelist.param5]</p>
+  <title>[makelist.param2]</title>
+ 
   <link>$doregex[getUrl]</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
