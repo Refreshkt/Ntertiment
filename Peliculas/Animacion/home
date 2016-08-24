@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Big Hero6</title>
-<link>$doregex[getUrl]</link>
-
+<list>
+  <title>Big Hero6</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</list>
 <regex>
   <name>makelist</name>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
