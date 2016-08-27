@@ -9,6 +9,4 @@ http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/534.ts
 #EXTINF:1,BeinSports
 #EXTVLCOPT:network-caching=9999
 http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1302.ts
-#EXTINF:1,Futbol
-#EXTVLCOPT:network-caching=9999
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/535.ts
+
