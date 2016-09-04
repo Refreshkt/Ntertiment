@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:1,Mixture-Gambler
+#EXTVLCOPT:network-caching=9999
+https://raw.githubusercontent.com/Refreshkt/Ntertiment/master/Listas/ElJugador
