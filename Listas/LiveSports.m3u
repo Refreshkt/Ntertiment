@@ -9,4 +9,15 @@ http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/534.ts
 #EXTINF:1,BeinSports
 #EXTVLCOPT:network-caching=9999
 http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1302.ts
-
+#EXTINF:0,Smart Sport 1
+http://orbit-iptv.com:2500/live/ital/ital1/1966.ts
+#EXTINF:0,ES: CanalPlus Golf
+http://orbit-iptv.com:2500/live/ital/ital1/1671.ts
+#EXTINF:0,ES: Canal Futbol
+http://orbit-iptv.com:2500/live/ital/ital1/1085.ts
+#EXTINF:0,ES: MoviStar_MotoGp
+http://orbit-iptv.com:2500/live/ital/ital1/3101.ts
+#EXTINF:0,ES: MOVISTAR_F1
+http://orbit-iptv.com:2500/live/ital/ital1/3102.ts
+#EXTINF:0,ES: EUROSPORT
+http://orbit-iptv.com:2500/live/ital/ital1/3108.ts
