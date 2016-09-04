@@ -27,3 +27,6 @@ http://orbit-iptv.com:2500/live/ital/ital1/3102.ts
 #EXTINF:1,ES: EUROSPORT
 #EXTVLCOPT:network-caching=9999
 http://orbit-iptv.com:2500/live/ital/ital1/3108.ts
+#EXTINF:1,ES: Deportes1
+#EXTVLCOPT:network-caching=9999
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2178.ts
