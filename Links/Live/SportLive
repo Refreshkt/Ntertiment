@@ -1,64 +1,48 @@
 #EXTM3U
-
-#EXTINF:1,BeinLaLiga
-#EXTVLCOPT:network-caching=9999
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1410.ts
-#EXTINF:1,LaLigaTV
-#EXTVLCOPT:network-caching=9999
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/534.ts
-#EXTINF:1,BeinSports
-#EXTVLCOPT:network-caching=9999
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1302.ts
-#EXTINF:1,Smart Sport 1
-#EXTVLCOPT:network-caching=9999
-http://orbit-iptv.com:2500/live/ital/ital1/1966.ts
-#EXTINF:1,ES: CanalPlus Golf
-#EXTVLCOPT:network-caching=9999
-http://orbit-iptv.com:2500/live/ital/ital1/1671.ts
-#EXTINF:1,ES: Canal Futbol
-#EXTVLCOPT:network-caching=9999
-http://orbit-iptv.com:2500/live/ital/ital1/1085.ts
-#EXTINF:1,ES: MoviStar_MotoGp
-#EXTVLCOPT:network-caching=9999
-http://orbit-iptv.com:2500/live/ital/ital1/3101.ts
-#EXTINF:1,ES: MOVISTAR_F1
-#EXTVLCOPT:network-caching=9999
-http://orbit-iptv.com:2500/live/ital/ital1/3102.ts
-#EXTINF:1,ES: EUROSPORT
-#EXTVLCOPT:network-caching=9999
-http://orbit-iptv.com:2500/live/ital/ital1/3108.ts
-#EXTINF:1,ES: Deportes1
-#EXTVLCOPT:network-caching=9999
-http://globiptv.com:8000/live/CLIENTX103/65sijod/2178.ts
-#EXTINF:1,ES: GolTv
-#EXTVLCOPT:network-caching=9999
+#EXTINF:0,TELEDEPORTE
+http://stream.zetatv.cf/pw/teledeporte_aw3kx97/chunklist.m3u8
+#EXTINF:0,MOTO GP
+http://stream.zetatv.cf/pw/motogp_b0xk1e8/chunklist.m3u8
+#EXTINF:0,FORMULA1
+http://stream.zetatv.cf/pw/f1_b0xjnv5/chunklist.m3u8
+#EXTINF:0,EUROSPOT 1
+http://stream.zetatv.cf/pw/eurosport1_b8omvr8/chunklist.m3u8
+#EXTINF:0,EUROSPOT 2
+http://stream.zetatv.cf/pw/eurosport2_b11qmaz/chunklist.m3u8
+#EXTINF:0,EUROSPOT 2 hd
+http://tinyurl.com/zwm26wr
+#EXTINF:0,GOLTV
 http://stream.zetatv.cf/pw/goltv_b2kycdj/chunklist.m3u8
-#EXTINF:1,ES: Deportes2
-#EXTVLCOPT:network-caching=9999
-http://stream.zetatv.cf/pw/deportes2_ardgdvv/chunklist.m3u8
-#EXTINF:1,ES: BeinLaLiga
-#EXTVLCOPT:network-caching=9999
+#EXTINF:0,Bein
+http://stream.zetatv.cf/pw/partidazo_bb1r7mx/chunklist.m3u8
+#EXTINF:0,Bein
+http://stream.zetatv.cf/pw/verliga_bbsglgi/chunklist.m3u8
+#EXTINF:0,Bein
+http://stream.zetatv.cf/pw/bein_alwkqfq/chunklist.m3u8
+#EXTINF:0,Bein Max 1
+http://stream.zetatv.cf/pw/tvb141/chunklist.m3u8
+#EXTINF:0,Bein Max 2
+http://stream.zetatv.cf/pw/tvb142/chunklist.m3u8
+#EXTINF:0,Bein Max 3
+http://stream.zetatv.cf/pw/tvb143/chunklist.m3u8
+#EXTINF:0,Bein Max 4
+http://stream.zetatv.cf/pw/tvb144/chunklist.m3u8
+#EXTINF:0,Beinliga
 http://stream.zetatv.cf/pw/ligarincon_a539aod/chunklist.m3u8
-#EXTINF:1,ES: 
-#EXTVLCOPT:network-caching=9999
+#EXTINF:0,DEPORTES 1
+http://stream.zetatv.cf/pw/deportes_13uk31p/chunklist.m3u8
+#EXTINF:0,DEPORTES 1 hd
+http://tinyurl.com/gwtcqae
+#EXTINF:0,DEPORTES 2
+http://stream.zetatv.cf/pw/deportes2_ardgdvv/chunklist.m3u8
+#EXTINF:0,FUTBOL 
+http://stream.zetatv.cf/pw/tvb112/chunklist.m3u8
+#EXTINF:0,FUTBOL
+http://stream.zetatv.cf/pw/plusfutbolrincondepensar_9wtnl4t/chunklist.m3u8
+#EXTINF:0,Real Madrid tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0,BARCATV
+http://stream.zetatv.cf/pw/barcatv_aw3h4aq/chunklist.m3u8
+#EXTINF:0,MOVI GOLF
+http://stream.zetatv.cf/pw/golf_asn535f/chunklist.m3u8
 
-#EXTINF:1,ES: 
-#EXTVLCOPT:network-caching=9999
-
-#EXTINF:1,ES: 
-#EXTVLCOPT:network-caching=9999
-
-#EXTINF:1,ES: 
-#EXTVLCOPT:network-caching=9999
-
-#EXTINF:1,ES: 
-#EXTVLCOPT:network-caching=9999
-
-#EXTINF:1,ES: 
-#EXTVLCOPT:network-caching=9999
-
-#EXTINF:1,ES: 
-#EXTVLCOPT:network-caching=9999
-
-#EXTINF:1,ES: 
-#EXTVLCOPT:network-caching=9999
