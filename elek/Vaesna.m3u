@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:1,Veasna Pulsar
+#EXTVLCOPT:stop-time=0
 http://www.ektoplazm.com/mp3/veasna-pulsar.mp3
 #EXTINF:1,Veasna You Have Rigths
 http://www.ektoplazm.com/mp3/veasna-you-have-rights.mp3
