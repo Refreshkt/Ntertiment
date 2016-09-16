@@ -36,15 +36,15 @@ http://5.9.118.115:8000/live/harry/Harry/3372.ts
 http://5.9.118.115:8000/live/harry/Harry/3376.ts
 #EXTINF:2,USA: Fox_Sports_2_HD
 http://5.9.118.115:8000/live/harry/Harry/3375.ts
-EXTINF:2,USA: BYU_Sports_TV_HD
-#http://5.9.118.115:8000/live/harry/Harry/3360.ts
-EXTINF:2,USA: Sportsnet_360_HD
+#EXTINF:2,USA: BYU_Sports_TV_HD
+http://5.9.118.115:8000/live/harry/Harry/3360.ts
+#EXTINF:2,USA: Sportsnet_360_HD
 http://5.9.118.115:8000/live/harry/Harry/3357.ts
-EXTINF:2,USA: TSN_1
+#EXTINF:2,USA: TSN_1
 http://5.9.118.115:8000/live/harry/Harry/3356.ts
-EXTINF:2,USA: TSN_2
+#EXTINF:2,USA: TSN_2
 http://5.9.118.115:8000/live/harry/Harry/3355.ts
-EXTINF:2,USA: TSN_4_HD
+#EXTINF:2,USA: TSN_4_HD
 http://5.9.118.115:8000/live/harry/Harry/3353.ts
-EXTINF:2,USA: TSN_5
+#EXTINF:2,USA: TSN_5
 http://5.9.118.115:8000/live/harry/Harry/3352.ts
