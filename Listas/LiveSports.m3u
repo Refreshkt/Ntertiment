@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:1,LaLigaTV
-http://iptv-supplier.com:8000/live/bouzaher/ryade/386.ts
+#EXTINF:1,BeinLaLiga
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2717.ts
+#EXTINF:1,BeinLaLiga
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/367.ts
 #EXTINF:1,BeinSports
-http://nlxiptv.no-ip.biz:1994/live/jens-richter-dd@web.de/25y0KL4kbj/341.ts
-#EXTINF:1,Smart Sport 1
-http://orbit-iptv.com:2500/live/ital/ital1/1966.ts
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2679.ts
 #EXTINF:1,ES: CanalPlus Golf
 http://orbit-iptv.com:2500/live/ital/ital1/1671.ts
 #EXTINF:1,ES: Canal Futbol
-http://orbit-iptv.com:2500/live/ital/ital1/1085.ts
+http://5.9.118.115:8000/live/harry/Harry/3150.ts
 #EXTINF:1,ES: MoviStar_MotoGp
 http://orbit-iptv.com:2500/live/ital/ital1/3101.ts
 #EXTINF:1,ES: MOVISTAR_F1
@@ -17,31 +17,34 @@ http://orbit-iptv.com:2500/live/ital/ital1/3102.ts
 #EXTINF:1,ES: EUROSPORT
 http://orbit-iptv.com:2500/live/ital/ital1/3108.ts
 #EXTINF:1,ES: Deportes1
-http://globiptv.com:8000/live/CLIENTX103/65sijod/2178.ts
+http://5.9.118.115:8000/live/harry/Harry/3151.ts
 #EXTINF:1,ES: Deportes2
 http://globiptv.com:8000/live/CLIENTX103/65sijod/2177.ts
-#EXTINF:1,ES: BeinLaLiga
+#EXTINF:1,ES: LaLiga
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/795.ts
-#EXTINF:1,ES: 
-
-
-#EXTINF:1,ES: 
-
-
-#EXTINF:1,ES: 
-
-
-#EXTINF:1,ES: 
-
-
-#EXTINF:1,ES: 
-
-
-#EXTINF:1,ES: 
-
-
-#EXTINF:1,ES: 
-
-
-#EXTINF:1,ES: 
-
+#EXTINF:1,ES: TDP
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2692.ts
+#EXTINF:2,USA: WWE_HD
+http://5.9.118.115:8000/live/harry/Harry/3361.ts
+#EXTINF:2,USA: Poker_Central
+http://5.9.118.115:8000/live/harry/Harry/3367.ts
+#EXTINF:2,USA: NFL_HD 
+http://5.9.118.115:8000/live/harry/Harry/3370.ts
+#EXTINF:2,USA: NBCSN_HD
+http://5.9.118.115:8000/live/harry/Harry/3372.ts
+#EXTINF:1,USA: Fox_Sports_1_HD 
+http://5.9.118.115:8000/live/harry/Harry/3376.ts
+#EXTINF:2,USA: Fox_Sports_2_HD
+http://5.9.118.115:8000/live/harry/Harry/3375.ts
+EXTINF:2,USA: BYU_Sports_TV_HD
+#http://5.9.118.115:8000/live/harry/Harry/3360.ts
+EXTINF:2,USA: Sportsnet_360_HD
+http://5.9.118.115:8000/live/harry/Harry/3357.ts
+EXTINF:2,USA: TSN_1
+http://5.9.118.115:8000/live/harry/Harry/3356.ts
+EXTINF:2,USA: TSN_2
+http://5.9.118.115:8000/live/harry/Harry/3355.ts
+EXTINF:2,USA: TSN_4_HD
+http://5.9.118.115:8000/live/harry/Harry/3353.ts
+EXTINF:2,USA: TSN_5
+http://5.9.118.115:8000/live/harry/Harry/3352.ts
