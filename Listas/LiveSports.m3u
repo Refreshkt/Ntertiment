@@ -8,7 +8,11 @@ http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/367.ts
 #EXTINF:0,BeinLaLiga
 http://globiptv.com:8000/live/saib/fares/890.ts
 #EXTINF:0,BeinLaLiga
+http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/928.ts
+#EXTINF:0,BeinLaLiga
 http://iptv-supplier.com:8000/live/bouzaher/ryade/386.ts
+#EXTINF:0,BeinSports
+http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/3253.ts
 #EXTINF:0,BeinSports
 http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2679.ts
 #EXTINF:0,BeinSports
@@ -20,17 +24,25 @@ http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/890.ts
 #EXTINF:0,ES: Canal Futbol
 http://iptv-supplier.com:8000/live/bouzaher/ryade/388.ts
 #EXTINF:0,ES: Canal Futbol
+http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/929.ts
+#EXTINF:0,ES: Canal Futbol
 http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/1635.ts
 #EXTINF:0,ES: MoviStar_MotoGp
 http://ns3630184.ip-51-255-74.eu:9900/live/test/test/8208.ts
 #EXTINF:0,ES: MoviStar_MotoGp
+http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/3257.ts
+#EXTINF:0,ES: MoviStar_MotoGp
 http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/1762.ts
+#EXTINF:0,ES: MOVISTAR_F1
+http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/3258.ts
 #EXTINF:0,ES: MOVISTAR_F1
 http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/902.ts
 #EXTINF:0,ES: MOVISTAR_F1
 http://globiptv.com:8000/live/saib/fares/2181.ts
 #EXTINF:0,ES: EUROSPORT
 http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/1594.ts
+#EXTINF:0,ES: Deportes1
+http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/930.ts
 #EXTINF:0,ES: Deportes1
 http://globiptv.com:8000/live/saib/fares/2178.ts
 #EXTINF:0,ES: Deportes1
@@ -73,3 +85,13 @@ http://bulkyiptv.com:5750/live/lucadipalo@libero.it/39hyEp59iC/13570.ts
 http://bulkyiptv.com:5750/live/lucadipalo@libero.it/39hyEp59iC/17225.ts
 #EXTINF:0, MCS Extreme
 http://188.93.239.20:8012/play/a06f
+#EXTINF:0, Fox Sport 1
+http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/2051.ts
+#EXTINF:0, Fox Sport 2
+http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/2088.ts
+#EXTINF:0, Fox Sport 3
+http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/2087.ts
+#EXTINF:0, Fox Sport 4
+http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/2086.ts
+#EXTINF:0, Fox Sport 5
+http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/2085.ts
