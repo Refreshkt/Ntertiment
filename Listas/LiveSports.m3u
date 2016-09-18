@@ -2,9 +2,9 @@
 #EXTINF:0,BeinLaLiga
 http://iptv-supplier.com:8000/live/bouzaher/ryade/2970.ts
 #EXTINF:0,BeinLaLiga
-http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/900.ts
+http://178.156.79.1:9090/play/a02a
 #EXTINF:0,BeinLaLiga
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/367.ts
+http://ip.kmsat.info:8000/live/Fernando/Fernando/765.ts
 #EXTINF:0,BeinLaLiga
 http://globiptv.com:8000/live/saib/fares/890.ts
 #EXTINF:0,BeinLaLiga
@@ -13,44 +13,70 @@ http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/928.ts
 http://iptv-supplier.com:8000/live/bouzaher/ryade/386.ts
 #EXTINF:0,BeinSports
 http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/3253.ts
-#EXTINF:0,BeinSports
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2679.ts
-#EXTINF:0,BeinSports
-http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/946.ts
-#EXTINF:0,ES: CanalPlus Golf
-http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/1758.ts
-#EXTINF:0,ES: Canal Futbol
-http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/890.ts
 #EXTINF:0,ES: Canal Futbol
 http://iptv-supplier.com:8000/live/bouzaher/ryade/388.ts
 #EXTINF:0,ES: Canal Futbol
 http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/929.ts
 #EXTINF:0,ES: Canal Futbol
-http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/1635.ts
+http://ip.kmsat.info:8000/live/Fernando/Fernando/764.ts
 #EXTINF:0,ES: MoviStar_MotoGp
 http://ns3630184.ip-51-255-74.eu:9900/live/test/test/8208.ts
 #EXTINF:0,ES: MoviStar_MotoGp
 http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/3257.ts
-#EXTINF:0,ES: MoviStar_MotoGp
-http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/1762.ts
 #EXTINF:0,ES: MOVISTAR_F1
 http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/3258.ts
 #EXTINF:0,ES: MOVISTAR_F1
-http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/902.ts
-#EXTINF:0,ES: MOVISTAR_F1
 http://globiptv.com:8000/live/saib/fares/2181.ts
-#EXTINF:0,ES: EUROSPORT
-http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/1594.ts
 #EXTINF:0,ES: Deportes1
 http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/930.ts
 #EXTINF:0,ES: Deportes1
 http://globiptv.com:8000/live/saib/fares/2178.ts
 #EXTINF:0,ES: Deportes1
-http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/903.ts
+http://boxiptv.noip.us:9998/live/testt/testt/618.ts
 #EXTINF:0,ES: LaLiga
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/795.ts
+#EXTINF:0,ES: LaLiga
+http://boxiptv.noip.us:9998/live/testt/testt/274.ts
 #EXTINF:0,ES: TDP
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2692.ts
+http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/3256.ts
+#EXTINF:0,PORTUGAL:FUEL TV
+http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/1645.ts
+#EXTINF:0,PORTUGAL:MOTORVISION HD
+http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/1671.ts
+#EXTINF:0,UK: sky sport F1 HD
+http://boxiptv.noip.us:9998/live/testt/testt/2055.ts
+#EXTINF:0,UK: Motors tv
+http://boxiptv.noip.us:9998/live/testt/testt/807.ts
+#EXTINF:0,UK:Boxnation
+http://boxiptv.noip.us:9998/live/testt/testt/560.ts
+#EXTINF:0,USA NBA
+http://boxiptv.noip.us:9998/live/testt/testt/738.ts
+#EXTINF:0,USA Bein USA
+http://boxiptv.noip.us:9998/live/testt/testt/726.ts
+#EXTINF:0,UK: EUROSPORT 2
+http://ip.kmsat.info:8000/live/Fernando/Fernando/1254.ts
+#EXTINF:0,UK: Sky Sport F1
+http://ip.kmsat.info:8000/live/Fernando/Fernando/1011.ts
+#EXTINF:0,SKYUK:SKY SPORTS F1 HD
+http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/700.ts
+#EXTINF:0,USA:BEIN SPORT USA
+http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/1403.ts
+#EXTINF:0,USA:FOX SPORT 1 HD
+http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/1400.ts
+#EXTINF:0,USA:FOX SPORT 2 HD
+http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/1399.ts
+#EXTINF:0,USA:SPORT NET 360 HD
+http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/1398.ts
+#EXTINF:0,USA:TSN 1
+http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/1397.ts
+#EXTINF:0,USA:TSN 2
+http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/1396.ts
+#EXTINF:0,USA:TSN 3
+http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/1395.ts
+#EXTINF:0,USA:TSN 4
+http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/1394.ts
+#EXTINF:0,USA:TSN 5
+http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/1393.ts
 #EXTINF:0, TSN 1
 http://bulkyiptv.com:5750/live/lucadipalo@libero.it/39hyEp59iC/15657.ts
 #EXTINF:0,  TSN 2
@@ -69,6 +95,8 @@ http://bulkyiptv.com:5750/live/lucadipalo@libero.it/39hyEp59iC/9087.ts
 http://bulkyiptv.com:5750/live/lucadipalo@libero.it/39hyEp59iC/17239.ts
 #EXTINF:0, BoxNation
 http://bulkyiptv.com:5750/live/lucadipalo@libero.it/39hyEp59iC/14520.ts
+#EXTINF:0, BOX NATION
+http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/707.ts
 #EXTINF:0, At The Races
 http://bulkyiptv.com:5750/live/lucadipalo@libero.it/39hyEp59iC/13541.ts
 #EXTINF:0, Racing UK
@@ -95,3 +123,21 @@ http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/2087.ts
 http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/2086.ts
 #EXTINF:0, Fox Sport 5
 http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/2085.ts
+#EXTINF:0,FOX SPORT 1
+http://opasnivirus.dynns.com:8000/live/vladimir/vladimir123/552.ts
+#EXTINF:0,FOX SPORT 2
+http://opasnivirus.dynns.com:8000/live/vladimir/vladimir123/553.ts
+#EXTINF:0,FOX SPORT 3
+http://opasnivirus.dynns.com:8000/live/vladimir/vladimir123/554.ts
+#EXTINF:0,FOX SPORT 4
+http://opasnivirus.dynns.com:8000/live/vladimir/vladimir123/555.ts
+#EXTINF:0,FOX SPORT 5
+http://opasnivirus.dynns.com:8000/live/vladimir/vladimir123/556.ts
+#EXTINF:0,FOX SPORT 6
+http://opasnivirus.dynns.com:8000/live/vladimir/vladimir123/557.ts
+#EXTINF:0, osn sport 3 hd
+http://83.149.125.90:8000/h0FpfEsesi/hTHo1iTF34/80.ch
+#EXTINF:0, osn sport 2 hd
+http://83.149.125.90:8000/h0FpfEsesi/hTHo1iTF34/79.ch
+#EXTINF:0, osn sport 1 hd
+http://83.149.125.90:8000/h0FpfEsesi/hTHo1iTF34/78.ch
