@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:0,--------------SPAIN-----------------
+http://evolive-tv.com:8000/live/majid/majid/343.ts
+#EXTINF:0,SP-TNT
+http://evolive-tv.com:8000/live/majid/majid/268.ts
+#EXTINF:0,SP-Syfy
+http://evolive-tv.com:8000/live/majid/majid/270.ts
+#EXTINF:0,SP-National Geographic Wild HD
+http://evolive-tv.com:8000/live/majid/majid/287.ts
+#EXTINF:0,SP-National Geographic
+http://evolive-tv.com:8000/live/majid/majid/286.ts
+#EXTINF:0,SP-FOX
+http://evolive-tv.com:8000/live/majid/majid/266.ts
+#EXTINF:0,SP-Disney XD
+http://evolive-tv.com:8000/live/majid/majid/280.ts
+#EXTINF:0,SP-Disney Junior
+http://evolive-tv.com:8000/live/majid/majid/281.ts
+#EXTINF:0,SP-Disney Channel
+http://evolive-tv.com:8000/live/majid/majid/279.ts
+#EXTINF:0,EP: Canal+ Accion
+http://evolive-tv.com:8000/live/majid/majid/188.ts
+#EXTINF:0,SP-Canal+ Comedia
+http://evolive-tv.com:8000/live/majid/majid/165.ts
+#EXTINF:0,SP-Canal+ DCine
+http://evolive-tv.com:8000/live/majid/majid/164.ts
+#EXTINF:0,SP-Canal+ Series HD
+http://evolive-tv.com:8000/live/majid/majid/264.ts
+#EXTINF:0,SP-Canal+ Liga HD
+http://evolive-tv.com:8000/live/majid/majid/274.ts
+#EXTINF:0,SP-Canal+ Estrenos
+http://evolive-tv.com:8000/live/majid/majid/263.ts
+#EXTINF:0,SP-Canal+ Deportes HD
+http://evolive-tv.com:8000/live/majid/majid/163.ts
+#EXTINF:0,SP-Canal+ Futbol HD
+http://evolive-tv.com:8000/live/majid/majid/162.ts
+#EXTINF:0,SP- Real Madrid TV
+http://evolive-tv.com:8000/live/majid/majid/278.ts
+#EXTINF:0,SP-Barca TV
+http://evolive-tv.com:8000/live/majid/majid/277.ts
+#EXTINF:0,SP-ARENA SPORT 1
+http://evolive-tv.com:8000/live/majid/majid/157.ts
+#EXTINF:0,SP-ARENA SPORT 2
+http://evolive-tv.com:8000/live/majid/majid/158.ts
+#EXTINF:0,SP-ARENA SPORT 3
+http://evolive-tv.com:8000/live/majid/majid/159.ts
+#EXTINF:0,SP-ARENA SPORT 4
+http://evolive-tv.com:8000/live/majid/majid/160.ts
+#EXTINF:0,SP-ARENA SPORT 5
+http://evolive-tv.com:8000/live/majid/majid/161.ts
