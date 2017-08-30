@@ -1,4 +1,184 @@
 #EXTM3U
+#EXTINF:0,ES:Axn
+http://nasaiptv.com:8000/live/ex1/22/3170.ts
+#EXTINF:0,ES:AXN_WHITE
+http://nasaiptv.com:8000/live/ex1/22/3169.ts
+#EXTINF:0,ES:Bein_Sports_Espan_HD
+http://nasaiptv.com:8000/live/ex1/22/3168.ts
+#EXTINF:0,ES:C _ACCION_HD
+http://nasaiptv.com:8000/live/ex1/22/3167.ts
+#EXTINF:0,ES:C _COMEDIA_HD
+http://nasaiptv.com:8000/live/ex1/22/3166.ts
+#EXTINF:0,ES:C _Dcine_HD
+http://nasaiptv.com:8000/live/ex1/22/3165.ts
+#EXTINF:0,ES:C _DEPORTES_2_HD
+http://nasaiptv.com:8000/live/ex1/22/3164.ts
+#EXTINF:0,ES:C _DEPORTES_1HD
+http://nasaiptv.com:8000/live/ex1/22/3163.ts
+#EXTINF:0,ES:C _ESTRENOS_HD
+http://nasaiptv.com:8000/live/ex1/22/3162.ts
+#EXTINF:0,ES:C _FUTBOL_HD
+http://nasaiptv.com:8000/live/ex1/22/3161.ts
+#EXTINF:0,ES:C _LIGA_HD
+http://nasaiptv.com:8000/live/ex1/22/3160.ts
+#EXTINF:0,ES:C _SERIES_HD
+http://nasaiptv.com:8000/live/ex1/22/3159.ts
+#EXTINF:0,ES:C _SERIES_XTRA_HD
+http://nasaiptv.com:8000/live/ex1/22/3157.ts
+#EXTINF:0,ES:C _TOROS_HD
+http://nasaiptv.com:8000/live/ex1/22/3156.ts
+#EXTINF:0,ES:CALLE_13_HD
+http://nasaiptv.com:8000/live/ex1/22/3155.ts
+#EXTINF:0,ES:CANAL_DCINE
+http://nasaiptv.com:8000/live/ex1/22/3152.ts
+#EXTINF:0,ES:Canal_GOLF
+http://nasaiptv.com:8000/live/ex1/22/3149.ts
+#EXTINF:0,ES:CANAL_SUR_ANDALUCIA
+http://nasaiptv.com:8000/live/ex1/22/3148.ts
+#EXTINF:0,ES:CASA&PESCA
+http://nasaiptv.com:8000/live/ex1/22/3144.ts
+#EXTINF:0,ES:Caza.Y.PESca
+http://nasaiptv.com:8000/live/ex1/22/3143.ts
+#EXTINF:0,ES:CLAN__TVE
+http://nasaiptv.com:8000/live/ex1/22/3142.ts
+#EXTINF:0,ES:COMEDY_CENTRAL
+http://nasaiptv.com:8000/live/ex1/22/3141.ts
+#EXTINF:0,ES:Cuatro
+http://nasaiptv.com:8000/live/ex1/22/3140.ts
+#EXTINF:0,ES:C__LIGA
+http://nasaiptv.com:8000/live/ex1/22/3139.ts
+#EXTINF:0,ES:DISNEY_CH
+http://nasaiptv.com:8000/live/ex1/22/3138.ts
+#EXTINF:0,ES:DISNY_JUNIOR
+http://nasaiptv.com:8000/live/ex1/22/3137.ts
+#EXTINF:0,ES-AMC
+http://nasaiptv.com:8000/live/ex1/22/4662.ts
+#EXTINF:0,ES-LA-1-HD
+http://nasaiptv.com:8000/live/ex1/22/4626.ts
+#EXTINF:0,ES-LA-SEXTA
+http://nasaiptv.com:8000/live/ex1/22/4676.ts
+#EXTINF:0,ES-LA1
+http://nasaiptv.com:8000/live/ex1/22/4617.ts
+#EXTINF:0,ES-LA2
+http://nasaiptv.com:8000/live/ex1/22/4667.ts
+#EXTINF:0,ES-MoviStar-COMEDIA-HD
+http://nasaiptv.com:8000/live/ex1/22/4589.ts
+#EXTINF:0,ES-Movistar-DCINE
+http://nasaiptv.com:8000/live/ex1/22/4619.ts
+#EXTINF:0,ES-Movistar-DEPORTES-2-HD
+http://nasaiptv.com:8000/live/ex1/22/4621.ts
+#EXTINF:0,ES-Movistar-DEPORTES-HD
+http://nasaiptv.com:8000/live/ex1/22/4620.ts
+#EXTINF:0,ES-MoviStar-F1
+http://nasaiptv.com:8000/live/ex1/22/4588.ts
+#EXTINF:0,ES-Movistar-GOLF
+http://nasaiptv.com:8000/live/ex1/22/4628.ts
+#EXTINF:0,ES-Movistar-plus-Accion-HD
+http://nasaiptv.com:8000/live/ex1/22/4598.ts
+#EXTINF:0,ES-Movistar-plus-Futbol
+http://nasaiptv.com:8000/live/ex1/22/4600.ts
+#EXTINF:0,ES-Movistar-plus-LIGA-HD
+http://nasaiptv.com:8000/live/ex1/22/4599.ts
+#EXTINF:0,ES-Movistar-SERIES-HD
+http://nasaiptv.com:8000/live/ex1/22/4622.ts
+#EXTINF:0,ES-Movistar-SERIES-XTRA-HD
+http://nasaiptv.com:8000/live/ex1/22/4623.ts
+#EXTINF:0,ES-Movistar-Toros
+http://nasaiptv.com:8000/live/ex1/22/4627.ts
+#EXTINF:0,ES-NAT-GEO-GRAPHIC
+http://nasaiptv.com:8000/live/ex1/22/4670.ts
+#EXTINF:0,ES-NAT-GEO-WILD
+http://nasaiptv.com:8000/live/ex1/22/4669.ts
+#EXTINF:0,ES-SYFY
+http://nasaiptv.com:8000/live/ex1/22/4675.ts
+#EXTINF:0,ES-TAQUILLA-1
+http://nasaiptv.com:8000/live/ex1/22/4574.ts
+#EXTINF:0,ES-TAQUILLA-10
+http://nasaiptv.com:8000/live/ex1/22/4666.ts
+#EXTINF:0,ES-TAQUILLA-2
+http://nasaiptv.com:8000/live/ex1/22/4657.ts
+#EXTINF:0,ES-TAQUILLA-3
+http://nasaiptv.com:8000/live/ex1/22/4575.ts
+#EXTINF:0,ES-TAQUILLA-4
+http://nasaiptv.com:8000/live/ex1/22/4658.ts
+#EXTINF:0,ES-TAQUILLA-5
+http://nasaiptv.com:8000/live/ex1/22/4659.ts
+#EXTINF:0,ES-TAQUILLA-6
+http://nasaiptv.com:8000/live/ex1/22/4660.ts
+#EXTINF:0,ES-TAQUILLA-7
+http://nasaiptv.com:8000/live/ex1/22/4663.ts
+#EXTINF:0,ES-TAQUILLA-8
+http://nasaiptv.com:8000/live/ex1/22/4664.ts
+#EXTINF:0,ES-TAQUILLA-9
+http://nasaiptv.com:8000/live/ex1/22/4665.ts
+#EXTINF:0,ES-TNT
+http://nasaiptv.com:8000/live/ex1/22/4668.ts
+#EXTINF:0,ES:FOX_LIFE
+http://nasaiptv.com:8000/live/ex1/22/4661.ts
+#EXTINF:0,ES:FDF
+http://nasaiptv.com:8000/live/ex1/22/3136.ts
+#EXTINF:0,ES:HOLLYWOOD
+http://nasaiptv.com:8000/live/ex1/22/3134.ts
+#EXTINF:0,ES:LA_1_HD
+http://nasaiptv.com:8000/live/ex1/22/3133.ts
+#EXTINF:0,ES:Los40
+http://nasaiptv.com:8000/live/ex1/22/3132.ts
+#EXTINF:0,ES:Movistar_Motogp
+http://nasaiptv.com:8000/live/ex1/22/3131.ts
+#EXTINF:0,ES:NOVA
+http://nasaiptv.com:8000/live/ex1/22/3130.ts
+#EXTINF:0,ES:Paramount.Channel
+http://nasaiptv.com:8000/live/ex1/22/3129.ts
+#EXTINF:0,ES:REAL_MADRID
+http://nasaiptv.com:8000/live/ex1/22/3128.ts
+#EXTINF:0,ES:TCM
+http://nasaiptv.com:8000/live/ex1/22/3127.ts
+#EXTINF:0,ES:TELECINCO
+http://nasaiptv.com:8000/live/ex1/22/3126.ts
+#EXTINF:0,ES:TELEDEPORTE
+http://nasaiptv.com:8000/live/ex1/22/3125.ts
+#EXTINF:0,SP | Antena 3 HD
+http://p3panel.com:8080/live/K525wQGj18/Qs4r34JUah/8531.ts
+#EXTINF:0,SP | BEIN SPORT ES
+http://p3panel.com:8080/live/K525wQGj18/Qs4r34JUah/8522.ts
+#EXTINF:0,SP | CANAL  COMEDIA HD
+http://p3panel.com:8080/live/K525wQGj18/Qs4r34JUah/8524.ts
+#EXTINF:0,SP | CANAL  DEPORTES
+http://p3panel.com:8080/live/K525wQGj18/Qs4r34JUah/8528.ts
+#EXTINF:0,SP | CANAL  LIGA HD
+http://p3panel.com:8080/live/K525wQGj18/Qs4r34JUah/8520.ts
+#EXTINF:0,SP | CANAL ESTRENOS
+http://p3panel.com:8080/live/K525wQGj18/Qs4r34JUah/8525.ts
+#EXTINF:0,SP | CANAL HOLLYWOOD
+http://p3panel.com:8080/live/K525wQGj18/Qs4r34JUah/8534.ts
+#EXTINF:0,SP | CANAL SERIES
+http://p3panel.com:8080/live/K525wQGj18/Qs4r34JUah/8535.ts
+#EXTINF:0,SP | CAZA Y PESCA
+http://p3panel.com:8080/live/K525wQGj18/Qs4r34JUah/8526.ts
+#EXTINF:0,SP | CUATRO
+http://p3panel.com:8080/live/K525wQGj18/Qs4r34JUah/8533.ts
+#EXTINF:0,SP | DCINE
+http://p3panel.com:8080/live/K525wQGj18/Qs4r34JUah/8537.ts
+#EXTINF:0,SP | DISCOVERY CHANNEL
+http://p3panel.com:8080/live/K525wQGj18/Qs4r34JUah/8538.ts
+#EXTINF:0,SP | ENERGY
+http://p3panel.com:8080/live/K525wQGj18/Qs4r34JUah/8532.ts
+#EXTINF:0,SP | MEGA
+http://p3panel.com:8080/live/K525wQGj18/Qs4r34JUah/8530.ts
+#EXTINF:0,SP | NAT GEO WILD
+http://p3panel.com:8080/live/K525wQGj18/Qs4r34JUah/8519.ts
+#EXTINF:0,SP | NOVA
+http://p3panel.com:8080/live/K525wQGj18/Qs4r34JUah/8523.ts
+#EXTINF:0,SP | Taquilla1
+http://p3panel.com:8080/live/K525wQGj18/Qs4r34JUah/8527.ts
+#EXTINF:0,SP | Taquilla2
+http://p3panel.com:8080/live/K525wQGj18/Qs4r34JUah/8529.ts
+#EXTINF:0,SP | Taquilla3
+http://p3panel.com:8080/live/K525wQGj18/Qs4r34JUah/8536.ts
+#EXTINF:0,SP | Taquilla4
+http://p3panel.com:8080/live/K525wQGj18/Qs4r34JUah/8518.ts
+#EXTINF:0,SP | TVE LA1
+http://p3panel.com:8080/live/K525wQGj18/Qs4r34JUah/8521.ts
 #EXTINF:0,SP: Antena 3
 http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15474.ts
 #EXTINF:0,SP: Antena 3 HD
