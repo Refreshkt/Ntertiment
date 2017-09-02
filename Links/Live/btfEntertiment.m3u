@@ -1,1517 +1,1441 @@
 #EXTM3U
-#EXTINF:0,ES:Axn
-http://nasaiptv.com:8000/live/ex1/22/3170.ts
-#EXTINF:0,ES:AXN_WHITE
-http://nasaiptv.com:8000/live/ex1/22/3169.ts
-#EXTINF:0,ES:Bein_Sports_Espan_HD
-http://nasaiptv.com:8000/live/ex1/22/3168.ts
-#EXTINF:0,ES:C _ACCION_HD
-http://nasaiptv.com:8000/live/ex1/22/3167.ts
-#EXTINF:0,ES:C _COMEDIA_HD
-http://nasaiptv.com:8000/live/ex1/22/3166.ts
-#EXTINF:0,ES:C _Dcine_HD
-http://nasaiptv.com:8000/live/ex1/22/3165.ts
-#EXTINF:0,ES:C _DEPORTES_2_HD
-http://nasaiptv.com:8000/live/ex1/22/3164.ts
-#EXTINF:0,ES:C _DEPORTES_1HD
-http://nasaiptv.com:8000/live/ex1/22/3163.ts
-#EXTINF:0,ES:C _ESTRENOS_HD
-http://nasaiptv.com:8000/live/ex1/22/3162.ts
-#EXTINF:0,ES:C _FUTBOL_HD
-http://nasaiptv.com:8000/live/ex1/22/3161.ts
-#EXTINF:0,ES:C _LIGA_HD
-http://nasaiptv.com:8000/live/ex1/22/3160.ts
-#EXTINF:0,ES:C _SERIES_HD
-http://nasaiptv.com:8000/live/ex1/22/3159.ts
-#EXTINF:0,ES:C _SERIES_XTRA_HD
-http://nasaiptv.com:8000/live/ex1/22/3157.ts
-#EXTINF:0,ES:C _TOROS_HD
-http://nasaiptv.com:8000/live/ex1/22/3156.ts
-#EXTINF:0,ES:CALLE_13_HD
-http://nasaiptv.com:8000/live/ex1/22/3155.ts
-#EXTINF:0,ES:CANAL_DCINE
-http://nasaiptv.com:8000/live/ex1/22/3152.ts
-#EXTINF:0,ES:Canal_GOLF
-http://nasaiptv.com:8000/live/ex1/22/3149.ts
-#EXTINF:0,ES:CANAL_SUR_ANDALUCIA
-http://nasaiptv.com:8000/live/ex1/22/3148.ts
-#EXTINF:0,ES:CASA&PESCA
-http://nasaiptv.com:8000/live/ex1/22/3144.ts
-#EXTINF:0,ES:Caza.Y.PESca
-http://nasaiptv.com:8000/live/ex1/22/3143.ts
-#EXTINF:0,ES:CLAN__TVE
-http://nasaiptv.com:8000/live/ex1/22/3142.ts
-#EXTINF:0,ES:COMEDY_CENTRAL
-http://nasaiptv.com:8000/live/ex1/22/3141.ts
-#EXTINF:0,ES:Cuatro
-http://nasaiptv.com:8000/live/ex1/22/3140.ts
-#EXTINF:0,ES:C__LIGA
-http://nasaiptv.com:8000/live/ex1/22/3139.ts
-#EXTINF:0,ES:DISNEY_CH
-http://nasaiptv.com:8000/live/ex1/22/3138.ts
-#EXTINF:0,ES:DISNY_JUNIOR
-http://nasaiptv.com:8000/live/ex1/22/3137.ts
-#EXTINF:0,ES-AMC
-http://nasaiptv.com:8000/live/ex1/22/4662.ts
-#EXTINF:0,ES-LA-1-HD
-http://nasaiptv.com:8000/live/ex1/22/4626.ts
-#EXTINF:0,ES-LA-SEXTA
-http://nasaiptv.com:8000/live/ex1/22/4676.ts
-#EXTINF:0,ES-LA1
-http://nasaiptv.com:8000/live/ex1/22/4617.ts
-#EXTINF:0,ES-LA2
-http://nasaiptv.com:8000/live/ex1/22/4667.ts
-#EXTINF:0,ES-MoviStar-COMEDIA-HD
-http://nasaiptv.com:8000/live/ex1/22/4589.ts
-#EXTINF:0,ES-Movistar-DCINE
-http://nasaiptv.com:8000/live/ex1/22/4619.ts
-#EXTINF:0,ES-Movistar-DEPORTES-2-HD
-http://nasaiptv.com:8000/live/ex1/22/4621.ts
-#EXTINF:0,ES-Movistar-DEPORTES-HD
-http://nasaiptv.com:8000/live/ex1/22/4620.ts
-#EXTINF:0,ES-MoviStar-F1
-http://nasaiptv.com:8000/live/ex1/22/4588.ts
-#EXTINF:0,ES-Movistar-GOLF
-http://nasaiptv.com:8000/live/ex1/22/4628.ts
-#EXTINF:0,ES-Movistar-plus-Accion-HD
-http://nasaiptv.com:8000/live/ex1/22/4598.ts
-#EXTINF:0,ES-Movistar-plus-Futbol
-http://nasaiptv.com:8000/live/ex1/22/4600.ts
-#EXTINF:0,ES-Movistar-plus-LIGA-HD
-http://nasaiptv.com:8000/live/ex1/22/4599.ts
-#EXTINF:0,ES-Movistar-SERIES-HD
-http://nasaiptv.com:8000/live/ex1/22/4622.ts
-#EXTINF:0,ES-Movistar-SERIES-XTRA-HD
-http://nasaiptv.com:8000/live/ex1/22/4623.ts
-#EXTINF:0,ES-Movistar-Toros
-http://nasaiptv.com:8000/live/ex1/22/4627.ts
-#EXTINF:0,ES-NAT-GEO-GRAPHIC
-http://nasaiptv.com:8000/live/ex1/22/4670.ts
-#EXTINF:0,ES-NAT-GEO-WILD
-http://nasaiptv.com:8000/live/ex1/22/4669.ts
-#EXTINF:0,ES-SYFY
-http://nasaiptv.com:8000/live/ex1/22/4675.ts
-#EXTINF:0,ES-TAQUILLA-1
-http://nasaiptv.com:8000/live/ex1/22/4574.ts
-#EXTINF:0,ES-TAQUILLA-10
-http://nasaiptv.com:8000/live/ex1/22/4666.ts
-#EXTINF:0,ES-TAQUILLA-2
-http://nasaiptv.com:8000/live/ex1/22/4657.ts
-#EXTINF:0,ES-TAQUILLA-3
-http://nasaiptv.com:8000/live/ex1/22/4575.ts
-#EXTINF:0,ES-TAQUILLA-4
-http://nasaiptv.com:8000/live/ex1/22/4658.ts
-#EXTINF:0,ES-TAQUILLA-5
-http://nasaiptv.com:8000/live/ex1/22/4659.ts
-#EXTINF:0,ES-TAQUILLA-6
-http://nasaiptv.com:8000/live/ex1/22/4660.ts
-#EXTINF:0,ES-TAQUILLA-7
-http://nasaiptv.com:8000/live/ex1/22/4663.ts
-#EXTINF:0,ES-TAQUILLA-8
-http://nasaiptv.com:8000/live/ex1/22/4664.ts
-#EXTINF:0,ES-TAQUILLA-9
-http://nasaiptv.com:8000/live/ex1/22/4665.ts
-#EXTINF:0,ES-TNT
-http://nasaiptv.com:8000/live/ex1/22/4668.ts
-#EXTINF:0,ES:FOX_LIFE
-http://nasaiptv.com:8000/live/ex1/22/4661.ts
-#EXTINF:0,ES:FDF
-http://nasaiptv.com:8000/live/ex1/22/3136.ts
-#EXTINF:0,ES:HOLLYWOOD
-http://nasaiptv.com:8000/live/ex1/22/3134.ts
-#EXTINF:0,ES:LA_1_HD
-http://nasaiptv.com:8000/live/ex1/22/3133.ts
-#EXTINF:0,ES:Los40
-http://nasaiptv.com:8000/live/ex1/22/3132.ts
-#EXTINF:0,ES:Movistar_Motogp
-http://nasaiptv.com:8000/live/ex1/22/3131.ts
-#EXTINF:0,ES:NOVA
-http://nasaiptv.com:8000/live/ex1/22/3130.ts
-#EXTINF:0,ES:Paramount.Channel
-http://nasaiptv.com:8000/live/ex1/22/3129.ts
-#EXTINF:0,ES:REAL_MADRID
-http://nasaiptv.com:8000/live/ex1/22/3128.ts
-#EXTINF:0,ES:TCM
-http://nasaiptv.com:8000/live/ex1/22/3127.ts
-#EXTINF:0,ES:TELECINCO
-http://nasaiptv.com:8000/live/ex1/22/3126.ts
-#EXTINF:0,ES:TELEDEPORTE
-http://nasaiptv.com:8000/live/ex1/22/3125.ts
-#EXTINF:0,SP: #0 HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/12532.ts
-#EXTINF:0,SP: 24 Horas
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/13003.ts
-#EXTINF:0,SP: 3/24
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7642.ts
-#EXTINF:0,SP: AMC HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15421.ts
-#EXTINF:0,SP: Andalucia TV
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7640.ts
-#EXTINF:0,SP: Antena 3
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15474.ts
-#EXTINF:0,SP: Antena 3 HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7710.ts
-#EXTINF:0,SP: AXN
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7709.ts
-#EXTINF:0,SP: AXN HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7653.ts
-#EXTINF:0,SP: AXN WHITE HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7708.ts
-#EXTINF:0,SP: Azteca Noticias
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7638.ts
-#EXTINF:0,SP: Barca TV
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7662.ts
-#EXTINF:0,SP: beIN La Liga
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/12497.ts
-#EXTINF:0,SP: Bein La Liga HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/16981.ts
-#EXTINF:0,SP: Bein LaLiga HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/13709.ts
-#EXTINF:0,SP: BEIN MAX 1
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15453.ts
-#EXTINF:0,SP: BEIN MAX 1 HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15450.ts
-#EXTINF:0,SP: BEIN MAX 2
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15454.ts
-#EXTINF:0,SP: BEIN MAX 2 HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15451.ts
-#EXTINF:0,SP: BEIN MAX 3
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15455.ts
-#EXTINF:0,SP: BEIN MAX 3 HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15452.ts
-#EXTINF:0,SP: BEIN MAX 4
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15456.ts
-#EXTINF:0,SP: BEIN MAX 5
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15457.ts
-#EXTINF:0,SP: BEIN MAX 6
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15458.ts
-#EXTINF:0,SP: BEIN MAX 7
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15459.ts
-#EXTINF:0,SP: BEIN MAX 8
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15460.ts
-#EXTINF:0,SP: BeIN Sports FHD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/13279.ts
-#EXTINF:0,SP: BEIN SPORTS HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15440.ts
-#EXTINF:0,SP: Boing
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7707.ts
-#EXTINF:0,SP: CALLE 13 HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7705.ts
-#EXTINF:0,SP: Canal 2 HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7634.ts
-#EXTINF:0,SP: Canal 3 HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7633.ts
-#EXTINF:0,SP: Canal 41 Mar Del
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7632.ts
-#EXTINF:0,SP: Canal 7 HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7631.ts
-#EXTINF:0,SP: Canal Cocina
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7629.ts
-#EXTINF:0,SP: Canal Costa
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7628.ts
-#EXTINF:0,SP: Canal De Las Estrellas
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7627.ts
-#EXTINF:0,SP: Canal+ Liga
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7715.ts
-#EXTINF:0,SP: Caza Y Pesca HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7688.ts
-#EXTINF:0,SP: Clan TVE
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7720.ts
-#EXTINF:0,SP: Comedy Central HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/13710.ts
-#EXTINF:0,SP: Comedy Central.
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7687.ts
-#EXTINF:0,SP: Cosmo
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7621.ts
-#EXTINF:0,SP: Cosmo HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/13704.ts
-#EXTINF:0,SP: Crime + Investigation
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/13004.ts
-#EXTINF:0,SP: CUATRO HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15411.ts
-#EXTINF:0,SP: Cuatro.
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7686.ts
-#EXTINF:0,SP: Discovery Channel
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7620.ts
-#EXTINF:0,SP: Disney Channel
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7684.ts
-#EXTINF:0,SP: Disney Channel HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15910.ts
-#EXTINF:0,SP: Disney Jr.
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7683.ts
-#EXTINF:0,SP: DISNEY XD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7682.ts
-#EXTINF:0,SP: DIVINITY
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7714.ts
-#EXTINF:0,SP: Energy
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7681.ts
-#EXTINF:0,SP: Eurosport 1
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7680.ts
-#EXTINF:0,SP: Eurosport 1 HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15439.ts
-#EXTINF:0,SP: Eurosport 2
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15475.ts
-#EXTINF:0,SP: Fdf
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7679.ts
-#EXTINF:0,SP: FOX FHD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7643.ts
-#EXTINF:0,SP: FOX LIFE
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7677.ts
-#EXTINF:0,SP: Fox Life HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/13711.ts
-#EXTINF:0,SP: Fox.
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7678.ts
-#EXTINF:0,SP: Gol TV
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7702.ts
-#EXTINF:0,SP: HISTORIA
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7676.ts
-#EXTINF:0,SP: Hollywood FHD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7689.ts
-#EXTINF:0,SP: IBERALIA TV
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15425.ts
-#EXTINF:0,SP: LA 1
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15907.ts
-#EXTINF:0,SP: LA 1 HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7661.ts
-#EXTINF:0,SP: LA 2
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7660.ts
-#EXTINF:0,SP: LA LIGA
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15441.ts
-#EXTINF:0,SP: LA LIGA BAR TV 1
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15430.ts
-#EXTINF:0,SP: LA LIGA HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15428.ts
-#EXTINF:0,SP: LA LIGA TV 1 SD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15442.ts
-#EXTINF:0,SP: LA LIGA TV 2 SD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15443.ts
-#EXTINF:0,SP: LA LIGA TV 3 SD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15444.ts
-#EXTINF:0,SP: LA LIGA TV 4 SD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15445.ts
-#EXTINF:0,SP: LA LIGA TV 5 SD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15446.ts
-#EXTINF:0,SP: LA LIGA TV 6 SD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15447.ts
-#EXTINF:0,SP: LA LIGA TV 7 SD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15448.ts
-#EXTINF:0,SP: LA LIGA TV 8 SD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15449.ts
-#EXTINF:0,SP: La Liga TV Bar
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/13006.ts
-#EXTINF:0,SP: LA LIGA TV BAR HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15429.ts
-#EXTINF:0,SP: La Sexta
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15909.ts
-#EXTINF:0,SP: La Sexta HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7674.ts
-#EXTINF:0,SP: M.  FUTBOL FHD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15433.ts
-#EXTINF:0,SP: M. Accion
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7698.ts
-#EXTINF:0,SP: M. ACCION HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15415.ts
-#EXTINF:0,SP: M. Comedia
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7697.ts
-#EXTINF:0,SP: M. COMEDIA FHD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15416.ts
-#EXTINF:0,SP: M. Dcine
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7652.ts
-#EXTINF:0,SP: M. DCINE HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15417.ts
-#EXTINF:0,SP: M. DEPORTES 1 HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15434.ts
-#EXTINF:0,SP: M. Deportes 2
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/12545.ts
-#EXTINF:0,SP: M. DEPORTES 2 HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15435.ts
-#EXTINF:0,SP: M. Depotes 1
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/13009.ts
-#EXTINF:0,SP: M. ESTRENOS FHD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15414.ts
-#EXTINF:0,SP: M. Formula 1
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7617.ts
-#EXTINF:0,SP: M. Formula 1 HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15437.ts
-#EXTINF:0,SP: M. Futbol
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/13008.ts
-#EXTINF:0,SP: M. GOLF
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/13010.ts
-#EXTINF:0,SP: M. GOLF HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15436.ts
-#EXTINF:0,SP: M. MotoGp HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7616.ts
-#EXTINF:0,SP: M. PARTIDAZO HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15431.ts
-#EXTINF:0,SP: M. Series
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7691.ts
-#EXTINF:0,SP: M. SERIES HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15419.ts
-#EXTINF:0,SP: M. Series Xtra
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7690.ts
-#EXTINF:0,SP: M. SERIES XTRA HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15420.ts
-#EXTINF:0,SP: M. XTRA
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7649.ts
-#EXTINF:0,SP: M. XTRA FHD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15418.ts
-#EXTINF:0,SP: M.Estrenos
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7703.ts
-#EXTINF:0,SP: Mega Tv HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7713.ts
-#EXTINF:0,SP: MTV Espana
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/12535.ts
-#EXTINF:0,SP: MULTIDEPORTES 1
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15461.ts
-#EXTINF:0,SP: MULTIDEPORTES 2
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15462.ts
-#EXTINF:0,SP: MULTIDEPORTES 3
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15463.ts
-#EXTINF:0,SP: MULTIDEPORTES 4
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15464.ts
-#EXTINF:0,SP: National Geo
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7671.ts
-#EXTINF:0,SP: National Geo HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/13706.ts
-#EXTINF:0,SP: National Geo Wild
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7672.ts
-#EXTINF:0,SP: National Geo Wild HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/13707.ts
-#EXTINF:0,SP: Neox
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/14970.ts
-#EXTINF:0,SP: Nick Jr.
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7670.ts
-#EXTINF:0,SP: NICKELODEON HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7669.ts
-#EXTINF:0,SP: NON STOP PEOPLE
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15427.ts
-#EXTINF:0,SP: NOVA
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7668.ts
-#EXTINF:0,SP: PARAMOUNT
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7716.ts
-#EXTINF:0,SP: Proyecto 40
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7667.ts
-#EXTINF:0,SP: Real Madrid
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7614.ts
-#EXTINF:0,SP: Sol Musica
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7721.ts
-#EXTINF:0,SP: SYFY
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7666.ts
-#EXTINF:0,SP: SYFY HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7594.ts
-#EXTINF:0,SP: Taquilla 1
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7612.ts
-#EXTINF:0,SP: Taquilla 10
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7611.ts
-#EXTINF:0,SP: Taquilla 2
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7610.ts
-#EXTINF:0,SP: Taquilla 3
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7609.ts
-#EXTINF:0,SP: Taquilla 4
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7608.ts
-#EXTINF:0,SP: Taquilla 5
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7607.ts
-#EXTINF:0,SP: Taquilla 6
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7606.ts
-#EXTINF:0,SP: Taquilla 7
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7605.ts
-#EXTINF:0,SP: Taquilla 8
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7604.ts
-#EXTINF:0,SP: Taquilla 9
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7603.ts
-#EXTINF:0,SP: TCM
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7665.ts
-#EXTINF:0,SP: TCM HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15423.ts
-#EXTINF:0,SP: TELECINCO
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/10008.ts
-#EXTINF:0,SP: TELECINCO FHD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15412.ts
-#EXTINF:0,SP: Teledeporte
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7658.ts
-#EXTINF:0,SP: TELEVISA HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7657.ts
-#EXTINF:0,SP: TNT
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7663.ts
-#EXTINF:0,SP: TNT HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15422.ts
-#EXTINF:0,SP: TOROS HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15424.ts
-#EXTINF:0,SP: Toros Tv
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7701.ts
-#EXTINF:0,SP: TV Galicia
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7601.ts
-#EXTINF:0,SP: VH1
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/7591.ts
-#EXTINF:0,SP: Viajar HD
-http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/12542.ts
-#EXTINF:0,ES-BEINLIGA-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/10044.ts
-#EXTINF:0,ES-BEINSPORT-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/10043.ts
-#EXTINF:0,ES-BOX-NATION-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/10052.ts
-#EXTINF:0,ES-CINEMAX-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/10049.ts
-#EXTINF:0,ES-CUATRO-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/10042.ts
-#EXTINF:0,ES-DKISS-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/10046.ts
-#EXTINF:0,ES-MEGA-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/10048.ts
-#EXTINF:0,ES-sexta-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/10045.ts
-#EXTINF:0,ES-TELEMUNDO-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/10051.ts
-#EXTINF:0,ES-TRES-SERIES-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/10047.ts
-#EXTINF:0,ES-univision-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/10050.ts
-#EXTINF:0,ES-PARAMOUNT
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/6883.ts
-#EXTINF:0,ES-laliga
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4557.ts
-#EXTINF:0,ES-FUTBUL
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4558.ts
-#EXTINF:0,ES-TAQUILLA-9-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4162.ts
-#EXTINF:0,ES-TAQUILLA-8-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4161.ts
-#EXTINF:0,ES-TAQUILLA-7-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4160.ts
-#EXTINF:0,ES-TAQUILLA-6-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4159.ts
-#EXTINF:0,ES-TAQUILLA-5-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4158.ts
-#EXTINF:0,ES-TAQUILLA-4-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4157.ts
-#EXTINF:0,ESP-TAQUILLA-3-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4156.ts
-#EXTINF:0,ES-TAQUILLA-2-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4155.ts
-#EXTINF:0,ES-TAQUILLA-10-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4163.ts
-#EXTINF:0,ES-TAQUILLA-1-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4154.ts
-#EXTINF:0,ES-24-Horas
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4286.ts
-#EXTINF:0,ES-A&E
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4285.ts
-#EXTINF:0,ES-Accion-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4284.ts
-#EXTINF:0,ES-AMC
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4283.ts
-#EXTINF:0,ES-Baby-TV
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4243.ts
-#EXTINF:0,ES-Boing
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4242.ts
-#EXTINF:0,ES-Canal-Cocina
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4282.ts
-#EXTINF:0,ES-Canal-Decasa
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4281.ts
-#EXTINF:0,ES-Canal-Odisea
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4280.ts
-#EXTINF:0,ES-Caza-Pesca
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4279.ts
-#EXTINF:0,ES-Clan-TVE
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4278.ts
-#EXTINF:0,ES-Comedia
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4277.ts
-#EXTINF:0,ES-Comedy-Central
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4276.ts
-#EXTINF:0,ES-Cosmo
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4275.ts
-#EXTINF:0,ES-Crimen-Inves
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4274.ts
-#EXTINF:0,ES-Dcine-Espanol
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4273.ts
-#EXTINF:0,ES-Dcine-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4272.ts
-#EXTINF:0,ES-Deportes
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4271.ts
-#EXTINF:0,ES-Disney-Junior
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4270.ts
-#EXTINF:0,ES-Disney-XD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4269.ts
-#EXTINF:0,ES-Divinity
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4241.ts
-#EXTINF:0,ES-Energy-TV
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4240.ts
-#EXTINF:0,ES-Estrenos
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4268.ts
-#EXTINF:0,ES-Eurosport-1
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4267.ts
-#EXTINF:0,ES-F.TBOL-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4266.ts
-#EXTINF:0,ES-FDF
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4265.ts
-#EXTINF:0,ES-Fox-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4264.ts
-#EXTINF:0,ES-Fox-News
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4263.ts
-#EXTINF:0,ES-Golf
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4262.ts
-#EXTINF:0,ES-Hollywood
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4261.ts
-#EXTINF:0,ES-Iberalia-TV
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4260.ts
-#EXTINF:0,ES-La-Sexta
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4259.ts
-#EXTINF:0,ES-La2
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4257.ts
-#EXTINF:0,ES-Los40
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4256.ts
-#EXTINF:0,ES-LTC
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4238.ts
-#EXTINF:0,ES-Moto-GP
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4255.ts
-#EXTINF:0,ES-MTV-Espana
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4237.ts
-#EXTINF:0,ES-Nat-Geo-Wild
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4254.ts
-#EXTINF:0,ES-Nonstopeople
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4253.ts
-#EXTINF:0,ES-Nova
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4252.ts
-#EXTINF:0,ES-Series-Xtra
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4251.ts
-#EXTINF:0,ES-SyFy
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4250.ts
-#EXTINF:0,ES-TCM
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4249.ts
-#EXTINF:0,ES-Telecinco
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4248.ts
-#EXTINF:0,ES-Teledeporte
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4247.ts
-#EXTINF:0,ES-TNT
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4246.ts
-#EXTINF:0,ES-Viajar
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4245.ts
-#EXTINF:0,ES-Xtra
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/4244.ts
-#EXTINF:0,ES-NAT-GEO
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/3182.ts
-#EXTINF:0,ES-Moviestar-F1
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/3183.ts
-#EXTINF:0,ES-FOX-Life
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/3184.ts
-#EXTINF:0,ES-FOX
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/3185.ts
-#EXTINF:0,ES-Canal-Toros
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/3186.ts
-#EXTINF:0,ES-Canal-Plus-Liga
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/3187.ts
-#EXTINF:0,ES-Canal-Plus-Futbol
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/3189.ts
-#EXTINF:0,ES-Canal-Plus-Decasa
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/3190.ts
-#EXTINF:0,ES-Canal-Plus-DCine
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/3191.ts
-#EXTINF:0,ES-Canal-Plus-Comedia
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/3192.ts
-#EXTINF:0,ES-Canal-Plus-COCINA
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/3193.ts
-#EXTINF:0,ES-Canal-Plus-Accion
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/3194.ts
-#EXTINF:0,ES-Canal-Plus-1
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/3196.ts
-#EXTINF:0,ES-Canal--DEPORTES
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/3197.ts
-#EXTINF:0,ES-Calle-13
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/3198.ts
-#EXTINF:0,ES-Barca-TV
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/3200.ts
-#EXTINF:0,ES-AXN-White
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/3201.ts
-#EXTINF:0,ES-Real-Madrid-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/6054.ts
-#EXTINF:0,ES-Discovery
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/2257.ts
-#EXTINF:0,ES-Canal-DCine
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/2258.ts
-#EXTINF:0,ES-CANAL-ACCION-HD
-http://casaiptv.com:7777/live/simohammed00/simohammed123456/2253.ts
-#EXTINF:0,ES: #O
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22520.ts
-#EXTINF:0,ES: 40 TV
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22519.ts
-#EXTINF:0,ES: A&E
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22518.ts
-#EXTINF:0,ES: AMC
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22517.ts
-#EXTINF:0,ES: AMC HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22516.ts
+#EXTINF:0,24/7: The Simpsons HD
+http://104.245.96.214:8000/live/negro/negro/836.ts
+#EXTINF:0,24/7: The Simpsons 2
+http://104.245.96.214:8000/live/negro/negro/869.ts
+#EXTINF:0,24/7: Two and half men
+http://104.245.96.214:8000/live/negro/negro/858.ts
+#EXTINF:0,24/7: Cantinflas
+http://104.245.96.214:8000/live/negro/negro/990.ts
+#EXTINF:0,24/7: Peliculas 2
+http://104.245.96.214:8000/live/negro/negro/854.ts
+#EXTINF:0,24/7: Terror
+http://104.245.96.214:8000/live/negro/negro/855.ts
+#EXTINF:0,24/7: Shin Chan
+http://104.245.96.214:8000/live/negro/negro/879.ts
+#EXTINF:0,24/7: Un hogar casi perfecto - 3X3 (2016)
+http://104.245.96.214:8000/live/negro/negro/1000.ts
+#EXTINF:0,24/7: Dragon Ball Super
+http://104.245.96.214:8000/live/negro/negro/985.ts
+#EXTINF:0,24/7: Pinky y cerebro
+http://104.245.96.214:8000/live/negro/negro/982.ts
+#EXTINF:0,24/7: Robotech
+http://104.245.96.214:8000/live/negro/negro/983.ts
+#EXTINF:0,24/7: The Big Bang Theory
+http://104.245.96.214:8000/live/negro/negro/984.ts
+#EXTINF:0,24/7: Bob Esponja SD
+http://104.245.96.214:8000/live/negro/negro/853.ts
+#EXTINF:0,24/7: Canal Disney  HD
+http://104.245.96.214:8000/live/negro/negro/852.ts
+#EXTINF:0,24/7: Dragon Ball HD
+http://104.245.96.214:8000/live/negro/negro/851.ts
+#EXTINF:0,24/7: Dragon Ball Z HD
+http://104.245.96.214:8000/live/negro/negro/850.ts
+#EXTINF:0,24/7: Doctor House
+http://104.245.96.214:8000/live/negro/negro/1123.ts
+#EXTINF:0,24/7: El principe del rap
+http://104.245.96.214:8000/live/negro/negro/1125.ts
+#EXTINF:0,24/7: El Chapulín Colorado SD
+http://104.245.96.214:8000/live/negro/negro/849.ts
+#EXTINF:0,24/7: El Chavo del Ocho SD
+http://104.245.96.214:8000/live/negro/negro/848.ts
+#EXTINF:0,24/7: Family Guy HD
+http://104.245.96.214:8000/live/negro/negro/847.ts
+#EXTINF:0,24/7: Futurama HD
+http://104.245.96.214:8000/live/negro/negro/846.ts
+#EXTINF:0,24/7: Garfield
+http://104.245.96.214:8000/live/negro/negro/1122.ts
+#EXTINF:0,24/7: Los caballeros del Zodiaco  HD
+http://104.245.96.214:8000/live/negro/negro/845.ts
+#EXTINF:0,24/7: MacGyver SD
+http://104.245.96.214:8000/live/negro/negro/834.ts
+#EXTINF:0,24/7: Malcolm  SD
+http://104.245.96.214:8000/live/negro/negro/844.ts
+#EXTINF:0,24/7: Mr. Bean SD
+http://104.245.96.214:8000/live/negro/negro/843.ts
+#EXTINF:0,24/7: Patoaventuras SD
+http://104.245.96.214:8000/live/negro/negro/842.ts
+#EXTINF:0,24/7: Pocoyó SD
+http://104.245.96.214:8000/live/negro/negro/841.ts
+#EXTINF:0,24/7: Ranma ½ HD
+http://104.245.96.214:8000/live/negro/negro/840.ts
+#EXTINF:0,24/7: Scooby-Doo HD
+http://104.245.96.214:8000/live/negro/negro/839.ts
+#EXTINF:0,24/7: South Park  HD
+http://104.245.96.214:8000/live/negro/negro/838.ts
+#EXTINF:0,24/7: Súper Campeones SD
+http://104.245.96.214:8000/live/negro/negro/837.ts
+#EXTINF:0,24/7: Slam Dunk
+http://104.245.96.214:8000/live/negro/negro/1124.ts
+#EXTINF:0,24/7: WWE 24/7 HD
+http://104.245.96.214:8000/live/negro/negro/835.ts
+#EXTINF:0,A&E
+http://104.245.96.214:8000/live/negro/negro/21.ts
+#EXTINF:0,AMC
+http://104.245.96.214:8000/live/negro/negro/75.ts
+#EXTINF:0,AMC SD
+http://104.245.96.214:8000/live/negro/negro/80.ts
+#EXTINF:0,Animal Planet
+http://104.245.96.214:8000/live/negro/negro/57.ts
+#EXTINF:0,AR: America TV
+http://104.245.96.214:8000/live/negro/negro/136.ts
+#EXTINF:0,AR: C5N
+http://104.245.96.214:8000/live/negro/negro/254.ts
+#EXTINF:0,AR: Canal 26
+http://104.245.96.214:8000/live/negro/negro/255.ts
+#EXTINF:0,AR: Canal 9
+http://104.245.96.214:8000/live/negro/negro/273.ts
+#EXTINF:0,AR: El Trece
+http://104.245.96.214:8000/live/negro/negro/252.ts
+#EXTINF:0,AR: TELEFE
+http://104.245.96.214:8000/live/negro/negro/117.ts
+#EXTINF:0,AR: TN
+http://104.245.96.214:8000/live/negro/negro/253.ts
+#EXTINF:0,AR: TV Publica
+http://104.245.96.214:8000/live/negro/negro/134.ts
+#EXTINF:0,AR: TYC Sports
+http://104.245.96.214:8000/live/negro/negro/232.ts
+#EXTINF:0,AXN
+http://104.245.96.214:8000/live/negro/negro/152.ts
+#EXTINF:0,AYM Sports
+http://104.245.96.214:8000/live/negro/negro/91.ts
+#EXTINF:0,AZCinema
+http://104.245.96.214:8000/live/negro/negro/192.ts
+#EXTINF:0,AzCorazon
+http://104.245.96.214:8000/live/negro/negro/7.ts
+#EXTINF:0,Azteca Siete
+http://104.245.96.214:8000/live/negro/negro/5.ts
+#EXTINF:0,Azteca Trece
+http://104.245.96.214:8000/live/negro/negro/6.ts
+#EXTINF:0,Bandamax
+http://104.245.96.214:8000/live/negro/negro/100.ts
+#EXTINF:0,Bein Sports Ñ
+http://104.245.96.214:8000/live/negro/negro/144.ts
+#EXTINF:0,BEIN Sports 1
+http://104.245.96.214:8000/live/negro/negro/215.ts
+#EXTINF:0,BEIN Sports 2
+http://104.245.96.214:8000/live/negro/negro/216.ts
+#EXTINF:0,BEIN Sports 3
+http://104.245.96.214:8000/live/negro/negro/217.ts
+#EXTINF:0,BEIN Sports 4
+http://104.245.96.214:8000/live/negro/negro/218.ts
+#EXTINF:0,BEIN Sports 5
+http://104.245.96.214:8000/live/negro/negro/219.ts
+#EXTINF:0,BEIN Sports 6
+http://104.245.96.214:8000/live/negro/negro/220.ts
+#EXTINF:0,BEIN Sports 7
+http://104.245.96.214:8000/live/negro/negro/221.ts
+#EXTINF:0,BEIN Sports 8
+http://104.245.96.214:8000/live/negro/negro/222.ts
+#EXTINF:0,BEIN Sports 9
+http://104.245.96.214:8000/live/negro/negro/223.ts
+#EXTINF:0,BEIN Sports 10
+http://104.245.96.214:8000/live/negro/negro/224.ts
+#EXTINF:0,BEIN Sports 11
+http://104.245.96.214:8000/live/negro/negro/225.ts
+#EXTINF:0,BEIN Sports 12
+http://104.245.96.214:8000/live/negro/negro/226.ts
+#EXTINF:0,Boomerang
+http://104.245.96.214:8000/live/negro/negro/49.ts
+#EXTINF:0,Canal 5
+http://104.245.96.214:8000/live/negro/negro/8.ts
+#EXTINF:0,Canal Formula 1
+http://104.245.96.214:8000/live/negro/negro/209.ts
+#EXTINF:0,Canal El Gourmet
+http://104.245.96.214:8000/live/negro/negro/33.ts
+#EXTINF:0,Canal Once
+http://104.245.96.214:8000/live/negro/negro/12.ts
+#EXTINF:0,Cartoon Network
+http://104.245.96.214:8000/live/negro/negro/47.ts
+#EXTINF:0,Baby TV
+http://104.245.96.214:8000/live/negro/negro/40.ts
+#EXTINF:0,Cinecanal
+http://104.245.96.214:8000/live/negro/negro/77.ts
+#EXTINF:0,Cinecanal 2
+http://104.245.96.214:8000/live/negro/negro/70.ts
+#EXTINF:0,Cinemax
+http://104.245.96.214:8000/live/negro/negro/78.ts
+#EXTINF:0,CL: 13 CABLE
+http://104.245.96.214:8000/live/negro/negro/107.ts
+#EXTINF:0,CL: CANAL13
+http://104.245.96.214:8000/live/negro/negro/103.ts
+#EXTINF:0,CL: CANAL13 HD
+http://104.245.96.214:8000/live/negro/negro/110.ts
+#EXTINF:0,CL: CHV HD
+http://104.245.96.214:8000/live/negro/negro/106.ts
+#EXTINF:0,CL: CDO
+http://104.245.96.214:8000/live/negro/negro/2133.ts
+#EXTINF:0,CL: CDF Basico
+http://104.245.96.214:8000/live/negro/negro/505.ts
+#EXTINF:0,CL: CDF Premium op1
+http://104.245.96.214:8000/live/negro/negro/988.ts
+#EXTINF:0,CL: CDF PREMIUN
+http://104.245.96.214:8000/live/negro/negro/109.ts
+#EXTINF:0,CL: CDF HD
+http://104.245.96.214:8000/live/negro/negro/2087.ts
+#EXTINF:0,CL: CDF FULL HD
+http://104.245.96.214:8000/live/negro/negro/490.ts
+#EXTINF:0,CL: Estadio CDF HD
+http://104.245.96.214:8000/live/negro/negro/261.ts
+#EXTINF:0,CL: ETC TV
+http://104.245.96.214:8000/live/negro/negro/971.ts
+#EXTINF:0,CL: FOX Sports Chile HD
+http://104.245.96.214:8000/live/negro/negro/881.ts
+#EXTINF:0,CL: LA RED
+http://104.245.96.214:8000/live/negro/negro/108.ts
+#EXTINF:0,CL: MEGA
+http://104.245.96.214:8000/live/negro/negro/102.ts
+#EXTINF:0,CL: MEGA HD
+http://104.245.96.214:8000/live/negro/negro/105.ts
+#EXTINF:0,CL: Teletrak
+http://104.245.96.214:8000/live/negro/negro/279.ts
+#EXTINF:0,CL: TVN HD
+http://104.245.96.214:8000/live/negro/negro/104.ts
+#EXTINF:0,CL: TVN 24 Horas
+http://104.245.96.214:8000/live/negro/negro/970.ts
+#EXTINF:0,CL: UCV
+http://104.245.96.214:8000/live/negro/negro/241.ts
+#EXTINF:0,Claro Sports
+http://104.245.96.214:8000/live/negro/negro/258.ts
+#EXTINF:0,CNN CHILE
+http://104.245.96.214:8000/live/negro/negro/118.ts
+#EXTINF:0,CO: Caracol
+http://104.245.96.214:8000/live/negro/negro/236.ts
+#EXTINF:0,CO: Caracol 2
+http://104.245.96.214:8000/live/negro/negro/257.ts
+#EXTINF:0,CO: Caracol Internacional
+http://104.245.96.214:8000/live/negro/negro/119.ts
+#EXTINF:0,CO: City TV
+http://104.245.96.214:8000/live/negro/negro/262.ts
+#EXTINF:0,CO: RCN
+http://104.245.96.214:8000/live/negro/negro/141.ts
+#EXTINF:0,CO: RCN HD2
+http://104.245.96.214:8000/live/negro/negro/256.ts
+#EXTINF:0,CO: TRECE COLOMBIA
+http://104.245.96.214:8000/live/negro/negro/142.ts
+#EXTINF:0,CO: WINSPORT
+http://104.245.96.214:8000/live/negro/negro/120.ts
+#EXTINF:0,Comedy Central
+http://104.245.96.214:8000/live/negro/negro/23.ts
+#EXTINF:0,CR: Repretel11
+http://104.245.96.214:8000/live/negro/negro/288.ts
+#EXTINF:0,CR: Repretel4
+http://104.245.96.214:8000/live/negro/negro/289.ts
+#EXTINF:0,CR: Repretel6
+http://104.245.96.214:8000/live/negro/negro/290.ts
+#EXTINF:0,De Pelicula
+http://104.245.96.214:8000/live/negro/negro/74.ts
+#EXTINF:0,Directv Sports
+http://104.245.96.214:8000/live/negro/negro/135.ts
+#EXTINF:0,Campeonato EC (solo eventos)
+http://104.245.96.214:8000/live/negro/negro/874.ts
+#EXTINF:0,Campeonato EC 2 (solo eventos)
+http://104.245.96.214:8000/live/negro/negro/962.ts
+#EXTINF:0,Discovery Channel
+http://104.245.96.214:8000/live/negro/negro/56.ts
+#EXTINF:0,Discovery Civilization
+http://104.245.96.214:8000/live/negro/negro/62.ts
+#EXTINF:0,Discovery Home & Health
+http://104.245.96.214:8000/live/negro/negro/58.ts
+#EXTINF:0,Discovery Kids
+http://104.245.96.214:8000/live/negro/negro/39.ts
+#EXTINF:0,Discovery Science
+http://104.245.96.214:8000/live/negro/negro/61.ts
+#EXTINF:0,Discovery Theater
+http://104.245.96.214:8000/live/negro/negro/52.ts
+#EXTINF:0,Discovery Turbo
+http://104.245.96.214:8000/live/negro/negro/63.ts
+#EXTINF:0,Discovery World
+http://104.245.96.214:8000/live/negro/negro/55.ts
+#EXTINF:0,Disney Channel
+http://104.245.96.214:8000/live/negro/negro/43.ts
+#EXTINF:0,Disney Junior
+http://104.245.96.214:8000/live/negro/negro/41.ts
+#EXTINF:0,Disney XD
+http://104.245.96.214:8000/live/negro/negro/48.ts
+#EXTINF:0,Distrito Comedia
+http://104.245.96.214:8000/live/negro/negro/36.ts
+#EXTINF:0,DW Latinoamerica
+http://104.245.96.214:8000/live/negro/negro/251.ts
+#EXTINF:0,E!
+http://104.245.96.214:8000/live/negro/negro/27.ts
+#EXTINF:0,EC: CNT Sports
+http://104.245.96.214:8000/live/negro/negro/989.ts
+#EXTINF:0,EC: CNT Sports op2
+http://104.245.96.214:8000/live/negro/negro/350.ts
+#EXTINF:0,EC: Ecuavisa
+http://104.245.96.214:8000/live/negro/negro/974.ts
+#EXTINF:0,EC: Ecuavisa op2
+http://104.245.96.214:8000/live/negro/negro/128.ts
+#EXTINF:0,EC: RTS Ecuador
+http://104.245.96.214:8000/live/negro/negro/138.ts
+#EXTINF:0,EC: Teleamazonas
+http://104.245.96.214:8000/live/negro/negro/977.ts
+#EXTINF:0,EC: Teleamazonas op2
+http://104.245.96.214:8000/live/negro/negro/129.ts
+#EXTINF:0,EC: Ecuador TV
+http://104.245.96.214:8000/live/negro/negro/131.ts
+#EXTINF:0,EC: GamaTV
+http://104.245.96.214:8000/live/negro/negro/978.ts
+#EXTINF:0,EC: GamaTV op2
+http://104.245.96.214:8000/live/negro/negro/132.ts
+#EXTINF:0,EC: TC Television
+http://104.245.96.214:8000/live/negro/negro/976.ts
+#EXTINF:0,EC: TC Television op2
+http://104.245.96.214:8000/live/negro/negro/130.ts
+#EXTINF:0,EC: Canal UNO
+http://104.245.96.214:8000/live/negro/negro/133.ts
+#EXTINF:0,EC: OromarTV
+http://104.245.96.214:8000/live/negro/negro/137.ts
 #EXTINF:0,ES: ANDALUCIA TV
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22515.ts
-#EXTINF:0,ES: Antena 3
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22514.ts
-#EXTINF:0,ES: Antena 3 HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22513.ts
-#EXTINF:0,ES: AXN
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22512.ts
-#EXTINF:0,ES: AXN WHITE
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22511.ts
-#EXTINF:0,ES: BEIN La Liga HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22510.ts
-#EXTINF:0,ES: BEIN SPORTS SPAIN HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22509.ts
-#EXTINF:0,ES: BOING
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22508.ts
-#EXTINF:0,ES: CALLE 13
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22507.ts
-#EXTINF:0,ES: COCINA
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22506.ts
-#EXTINF:0,ES: COMEDY CENTRAL
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22505.ts
-#EXTINF:0,ES: COSMO
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22504.ts
-#EXTINF:0,ES: CRIMEN INVESTIGACION
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22503.ts
-#EXTINF:0,ES: CUATRO
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22502.ts
-#EXTINF:0,ES: DISCOVERY CHANNEL
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22501.ts
-#EXTINF:0,ES: DISNEY CHANNEL
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22500.ts
-#EXTINF:0,ES: DISNEY JUNIOR
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22499.ts
-#EXTINF:0,ES: DISNEY XD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22498.ts
-#EXTINF:0,ES: DIVINITY
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22497.ts
-#EXTINF:0,ES: ENERGY
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22496.ts
-#EXTINF:0,ES: FDF
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22495.ts
-#EXTINF:0,ES: FOX
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22494.ts
-#EXTINF:0,ES: FOX LIFE
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22493.ts
-#EXTINF:0,ES: GOL
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22492.ts
-#EXTINF:0,ES: HISTORIA
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22491.ts
-#EXTINF:0,ES: HOLLYWOOD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22490.ts
-#EXTINF:0,ES: HOLLYWOOD HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22489.ts
+http://104.245.96.214:8000/live/negro/negro/315.ts
 #EXTINF:0,ES: LA 1
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22488.ts
+http://104.245.96.214:8000/live/negro/negro/337.ts
 #EXTINF:0,ES: LA 2
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22487.ts
-#EXTINF:0,ES: La Sexta
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22486.ts
-#EXTINF:0,ES: LA SEXTA HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22485.ts
-#EXTINF:0,ES: LALIGA HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22484.ts
-#EXTINF:0,ES: LaLigaTV BAR
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22483.ts
-#EXTINF:0,ES: M. ACCI
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22482.ts
-#EXTINF:0,ES: M. DCINE HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22481.ts
-#EXTINF:0,ES: M. F.TBOL HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22480.ts
-#EXTINF:0,ES: M20
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22479.ts
-#EXTINF:0,ES: M6 MUSIC
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22478.ts
-#EXTINF:0,ES: Mega
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22477.ts
-#EXTINF:0,ES: MOVISTAR  DEPORTES 1
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22476.ts
-#EXTINF:0,ES: MOVISTAR ACCION HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22475.ts
-#EXTINF:0,ES: MOVISTAR COMEDIA
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22474.ts
-#EXTINF:0,ES: MOVISTAR DCINE
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22473.ts
-#EXTINF:0,ES: MOVISTAR DEPORTES 2
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22472.ts
-#EXTINF:0,ES: MOVISTAR ESTRENOS
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22471.ts
-#EXTINF:0,ES: Movistar F1
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22470.ts
-#EXTINF:0,ES: MOVISTAR FUTBOL HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22469.ts
-#EXTINF:0,ES: MOVISTAR GOLF
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22468.ts
-#EXTINF:0,ES: MOVISTAR MOTO GP
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22467.ts
-#EXTINF:0,ES: MOVISTAR PARTIDAZO HD (Solo Eventos)
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22466.ts
-#EXTINF:0,ES: MOVISTAR PARTIDAZO HD OP2  (Solo Eventos)
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22465.ts
-#EXTINF:0,ES: MOVISTAR SERIES
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22464.ts
-#EXTINF:0,ES: MOVISTAR SERIES XTRA
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22463.ts
-#EXTINF:0,ES: MOVISTAR XTRA
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22462.ts
-#EXTINF:0,ES: NAT GEO
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22461.ts
-#EXTINF:0,ES: NAT GEO WILD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22460.ts
-#EXTINF:0,ES: NEOX
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22459.ts
-#EXTINF:0,ES: NICKELODEON
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22458.ts
-#EXTINF:0,ES: NON STOP PEOPLE
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22457.ts
-#EXTINF:0,ES: NOVA
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22456.ts
-#EXTINF:0,ES: ODISEA HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22455.ts
-#EXTINF:0,ES: PANDA
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22454.ts
-#EXTINF:0,ES: PARAMOUNT
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22453.ts
-#EXTINF:0,ES: Real Madrid TV
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22452.ts
-#EXTINF:0,ES: SYFY
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22451.ts
-#EXTINF:0,ES: TCM
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22450.ts
-#EXTINF:0,ES: TELECINCO
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22449.ts
-#EXTINF:0,ES: TELEDEPORTE
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22448.ts
-#EXTINF:0,ES: TNT
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22447.ts
-#EXTINF:0,ES: TOROSTV HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22446.ts
-#EXTINF:0,ES: VH1
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22445.ts
-#EXTINF:0,ES: VIAJAR
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22444.ts
-#EXTINF:0,ES: VIRGIN TV
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22443.ts
-#EXTINF:0,ESP A1HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22442.ts
-#EXTINF:0,ESP AMC HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22441.ts
-#EXTINF:0,ESP ANTENA 3 HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22440.ts
-#EXTINF:0,ESP BEIN LALIGA
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22439.ts
-#EXTINF:0,ESP CUATRO HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22438.ts
-#EXTINF:0,ESP FOX HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22437.ts
-#EXTINF:0,ESP HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22436.ts
-#EXTINF:0,ESP HOLLYWOODHD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22435.ts
-#EXTINF:0,ESP LA SEXTA HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22434.ts
-#EXTINF:0,ESP M.  HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22433.ts
-#EXTINF:0,ESP M. ACCI
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22432.ts
-#EXTINF:0,ESP M. DCINE HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22431.ts
-#EXTINF:0,ESP TELECINCO HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22430.ts
-#EXTINF:0,Es :Crimen Investigation
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14930.ts
-#EXTINF:0,ES: C   Accion
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14939.ts
-#EXTINF:0,ES: C  Cocina
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14938.ts
-#EXTINF:0,ES: C  Comedia
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14937.ts
-#EXTINF:0,ES: C  DCine
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14936.ts
-#EXTINF:0,ES: C  Deportes
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14934.ts
-#EXTINF:0,ES: C  Disney XD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14925.ts
-#EXTINF:0,ES: C  Estrenos
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14935.ts
-#EXTINF:0,ES: C  Fox Life
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14931.ts
-#EXTINF:0,ES: C  Futbol
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14922.ts
-#EXTINF:0,ES: C  Golf
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14918.ts
-#EXTINF:0,ES: C  Historia
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14927.ts
-#EXTINF:0,ES: C  Hollywood HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14932.ts
-#EXTINF:0,ES: C  Liga
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14923.ts
-#EXTINF:0,ES: C  Nat Geo Wild
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14928.ts
-#EXTINF:0,ES: C  Toros
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14919.ts
-#EXTINF:0,ES: C  Xtra
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14933.ts
-#EXTINF:0,ES: LA1
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14941.ts
-#EXTINF:0,ES: LA2
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14940.ts
-#EXTINF:0,ES: Realmadrid tv
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14920.ts
-#EXTINF:0,ES:Barca tv
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14921.ts
-#EXTINF:0,ES:C   Disney Junior
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14926.ts
-#EXTINF:0,ES:C  National Geographic
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14929.ts
-#EXTINF:0,ES:Movistar Motogp
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14924.ts
-#EXTINF:0,13 TV
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14098.ts
-#EXTINF:0,24/7 Gravity Falls (VOD)
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14049.ts
-#EXTINF:0,7 TV Murcia
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14100.ts
-#EXTINF:0,8 TV
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14099.ts
-#EXTINF:0,AMC [NoKodi]
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14097.ts
-#EXTINF:0,Andalucia TV
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14096.ts
-#EXTINF:0,Andorra TV
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14102.ts
-#EXTINF:0,Antena 3 Intl.
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14095.ts
-#EXTINF:0,Aragon TV
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14094.ts
-#EXTINF:0,Atreseries
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14093.ts
-#EXTINF:0,AXN [NoKodi]
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14092.ts
-#EXTINF:0,Azteca
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14047.ts
-#EXTINF:0,beIN Sports [NoKodi]
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14091.ts
-#EXTINF:0,Betis TV
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14090.ts
-#EXTINF:0,Canal Andalucia Turismo
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14089.ts
-#EXTINF:0,Canal Claro
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14043.ts
-#EXTINF:0,Canal Extremadura
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14088.ts
-#EXTINF:0,Canal Flamenco TV
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14087.ts
-#EXTINF:0,Canal Parlamento
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14086.ts
-#EXTINF:0,Canaria SAT
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14085.ts
-#EXTINF:0,Castilla-La Mancha
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14084.ts
-#EXTINF:0,Condavision
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14083.ts
-#EXTINF:0,CYLTV
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14082.ts
-#EXTINF:0,El Correo TV
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14081.ts
-#EXTINF:0,El Venezolano
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14035.ts
-#EXTINF:0,ETB Sat
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14080.ts
-#EXTINF:0,Fox [NoKodi]
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14079.ts
-#EXTINF:0,Fox Life [NoKodi]
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14078.ts
-#EXTINF:0,Gol TV
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14042.ts
-#EXTINF:0,HispanTV
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14041.ts
-#EXTINF:0,Historia [NoKodi]
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14077.ts
-#EXTINF:0,La 1 [NoKodi]
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14076.ts
-#EXTINF:0,La Mega Mundial
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14040.ts
-#EXTINF:0,La Regional C-LM
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14075.ts
-#EXTINF:0,La Semana
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14039.ts
-#EXTINF:0,Lancelot TV
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14051.ts
-#EXTINF:0,laOtra
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14074.ts
-#EXTINF:0,Levante TV
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14073.ts
-#EXTINF:0,Life TV
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14072.ts
-#EXTINF:0,Melody Channel
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14038.ts
-#EXTINF:0,Miami TV [ 18]
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14037.ts
-#EXTINF:0,Movistar Accion [NoKodi]
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14071.ts
-#EXTINF:0,Movistar Estrenos [NoKodi]
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14070.ts
-#EXTINF:0,Movistar Sports [NoKodi]
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14069.ts
-#EXTINF:0,MTV [NoKodi]
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14068.ts
-#EXTINF:0,NatGeo Wild [NoKodi]
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14066.ts
-#EXTINF:0,National Geographic [NoKodi]
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14067.ts
-#EXTINF:0,Navarra TV
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14065.ts
-#EXTINF:0,Onda Azul
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14064.ts
-#EXTINF:0,Real Madrid TV (English)
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14063.ts
-#EXTINF:0,RTPA
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14062.ts
-#EXTINF:0,RTV Marbella
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14061.ts
-#EXTINF:0,Sevilla FC TV
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14060.ts
-#EXTINF:0,SupereNe
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14059.ts
-#EXTINF:0,Syfy [NoKodi]
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14058.ts
-#EXTINF:0,Telemadrid
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14057.ts
-#EXTINF:0,Telemundo
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14046.ts
-#EXTINF:0,TNT [NoKodi]
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14056.ts
-#EXTINF:0,TV Marti
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14036.ts
-#EXTINF:0,TV Mediterraneo
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14052.ts
-#EXTINF:0,TV3
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14053.ts
-#EXTINF:0,TVG Europa
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14055.ts
-#EXTINF:0,Latino: TNT Series HD
-http://217.23.1.3:6969/live/batman/batman/5179.ts
-#EXTINF:0,Latino: NatGeo Wild HD
-http://217.23.1.3:6969/live/batman/batman/5180.ts
-#EXTINF:0,Latino: Multimedios Monterrey HD
-http://217.23.1.3:6969/live/batman/batman/5181.ts
-#EXTINF:0,Latino: Fox Sports 2 HD
-http://217.23.1.3:6969/live/batman/batman/5183.ts
-#EXTINF:0,Latino: Fox Sports
-http://217.23.1.3:6969/live/batman/batman/5184.ts
-#EXTINF:0,Latino: Fox Movies HD
-http://217.23.1.3:6969/live/batman/batman/5185.ts
-#EXTINF:0,Latino: Fox HD
-http://217.23.1.3:6969/live/batman/batman/5186.ts
-#EXTINF:0,Latino: Fox Cinema HD
-http://217.23.1.3:6969/live/batman/batman/5187.ts
-#EXTINF:0,Latino: Fox Action HD
-http://217.23.1.3:6969/live/batman/batman/5188.ts
-#EXTINF:0,Latino: Fox 1 HD
-http://217.23.1.3:6969/live/batman/batman/5189.ts
-#EXTINF:0,Latino: F1 HD
-http://217.23.1.3:6969/live/batman/batman/5191.ts
-#EXTINF:0,Latino: ESPN 3
-http://217.23.1.3:6969/live/batman/batman/5192.ts
-#EXTINF:0,Latino: ESPN 2
-http://217.23.1.3:6969/live/batman/batman/5193.ts
-#EXTINF:0,Latino: ESPN
-http://217.23.1.3:6969/live/batman/batman/5182.ts
-#EXTINF:0,Latino: Discovery Turbo
-http://217.23.1.3:6969/live/batman/batman/5194.ts
-#EXTINF:0,Latino: Discovery TLC
-http://217.23.1.3:6969/live/batman/batman/5195.ts
-#EXTINF:0,Latino: Discovery Teather HD
-http://217.23.1.3:6969/live/batman/batman/5196.ts
-#EXTINF:0,Latino: Discovery Kids
-http://217.23.1.3:6969/live/batman/batman/5197.ts
-#EXTINF:0,Latino: Discovery ID
-http://217.23.1.3:6969/live/batman/batman/5198.ts
-#EXTINF:0,Latino: Discovery Civilization
-http://217.23.1.3:6969/live/batman/batman/5199.ts
-#EXTINF:0,Latino: Discovery Channel
-http://217.23.1.3:6969/live/batman/batman/5200.ts
-#EXTINF:0,Latino: Cinecanal
-http://217.23.1.3:6969/live/batman/batman/5190.ts
-#EXTINF:0,Latino: Carton Network HD
-http://217.23.1.3:6969/live/batman/batman/5201.ts
-#EXTINF:0,Latino: AXN HD
-http://217.23.1.3:6969/live/batman/batman/5202.ts
-#EXTINF:0,Latino: Animal Planet
-http://217.23.1.3:6969/live/batman/batman/5203.ts
-#EXTINF:0,Latino: A&E HD
-http://217.23.1.3:6969/live/batman/batman/5204.ts
-#EXTINF:0,Latino: Az Click HD
-http://217.23.1.3:6969/live/batman/batman/6791.ts
-#EXTINF:0,Latino: Canal 5 HD
-http://217.23.1.3:6969/live/batman/batman/6790.ts
-#EXTINF:0,Latino: Canal De Las Estrellas HD
-http://217.23.1.3:6969/live/batman/batman/6774.ts
-#EXTINF:0,Latino: Cinecanal HD
-http://217.23.1.3:6969/live/batman/batman/6789.ts
-#EXTINF:0,Latino: Comedy Central HD
-http://217.23.1.3:6969/live/batman/batman/6788.ts
-#EXTINF:0,Latino: De Pelicula HD
-http://217.23.1.3:6969/live/batman/batman/6787.ts
-#EXTINF:0,Latino: Gala Tv HD
-http://217.23.1.3:6969/live/batman/batman/6786.ts
-#EXTINF:0,Latino: Glitz
-http://217.23.1.3:6969/live/batman/batman/6785.ts
-#EXTINF:0,Latino: Golden Edge
-http://217.23.1.3:6969/live/batman/batman/6784.ts
-#EXTINF:0,Latino: Golden HD
-http://217.23.1.3:6969/live/batman/batman/6783.ts
-#EXTINF:0,Latino: Gourmet
-http://217.23.1.3:6969/live/batman/batman/6782.ts
-#EXTINF:0,Latino: History HD
-http://217.23.1.3:6969/live/batman/batman/6781.ts
-#EXTINF:0,Latino: Milenio TV HD
-http://217.23.1.3:6969/live/batman/batman/6780.ts
-#EXTINF:0,Latino: Space HD
-http://217.23.1.3:6969/live/batman/batman/6779.ts
-#EXTINF:0,Latino: Tru Tv HD
-http://217.23.1.3:6969/live/batman/batman/6778.ts
-#EXTINF:0,Latino: Unicable HD
-http://217.23.1.3:6969/live/batman/batman/6777.ts
-#EXTINF:0,Latino: Universal HD
-http://217.23.1.3:6969/live/batman/batman/6776.ts
-#EXTINF:0,Latino: Warner HD
-http://217.23.1.3:6969/live/batman/batman/6775.ts
-#EXTINF:0,Latino: Azteca NOTICIAS
-http://217.23.1.3:6969/live/batman/batman/7160.ts
-#EXTINF:0,Latino: AMC
-http://217.23.1.3:6969/live/batman/batman/7272.ts
-#EXTINF:0,Latino: Disney Channel
-http://217.23.1.3:6969/live/batman/batman/7274.ts
-#EXTINF:0,Latino: Disney Junior
-http://217.23.1.3:6969/live/batman/batman/7278.ts
-#EXTINF:0,Latino: Disney XD
-http://217.23.1.3:6969/live/batman/batman/7275.ts
-#EXTINF:0,Latino: NICKELODEON
-http://217.23.1.3:6969/live/batman/batman/7273.ts
-#EXTINF:0,Latino: Telemundo Puerto Rico
-http://217.23.1.3:6969/live/batman/batman/7276.ts
-#EXTINF:0,Latino: TNT
-http://217.23.1.3:6969/live/batman/batman/7271.ts
-#EXTINF:0,Latino: Wapa
-http://217.23.1.3:6969/live/batman/batman/7277.ts
-#EXTINF:0,Latino: AZTECA 13
-http://217.23.1.3:6969/live/batman/batman/7430.ts
-#EXTINF:0,Latino: AZTECA 7
-http://217.23.1.3:6969/live/batman/batman/7429.ts
-#EXTINF:0,Latino: CANAL 11
-http://217.23.1.3:6969/live/batman/batman/7424.ts
-#EXTINF:0,Latino: CARACOL
-http://217.23.1.3:6969/live/batman/batman/7422.ts
-#EXTINF:0,Latino: CARTOON NETWORK
-http://217.23.1.3:6969/live/batman/batman/7421.ts
-#EXTINF:0,Latino: CINELATINO
-http://217.23.1.3:6969/live/batman/batman/7420.ts
-#EXTINF:0,Latino: Claro Sports
-http://217.23.1.3:6969/live/batman/batman/7386.ts
-#EXTINF:0,Latino: DISTRITO COMEDIA
-http://217.23.1.3:6969/live/batman/batman/7417.ts
-#EXTINF:0,Latino: DXTV
-http://217.23.1.3:6969/live/batman/batman/7416.ts
-#EXTINF:0,Latino: E!
-http://217.23.1.3:6969/live/batman/batman/7384.ts
-#EXTINF:0,Latino: EL GOURMET
-http://217.23.1.3:6969/live/batman/batman/7415.ts
-#EXTINF:0,Latino: Film & Arts
-http://217.23.1.3:6969/live/batman/batman/7374.ts
-#EXTINF:0,Latino: FORO TV
-http://217.23.1.3:6969/live/batman/batman/7412.ts
-#EXTINF:0,Latino: FOX LIFE
-http://217.23.1.3:6969/live/batman/batman/7406.ts
-#EXTINF:0,Latino: FOX SPORT 3
-http://217.23.1.3:6969/live/batman/batman/7414.ts
-#EXTINF:0,Latino: FX
-http://217.23.1.3:6969/live/batman/batman/7407.ts
-#EXTINF:0,Latino: H2
-http://217.23.1.3:6969/live/batman/batman/7399.ts
-#EXTINF:0,Latino: HBO
-http://217.23.1.3:6969/live/batman/batman/7428.ts
-#EXTINF:0,Latino: HBO 2
-http://217.23.1.3:6969/live/batman/batman/7427.ts
-#EXTINF:0,Latino: HBO Signature
-http://217.23.1.3:6969/live/batman/batman/7426.ts
-#EXTINF:0,Latino: INVESTIGACION DISCOVERY
-http://217.23.1.3:6969/live/batman/batman/7398.ts
-#EXTINF:0,Latino: MAX UP
-http://217.23.1.3:6969/live/batman/batman/7433.ts
-#EXTINF:0,Latino: MEXIQUENSE
-http://217.23.1.3:6969/live/batman/batman/7397.ts
-#EXTINF:0,Latino: MI MUSICA HD
-http://217.23.1.3:6969/live/batman/batman/7396.ts
-#EXTINF:0,Latino: MTV LATINO
-http://217.23.1.3:6969/live/batman/batman/7395.ts
-#EXTINF:0,Latino: MTV LATINO HITS
-http://217.23.1.3:6969/live/batman/batman/7394.ts
-#EXTINF:0,Latino: MULTIMEDIOS Plus
-http://217.23.1.3:6969/live/batman/batman/7393.ts
-#EXTINF:0,Latino: MUSICA SI
-http://217.23.1.3:6969/live/batman/batman/7392.ts
-#EXTINF:0,Latino: NATIONAL GEOGRAPHIC
-http://217.23.1.3:6969/live/batman/batman/7390.ts
-#EXTINF:0,Latino: NICK Jr
-http://217.23.1.3:6969/live/batman/batman/7389.ts
-#EXTINF:0,Latino: ONCE Noticias
-http://217.23.1.3:6969/live/batman/batman/7402.ts
-#EXTINF:0,Latino: PROYECTO 40
-http://217.23.1.3:6969/live/batman/batman/7388.ts
-#EXTINF:0,Latino: TELE MUSICA
-http://217.23.1.3:6969/live/batman/batman/7382.ts
-#EXTINF:0,Latino: TELEMUNDO INT
-http://217.23.1.3:6969/live/batman/batman/7381.ts
-#EXTINF:0,Latino: TELEVISA HD
-http://217.23.1.3:6969/live/batman/batman/7380.ts
-#EXTINF:0,Latino: TLC
-http://217.23.1.3:6969/live/batman/batman/7387.ts
-#EXTINF:0,Latino: TV MARTI
-http://217.23.1.3:6969/live/batman/batman/7379.ts
-#EXTINF:0,Latino: UFC Network HD
-http://217.23.1.3:6969/live/batman/batman/7401.ts
-#EXTINF:0,Latino: UNIMAS HD
-http://217.23.1.3:6969/live/batman/batman/7378.ts
-#EXTINF:0,Latino: UNIVISION HD
-http://217.23.1.3:6969/live/batman/batman/7376.ts
-#EXTINF:0,Latino: UNIVISION TDN HD
-http://217.23.1.3:6969/live/batman/batman/7375.ts
-#EXTINF:0,Latino: AYM SPORT
-http://217.23.1.3:6969/live/batman/batman/7773.ts
-#EXTINF:0,Latino: AZTECA CINEMA
-http://217.23.1.3:6969/live/batman/batman/7772.ts
-#EXTINF:0,Latino: AZTECA MUNDO
-http://217.23.1.3:6969/live/batman/batman/7771.ts
-#EXTINF:0,Latino: BANDAMAX
-http://217.23.1.3:6969/live/batman/batman/7770.ts
-#EXTINF:0,Latino: BOOMERANG
-http://217.23.1.3:6969/live/batman/batman/7769.ts
-#EXTINF:0,Latino: CINEMAX
-http://217.23.1.3:6969/live/batman/batman/7768.ts
-#EXTINF:0,Latino: DISCOVERY  HOME & HEALTH
-http://217.23.1.3:6969/live/batman/batman/7763.ts
-#EXTINF:0,Latino: DISCOVERY SCIENCE.
-http://217.23.1.3:6969/live/batman/batman/7762.ts
-#EXTINF:0,Latino: DISCOVERY WORLD
-http://217.23.1.3:6969/live/batman/batman/7761.ts
-#EXTINF:0,Latino: EL FINANCIERO BLOOMBERGS
-http://217.23.1.3:6969/live/batman/batman/7760.ts
-#EXTINF:0,Latino: FASHION TV
-http://217.23.1.3:6969/live/batman/batman/7758.ts
-#EXTINF:0,Latino: FILM ZONE
-http://217.23.1.3:6969/live/batman/batman/7757.ts
-#EXTINF:0,Latino: FOX CLASSIC
-http://217.23.1.3:6969/live/batman/batman/7756.ts
-#EXTINF:0,Latino: HMX
-http://217.23.1.3:6969/live/batman/batman/7755.ts
-#EXTINF:0,Latino: HOLA TV
-http://217.23.1.3:6969/live/batman/batman/7754.ts
-#EXTINF:0,Latino: I-SAT
-http://217.23.1.3:6969/live/batman/batman/7753.ts
-#EXTINF:0,Latino: LIFETIME
-http://217.23.1.3:6969/live/batman/batman/7752.ts
-#EXTINF:0,Latino: MTV LIVE
-http://217.23.1.3:6969/live/batman/batman/7750.ts
-#EXTINF:0,Latino: NICK TOONS
-http://217.23.1.3:6969/live/batman/batman/7749.ts
-#EXTINF:0,Latino: PX
-http://217.23.1.3:6969/live/batman/batman/7748.ts
-#EXTINF:0,Latino: SONY
-http://217.23.1.3:6969/live/batman/batman/7747.ts
-#EXTINF:0,Latino: STUDIO UNIVERSAL
-http://217.23.1.3:6969/live/batman/batman/7746.ts
-#EXTINF:0,Latino: SYFY
-http://217.23.1.3:6969/live/batman/batman/7745.ts
-#EXTINF:0,Latino: TBS VERYFUNNY
-http://217.23.1.3:6969/live/batman/batman/7744.ts
-#EXTINF:0,Latino: TCM
-http://217.23.1.3:6969/live/batman/batman/7743.ts
-#EXTINF:0,Latino: TELEHIT
-http://217.23.1.3:6969/live/batman/batman/7742.ts
-#EXTINF:0,Latino: TELEMUNDO
-http://217.23.1.3:6969/live/batman/batman/7741.ts
-#EXTINF:0,Latino: TIIN
-http://217.23.1.3:6969/live/batman/batman/7740.ts
-#EXTINF:0,Latino: TOONCAST
-http://217.23.1.3:6969/live/batman/batman/7739.ts
-#EXTINF:0,Latino: TRENDY CHANNEL
-http://217.23.1.3:6969/live/batman/batman/7738.ts
-#EXTINF:0,Latino: TVE
-http://217.23.1.3:6969/live/batman/batman/7736.ts
-#EXTINF:0,Latino: URUGUAY - VTV HD (720p)
-http://217.23.1.3:6969/live/batman/batman/7734.ts
-#EXTINF:0,Latino: WIN SPORT HD
-http://217.23.1.3:6969/live/batman/batman/7732.ts
-#EXTINF:0,Latino: CNN en Espagnol
-http://217.23.1.3:6969/live/batman/batman/8089.ts
-#EXTINF:0,Latino: NTN24
-http://217.23.1.3:6969/live/batman/batman/8090.ts
-#EXTINF:0,Latino: TDN HD
-http://217.23.1.3:6969/live/batman/batman/8100.ts
-#EXTINF:0,Latino: CDF Premuim
-http://217.23.1.3:6969/live/batman/batman/8808.ts
-#EXTINF:0,=======>   Estonia   <=======
-http://217.23.1.3:6969/live/batman/batman/7481.ts
-#EXTINF:0,ES:VIAJAR HD
-http://217.23.1.3:6969/live/batman/batman/2722.ts
-#EXTINF:0,ES:TELEDEPORTE HD
-http://217.23.1.3:6969/live/batman/batman/2723.ts
-#EXTINF:0,ES:TELECINCO HD
-http://217.23.1.3:6969/live/batman/batman/2695.ts
-#EXTINF:0,ES:TCM HD
-http://217.23.1.3:6969/live/batman/batman/2726.ts
-#EXTINF:0,ES:NICK Jr
-http://217.23.1.3:6969/live/batman/batman/2707.ts
-#EXTINF:0,ES:NATIONAL GEOGRAPHIC HD
-http://217.23.1.3:6969/live/batman/batman/2702.ts
-#EXTINF:0,ES:NAT GEO WILD HD
-http://217.23.1.3:6969/live/batman/batman/2701.ts
-#EXTINF:0,ES: MEGA
-http://217.23.1.3:6969/live/batman/batman/2724.ts
-#EXTINF:0,ES:LA SEXTA HD
-http://217.23.1.3:6969/live/batman/batman/2698.ts
-#EXTINF:0,ES:LA 1 HD
-http://217.23.1.3:6969/live/batman/batman/2699.ts
-#EXTINF:0,ES: HOLLYWOOD HD
-http://217.23.1.3:6969/live/batman/batman/2725.ts
-#EXTINF:0,ES:HISTORIA
-http://217.23.1.3:6969/live/batman/batman/2728.ts
-#EXTINF:0,ES:FOX LIFE HD
-http://217.23.1.3:6969/live/batman/batman/2696.ts
-#EXTINF:0,ES: FOX HD
-http://217.23.1.3:6969/live/batman/batman/2697.ts
-#EXTINF:0,ES: DISNEY XD
-http://217.23.1.3:6969/live/batman/batman/2709.ts
-#EXTINF:0,ES:DISNEY JUNIOR
-http://217.23.1.3:6969/live/batman/batman/2710.ts
-#EXTINF:0,ES: DISNEY CHANNEL HD
-http://217.23.1.3:6969/live/batman/batman/2708.ts
-#EXTINF:0,ES: DISCOVERY
-http://217.23.1.3:6969/live/batman/batman/2704.ts
-#EXTINF:0,ES:DISCOVERY CHANNEL HD
-http://217.23.1.3:6969/live/batman/batman/2703.ts
-#EXTINF:0,ES:CUATRO HD
-http://217.23.1.3:6969/live/batman/batman/2713.ts
-#EXTINF:0,ES:Canal  XTRA HD
-http://217.23.1.3:6969/live/batman/batman/2715.ts
-#EXTINF:0,ES:Canal  TOROS HD
-http://217.23.1.3:6969/live/batman/batman/2717.ts
-#EXTINF:0,ES:Canal  SERIES XTRA HD
-http://217.23.1.3:6969/live/batman/batman/2712.ts
-#EXTINF:0,ES:Canal  LIGA HD
-http://217.23.1.3:6969/live/batman/batman/2690.ts
-#EXTINF:0,ES:Canal  LIGA 2 HD
-http://217.23.1.3:6969/live/batman/batman/2691.ts
-#EXTINF:0,ES:Canal  GOLF HD
-http://217.23.1.3:6969/live/batman/batman/2716.ts
-#EXTINF:0,ES:Canal  FUTBOL HD
-http://217.23.1.3:6969/live/batman/batman/2692.ts
-#EXTINF:0,ES: Canal  ESTRENOS HD
-http://217.23.1.3:6969/live/batman/batman/2718.ts
-#EXTINF:0,ES:Canal  DEPORTES HD
-http://217.23.1.3:6969/live/batman/batman/2693.ts
-#EXTINF:0,ES:Canal  DEPORTES 2 HD
-http://217.23.1.3:6969/live/batman/batman/2694.ts
-#EXTINF:0,ES:Canal  DCINE HD
-http://217.23.1.3:6969/live/batman/batman/2719.ts
-#EXTINF:0,ES:Canal  COMEDIA HD
-http://217.23.1.3:6969/live/batman/batman/2720.ts
-#EXTINF:0,ES:CANAL  ACTION HD
-http://217.23.1.3:6969/live/batman/batman/2688.ts
-#EXTINF:0,ES:CALLE 13 HD
-http://217.23.1.3:6969/live/batman/batman/2714.ts
-#EXTINF:0,ES:AXN WHITE HD
-http://217.23.1.3:6969/live/batman/batman/2706.ts
-#EXTINF:0,ES:ANTENA 3 HD
-http://217.23.1.3:6969/live/batman/batman/2721.ts
-#EXTINF:0,ES: TNT
-http://217.23.1.3:6969/live/batman/batman/5416.ts
-#EXTINF:0,ES: SYFY
-http://217.23.1.3:6969/live/batman/batman/5417.ts
-#EXTINF:0,ES: PANDA
-http://217.23.1.3:6969/live/batman/batman/5428.ts
-#EXTINF:0,ES: ODISEA HD
-http://217.23.1.3:6969/live/batman/batman/2727.ts
-#EXTINF:0,ES: NOVA
-http://217.23.1.3:6969/live/batman/batman/5409.ts
-#EXTINF:0,ES: NICKELODEON HD
-http://217.23.1.3:6969/live/batman/batman/5419.ts
-#EXTINF:0,ES: NEOX
-http://217.23.1.3:6969/live/batman/batman/5408.ts
-#EXTINF:0,ES: La Liga BAR HD
-http://217.23.1.3:6969/live/batman/batman/5424.ts
-#EXTINF:0,ES: LA 2 HD
-http://217.23.1.3:6969/live/batman/batman/2700.ts
-#EXTINF:0,ES: IBERALIA
-http://217.23.1.3:6969/live/batman/batman/5427.ts
-#EXTINF:0,ES: GOL Tv
-http://217.23.1.3:6969/live/batman/batman/5421.ts
-#EXTINF:0,ES: FDF
-http://217.23.1.3:6969/live/batman/batman/5411.ts
-#EXTINF:0,ES: DIVINITY
-http://217.23.1.3:6969/live/batman/batman/5410.ts
-#EXTINF:0,ES: COSMO HD
-http://217.23.1.3:6969/live/batman/batman/5412.ts
-#EXTINF:0,ES: Clan Tve
-http://217.23.1.3:6969/live/batman/batman/5418.ts
-#EXTINF:0,ES: Caza y pesca
-http://217.23.1.3:6969/live/batman/batman/5413.ts
-#EXTINF:0,ES: Canal SERIES HD
-http://217.23.1.3:6969/live/batman/batman/2711.ts
-#EXTINF:0,ES: CANAL DECASA
-http://217.23.1.3:6969/live/batman/batman/5426.ts
-#EXTINF:0,ES: CANAL COCINA
-http://217.23.1.3:6969/live/batman/batman/5425.ts
-#EXTINF:0,ES: Boing
-http://217.23.1.3:6969/live/batman/batman/5420.ts
-#EXTINF:0,ES: Bein Sport HD
-http://217.23.1.3:6969/live/batman/batman/5422.ts
-#EXTINF:0,ES: Bein Liga HD
-http://217.23.1.3:6969/live/batman/batman/5423.ts
-#EXTINF:0,ES: AXN HD
-http://217.23.1.3:6969/live/batman/batman/2705.ts
-#EXTINF:0,ES: AMC
-http://217.23.1.3:6969/live/batman/batman/5415.ts
-#EXTINF:0,ES: A&E
-http://217.23.1.3:6969/live/batman/batman/5414.ts
-#EXTINF:0,ES: #0 HD
-http://217.23.1.3:6969/live/batman/batman/2729.ts
-#EXTINF:0,ES: beIN LaLIga 1 (event only)
-http://217.23.1.3:6969/live/batman/batman/5963.ts
-#EXTINF:0,ES: beIN LaLIga 2 (event only)
-http://217.23.1.3:6969/live/batman/batman/5964.ts
-#EXTINF:0,ES: beIN LaLIga 3 (event only)
-http://217.23.1.3:6969/live/batman/batman/5965.ts
-#EXTINF:0,ES: Energy
-http://217.23.1.3:6969/live/batman/batman/6696.ts
-#EXTINF:0,ES: EUROSPORT 1
-http://217.23.1.3:6969/live/batman/batman/6694.ts
-#EXTINF:0,ES: EUROSPORT 2
-http://217.23.1.3:6969/live/batman/batman/6695.ts
-#EXTINF:0,ES: 24 Horas
-http://217.23.1.3:6969/live/batman/batman/6721.ts
+http://104.245.96.214:8000/live/negro/negro/336.ts
+#EXTINF:0,ES: #O
+http://104.245.96.214:8000/live/negro/negro/349.ts
 #EXTINF:0,ES: 40 TV
-http://217.23.1.3:6969/live/batman/batman/6720.ts
+http://104.245.96.214:8000/live/negro/negro/317.ts
+#EXTINF:0,ES: A&E
+http://104.245.96.214:8000/live/negro/negro/316.ts
+#EXTINF:0,ES: AMC
+http://104.245.96.214:8000/live/negro/negro/348.ts
+#EXTINF:0,ES: Antena 3
+http://104.245.96.214:8000/live/negro/negro/187.ts
+#EXTINF:0,ES: AXN
+http://104.245.96.214:8000/live/negro/negro/347.ts
+#EXTINF:0,ES: AXN WHITE
+http://104.245.96.214:8000/live/negro/negro/346.ts
 #EXTINF:0,ES: BARCA TV
-http://217.23.1.3:6969/live/batman/batman/6718.ts
-#EXTINF:0,ES: COMEDY CENTRAL HD
-http://217.23.1.3:6969/live/batman/batman/6719.ts
-#EXTINF:0,ES: Nonstop People
-http://217.23.1.3:6969/live/batman/batman/6722.ts
-#EXTINF:0,VIP ES: Bein Sports HD ( 1080P )
-http://217.23.1.3:6969/live/batman/batman/6724.ts
-#EXTINF:0,ES: Canal De Las Estrellas
-http://217.23.1.3:6969/live/batman/batman/6792.ts
-#EXTINF:0,ES: Paramount
-http://217.23.1.3:6969/live/batman/batman/6968.ts
-#EXTINF:0,ES: Crimen Investigation
-http://217.23.1.3:6969/live/batman/batman/6984.ts
-#EXTINF:0,ES: MTV ESPANA
-http://217.23.1.3:6969/live/batman/batman/6985.ts
-#EXTINF:0,ES: Real Madrid Channel
-http://217.23.1.3:6969/live/batman/batman/7680.ts
-#EXTINF:0,ES: beIN LA Liga FHD
-http://217.23.1.3:6969/live/batman/batman/8677.ts
-#EXTINF:0,ES: beIN Laliga 1 HD Backup
-http://217.23.1.3:6969/live/batman/batman/8676.ts
-#EXTINF:0,ES: Movistar Partidazo HD (event only)
-http://217.23.1.3:6969/live/batman/batman/8807.ts
-#EXTINF:0,ES: BABY TV
-http://217.23.1.3:6969/live/batman/batman/9165.ts
-#EXTINF:0,ES: beIN Sport FHD
-http://217.23.1.3:6969/live/batman/batman/11776.ts
-#EXTINF:0,ES : MOVISTAR MOTOGP
-http://217.23.1.3:6969/live/batman/batman/3066.ts
-#EXTINF:0,ES : movistar Futbol
-http://217.23.1.3:6969/live/batman/batman/3068.ts
-#EXTINF:0,ES : MOVISTAR FORMULA 1
-http://217.23.1.3:6969/live/batman/batman/3067.ts
-#EXTINF:0,ES : MOVISTAR F1 HD
-http://217.23.1.3:6969/live/batman/batman/3065.ts
-#EXTINF:0,ES_LA1
-http://www.vips2016.com:8088/live/4811288028/4242428/2383.ts
-#EXTINF:0,ES_LA2
-http://www.vips2016.com:8088/live/4811288028/4242428/2727.ts
-#EXTINF:0,ES_Ribera
-http://www.vips2016.com:8088/live/4811288028/4242428/2771.ts
-#EXTINF:0,ES_Tele_Uno
-http://www.vips2016.com:8088/live/4811288028/4242428/2770.ts
-#EXTINF:0,ES_CanalHD
-http://www.vips2016.com:8088/live/4811288028/4242428/2584.ts
-#EXTINF:0,ES_Canal2HD
-http://www.vips2016.com:8088/live/4811288028/4242428/2599.ts
-#EXTINF:0,ES_Canal-Accion
-http://www.vips2016.com:8088/live/4811288028/4242428/2299.ts
-#EXTINF:0,ES_Canal-Comedea
-http://www.vips2016.com:8088/live/4811288028/4242428/2297.ts
-#EXTINF:0,ES_Canal-Dcin
-http://www.vips2016.com:8088/live/4811288028/4242428/2296.ts
-#EXTINF:0,ES_Canal-Xtra
-http://www.vips2016.com:8088/live/4811288028/4242428/2301.ts
-#EXTINF:0,ES_Canal-Golf
-http://www.vips2016.com:8088/live/4811288028/4242428/2300.ts
-#EXTINF:0,ES_CanalFutbal
-http://www.vips2016.com:8088/live/4811288028/4242428/2247.ts
-#EXTINF:0,ES_Canal-TOROS
-http://www.vips2016.com:8088/live/4811288028/4242428/1243.ts
-#EXTINF:0,ES_Canal_Deportes
-http://www.vips2016.com:8088/live/4811288028/4242428/2248.ts
-#EXTINF:0,ES_Canal-ESTRENO
-http://www.vips2016.com:8088/live/4811288028/4242428/2352.ts
-#EXTINF:0,ES_Canal_LIGA
-http://www.vips2016.com:8088/live/4811288028/4242428/2246.ts
-#EXTINF:0,ES_BeinLaLiga
-http://www.vips2016.com:8088/live/4811288028/4242428/2585.ts
-#EXTINF:0,ES_BeinLaLiga1
-http://www.vips2016.com:8088/live/4811288028/4242428/2767.ts
-#EXTINF:0,ES_BarcaTV
-http://www.vips2016.com:8088/live/4811288028/4242428/2724.ts
-#EXTINF:0,ES_Real_Madrid
-http://www.vips2016.com:8088/live/4811288028/4242428/2382.ts
-#EXTINF:0,ES_TVE1_HD
-http://www.vips2016.com:8088/live/4811288028/4242428/2597.ts
-#EXTINF:0,ES_NOVA
-http://www.vips2016.com:8088/live/4811288028/4242428/2579.ts
-#EXTINF:0,ES_Antena3
-http://www.vips2016.com:8088/live/4811288028/4242428/2298.ts
-#EXTINF:0,ES_LaSextaHD
-http://www.vips2016.com:8088/live/4811288028/4242428/2598.ts
-#EXTINF:0,ES_Calle13HD
-http://www.vips2016.com:8088/live/4811288028/4242428/2600.ts
-#EXTINF:0,ES_TELECINCO
-http://www.vips2016.com:8088/live/4811288028/4242428/2351.ts
-#EXTINF:0,ES_Hollywood_Spain
-http://www.vips2016.com:8088/live/4811288028/4242428/2384.ts
-#EXTINF:0,ES_FoxLifeHD
-http://www.vips2016.com:8088/live/4811288028/4242428/2582.ts
-#EXTINF:0,ES_Fox_HD
-http://www.vips2016.com:8088/live/4811288028/4242428/2381.ts
-#EXTINF:0,ES_Taquilla1
-http://www.vips2016.com:8088/live/4811288028/4242428/2358.ts
-#EXTINF:0,ES_Taquilla2
-http://www.vips2016.com:8088/live/4811288028/4242428/2359.ts
-#EXTINF:0,ES_Taquilla3
-http://www.vips2016.com:8088/live/4811288028/4242428/2360.ts
-#EXTINF:0,ES_Taquilla4
-http://www.vips2016.com:8088/live/4811288028/4242428/2361.ts
-#EXTINF:0,ES_Taquilla5
-http://www.vips2016.com:8088/live/4811288028/4242428/2362.ts
-#EXTINF:0,ES_Taquilla6
-http://www.vips2016.com:8088/live/4811288028/4242428/2357.ts
-#EXTINF:0,ES_Taquilla7
-http://www.vips2016.com:8088/live/4811288028/4242428/2356.ts
-#EXTINF:0,ES_Taquilla8
-http://www.vips2016.com:8088/live/4811288028/4242428/2355.ts
-#EXTINF:0,ES_Taquilla9
-http://www.vips2016.com:8088/live/4811288028/4242428/2354.ts
-#EXTINF:0,ES_Taquilla10
-http://www.vips2016.com:8088/live/4811288028/4242428/2353.ts
-#EXTINF:0,ES_National-Geo
-http://www.vips2016.com:8088/live/4811288028/4242428/2302.ts
-#EXTINF:0,ES_NatGeoWild
-http://www.vips2016.com:8088/live/4811288028/4242428/2581.ts
-#EXTINF:0,ES_Nickelodeon
-http://www.vips2016.com:8088/live/4811288028/4242428/2580.ts
-#EXTINF:0,ES_DisneyXD
-http://www.vips2016.com:8088/live/4811288028/4242428/2583.ts
-#EXTINF:0,ES_Disney_Junior
-http://www.vips2016.com:8088/live/4811288028/4242428/2721.ts
-#EXTINF:0,ES_Disney_Channel
-http://www.vips2016.com:8088/live/4811288028/4242428/2722.ts
+http://104.245.96.214:8000/live/negro/negro/882.ts
+#EXTINF:0,ES: BEIN La Liga HD
+http://104.245.96.214:8000/live/negro/negro/264.ts
+#EXTINF:0,ES: BEIN SPORTS SPAIN HD
+http://104.245.96.214:8000/live/negro/negro/160.ts
+#EXTINF:0,ES: BOING
+http://104.245.96.214:8000/live/negro/negro/345.ts
+#EXTINF:0,ES: CALLE 13
+http://104.245.96.214:8000/live/negro/negro/344.ts
+#EXTINF:0,ES: COCINA
+http://104.245.96.214:8000/live/negro/negro/343.ts
+#EXTINF:0,ES: COMEDY CENTRAL
+http://104.245.96.214:8000/live/negro/negro/342.ts
+#EXTINF:0,ES: COSMO
+http://104.245.96.214:8000/live/negro/negro/341.ts
+#EXTINF:0,ES: CRIMEN INVESTIGACION
+http://104.245.96.214:8000/live/negro/negro/313.ts
+#EXTINF:0,ES: CUATRO
+http://104.245.96.214:8000/live/negro/negro/340.ts
+#EXTINF:0,ES: DISCOVERY CHANNEL
+http://104.245.96.214:8000/live/negro/negro/314.ts
+#EXTINF:0,ES: DISNEY CHANNEL
+http://104.245.96.214:8000/live/negro/negro/312.ts
+#EXTINF:0,ES: DISNEY JUNIOR
+http://104.245.96.214:8000/live/negro/negro/311.ts
+#EXTINF:0,ES: DISNEY XD
+http://104.245.96.214:8000/live/negro/negro/310.ts
+#EXTINF:0,ES: DIVINITY
+http://104.245.96.214:8000/live/negro/negro/309.ts
+#EXTINF:0,ES: ENERGY
+http://104.245.96.214:8000/live/negro/negro/308.ts
+#EXTINF:0,ES: FDF
+http://104.245.96.214:8000/live/negro/negro/307.ts
+#EXTINF:0,ES: FOX
+http://104.245.96.214:8000/live/negro/negro/306.ts
+#EXTINF:0,ES: FOX LIFE
+http://104.245.96.214:8000/live/negro/negro/339.ts
+#EXTINF:0,ES: GOL
+http://104.245.96.214:8000/live/negro/negro/265.ts
+#EXTINF:0,ES: HISTORIA
+http://104.245.96.214:8000/live/negro/negro/305.ts
+#EXTINF:0,ES: HOLLYWOOD
+http://104.245.96.214:8000/live/negro/negro/338.ts
+#EXTINF:0,ES: La Sexta
+http://104.245.96.214:8000/live/negro/negro/188.ts
+#EXTINF:0,ES: LaLigaTV BAR
+http://104.245.96.214:8000/live/negro/negro/161.ts
+#EXTINF:0,ES: M20
+http://104.245.96.214:8000/live/negro/negro/304.ts
+#EXTINF:0,ES: M6 MUSIC
+http://104.245.96.214:8000/live/negro/negro/303.ts
+#EXTINF:0,ES: Mega
+http://104.245.96.214:8000/live/negro/negro/263.ts
+#EXTINF:0,ES: MOVISTAR  DEPORTES 1
+http://104.245.96.214:8000/live/negro/negro/159.ts
+#EXTINF:0,ES: MOVISTAR ACCION HD
+http://104.245.96.214:8000/live/negro/negro/156.ts
+#EXTINF:0,ES: MOVISTAR COMEDIA
+http://104.245.96.214:8000/live/negro/negro/335.ts
+#EXTINF:0,ES: MOVISTAR DCINE
+http://104.245.96.214:8000/live/negro/negro/334.ts
+#EXTINF:0,ES: MOVISTAR DEPORTES 2
+http://104.245.96.214:8000/live/negro/negro/333.ts
+#EXTINF:0,ES: MOVISTAR ESTRENOS
+http://104.245.96.214:8000/live/negro/negro/332.ts
+#EXTINF:0,ES: Movistar F1
+http://104.245.96.214:8000/live/negro/negro/189.ts
+#EXTINF:0,ES: MOVISTAR FUTBOL HD
+http://104.245.96.214:8000/live/negro/negro/158.ts
+#EXTINF:0,ES: MOVISTAR GOLF
+http://104.245.96.214:8000/live/negro/negro/157.ts
+#EXTINF:0,ES: MOVISTAR MOTO GP
+http://104.245.96.214:8000/live/negro/negro/331.ts
+#EXTINF:0,ES: MOVISTAR PARTIDAZO HD (Solo Eventos)
+http://104.245.96.214:8000/live/negro/negro/302.ts
+#EXTINF:0,ES: MOVISTAR PARTIDAZO HD OP2  (Solo Eventos)
+http://104.245.96.214:8000/live/negro/negro/301.ts
+#EXTINF:0,ES: MOVISTAR SERIES
+http://104.245.96.214:8000/live/negro/negro/330.ts
+#EXTINF:0,ES: MOVISTAR SERIES XTRA
+http://104.245.96.214:8000/live/negro/negro/329.ts
+#EXTINF:0,ES: MOVISTAR XTRA
+http://104.245.96.214:8000/live/negro/negro/328.ts
+#EXTINF:0,ES: NAT GEO
+http://104.245.96.214:8000/live/negro/negro/327.ts
+#EXTINF:0,ES: NAT GEO WILD
+http://104.245.96.214:8000/live/negro/negro/326.ts
+#EXTINF:0,ES: NEOX
+http://104.245.96.214:8000/live/negro/negro/300.ts
+#EXTINF:0,ES: NICKELODEON
+http://104.245.96.214:8000/live/negro/negro/325.ts
+#EXTINF:0,ES: NON STOP PEOPLE
+http://104.245.96.214:8000/live/negro/negro/299.ts
+#EXTINF:0,ES: NOVA
+http://104.245.96.214:8000/live/negro/negro/324.ts
+#EXTINF:0,ES: ODISEA HD
+http://104.245.96.214:8000/live/negro/negro/298.ts
+#EXTINF:0,ES: PANDA
+http://104.245.96.214:8000/live/negro/negro/297.ts
+#EXTINF:0,ES: PARAMOUNT
+http://104.245.96.214:8000/live/negro/negro/296.ts
+#EXTINF:0,ES: Real Madrid TV
+http://104.245.96.214:8000/live/negro/negro/183.ts
+#EXTINF:0,ES: SYFY
+http://104.245.96.214:8000/live/negro/negro/323.ts
+#EXTINF:0,ES: TCM
+http://104.245.96.214:8000/live/negro/negro/322.ts
+#EXTINF:0,ES: TELECINCO
+http://104.245.96.214:8000/live/negro/negro/321.ts
+#EXTINF:0,ES: TELEDEPORTE
+http://104.245.96.214:8000/live/negro/negro/320.ts
+#EXTINF:0,ES: TNT
+http://104.245.96.214:8000/live/negro/negro/319.ts
+#EXTINF:0,ES: TOROSTV HD
+http://104.245.96.214:8000/live/negro/negro/155.ts
+#EXTINF:0,ES: VH1
+http://104.245.96.214:8000/live/negro/negro/295.ts
+#EXTINF:0,ES: VIAJAR
+http://104.245.96.214:8000/live/negro/negro/318.ts
+#EXTINF:0,ES: VIRGIN TV
+http://104.245.96.214:8000/live/negro/negro/294.ts
+#EXTINF:0,ESPN
+http://104.245.96.214:8000/live/negro/negro/89.ts
+#EXTINF:0,ESPN 2
+http://104.245.96.214:8000/live/negro/negro/90.ts
+#EXTINF:0,ESPN 3
+http://104.245.96.214:8000/live/negro/negro/86.ts
+#EXTINF:0,ESPN ARGENTINA HD
+http://104.245.96.214:8000/live/negro/negro/494.ts
+#EXTINF:0,ESPN 2 ARGENTINA HD
+http://104.245.96.214:8000/live/negro/negro/495.ts
+#EXTINF:0,ESPN 3 ARGENTINA HD
+http://104.245.96.214:8000/live/negro/negro/496.ts
+#EXTINF:0,ESPN Plus Argentina
+http://104.245.96.214:8000/live/negro/negro/959.ts
+#EXTINF:0,ESPN Deportes
+http://104.245.96.214:8000/live/negro/negro/239.ts
+#EXTINF:0,ESPN Plus
+http://104.245.96.214:8000/live/negro/negro/85.ts
+#EXTINF:0,Estrellas
+http://104.245.96.214:8000/live/negro/negro/9.ts
+#EXTINF:0,FilmZone
+http://104.245.96.214:8000/live/negro/negro/73.ts
+#EXTINF:0,Foro TV
+http://104.245.96.214:8000/live/negro/negro/10.ts
+#EXTINF:0,Fox
+http://104.245.96.214:8000/live/negro/negro/16.ts
+#EXTINF:0,Fox Action
+http://104.245.96.214:8000/live/negro/negro/66.ts
+#EXTINF:0,Fox Action op2
+http://104.245.96.214:8000/live/negro/negro/991.ts
+#EXTINF:0,Fox Cinema
+http://104.245.96.214:8000/live/negro/negro/68.ts
+#EXTINF:0,Fox Classics
+http://104.245.96.214:8000/live/negro/negro/69.ts
+#EXTINF:0,FOX Comedy
+http://104.245.96.214:8000/live/negro/negro/150.ts
+#EXTINF:0,FOX Deportes
+http://104.245.96.214:8000/live/negro/negro/240.ts
+#EXTINF:0,FOX Family
+http://104.245.96.214:8000/live/negro/negro/210.ts
+#EXTINF:0,Fox Life
+http://104.245.96.214:8000/live/negro/negro/35.ts
+#EXTINF:0,Fox Movies
+http://104.245.96.214:8000/live/negro/negro/67.ts
+#EXTINF:0,Fox SD
+http://104.245.96.214:8000/live/negro/negro/25.ts
+#EXTINF:0,Fox Series
+http://104.245.96.214:8000/live/negro/negro/65.ts
+#EXTINF:0,Fox Sports Argentina HD
+http://104.245.96.214:8000/live/negro/negro/292.ts
+#EXTINF:0,Fox Sports 2 Argentina HD
+http://104.245.96.214:8000/live/negro/negro/493.ts
+#EXTINF:0,Fox Sports 3 Argentina
+http://104.245.96.214:8000/live/negro/negro/960.ts
+#EXTINF:0,Fox Sports Mexico HD
+http://104.245.96.214:8000/live/negro/negro/964.ts
+#EXTINF:0,Fox Sports Uruguay HD
+http://104.245.96.214:8000/live/negro/negro/958.ts
+#EXTINF:0,Fox Sports
+http://104.245.96.214:8000/live/negro/negro/87.ts
+#EXTINF:0,Fox Sports 2
+http://104.245.96.214:8000/live/negro/negro/88.ts
+#EXTINF:0,Fox Sports 3
+http://104.245.96.214:8000/live/negro/negro/278.ts
+#EXTINF:0,FOX SPORTS SUR (CHILE)
+http://104.245.96.214:8000/live/negro/negro/121.ts
+#EXTINF:0,FOX SPORTS 2 SUR
+http://104.245.96.214:8000/live/negro/negro/127.ts
+#EXTINF:0,FX
+http://104.245.96.214:8000/live/negro/negro/20.ts
+#EXTINF:0,FX SD
+http://104.245.96.214:8000/live/negro/negro/30.ts
+#EXTINF:0,Gala TV
+http://104.245.96.214:8000/live/negro/negro/11.ts
+#EXTINF:0,Glitz
+http://104.245.96.214:8000/live/negro/negro/34.ts
+#EXTINF:0,Golden
+http://104.245.96.214:8000/live/negro/negro/72.ts
+#EXTINF:0,Golden Edge
+http://104.245.96.214:8000/live/negro/negro/79.ts
+#EXTINF:0,GolTV
+http://104.245.96.214:8000/live/negro/negro/260.ts
+#EXTINF:0,H2
+http://104.245.96.214:8000/live/negro/negro/140.ts
+#EXTINF:0,HBO 2
+http://104.245.96.214:8000/live/negro/negro/125.ts
+#EXTINF:0,HBO FAMILY
+http://104.245.96.214:8000/live/negro/negro/124.ts
+#EXTINF:0,HBO
+http://104.245.96.214:8000/live/negro/negro/123.ts
+#EXTINF:0,HBO PLUS
+http://104.245.96.214:8000/live/negro/negro/126.ts
+#EXTINF:0,HBO PLUS OESTE
+http://104.245.96.214:8000/live/negro/negro/122.ts
+#EXTINF:0,HBO Signature
+http://104.245.96.214:8000/live/negro/negro/112.ts
+#EXTINF:0,History
+http://104.245.96.214:8000/live/negro/negro/53.ts
+#EXTINF:0,Investigation Discovery
+http://104.245.96.214:8000/live/negro/negro/31.ts
+#EXTINF:0,iSat
+http://104.245.96.214:8000/live/negro/negro/83.ts
+#EXTINF:0,Lifetime
+http://104.245.96.214:8000/live/negro/negro/60.ts
+#EXTINF:0,MAX UP
+http://104.245.96.214:8000/live/negro/negro/151.ts
+#EXTINF:0,MAX Prime
+http://104.245.96.214:8000/live/negro/negro/498.ts
+#EXTINF:0,MTV
+http://104.245.96.214:8000/live/negro/negro/96.ts
+#EXTINF:0,MTV hits
+http://104.245.96.214:8000/live/negro/negro/97.ts
+#EXTINF:0,MTV Live HD
+http://104.245.96.214:8000/live/negro/negro/93.ts
+#EXTINF:0,Multimedios
+http://104.245.96.214:8000/live/negro/negro/15.ts
+#EXTINF:0,MundoFOX
+http://104.245.96.214:8000/live/negro/negro/212.ts
+#EXTINF:0,NatGeo Wild
+http://104.245.96.214:8000/live/negro/negro/54.ts
+#EXTINF:0,National Geographic Channel
+http://104.245.96.214:8000/live/negro/negro/59.ts
+#EXTINF:0,Nick Jr
+http://104.245.96.214:8000/live/negro/negro/42.ts
+#EXTINF:0,Nick2
+http://104.245.96.214:8000/live/negro/negro/45.ts
+#EXTINF:0,Nickelodeon
+http://104.245.96.214:8000/live/negro/negro/46.ts
+#EXTINF:0,NickToons
+http://104.245.96.214:8000/live/negro/negro/44.ts
+#EXTINF:0,Paramount
+http://104.245.96.214:8000/live/negro/negro/213.ts
+#EXTINF:0,PE: AMERICA TELEVISION
+http://104.245.96.214:8000/live/negro/negro/101.ts
+#EXTINF:0,PE: ATV
+http://104.245.96.214:8000/live/negro/negro/139.ts
+#EXTINF:0,PE: NEXTV
+http://104.245.96.214:8000/live/negro/negro/235.ts
+#EXTINF:0,PE: Frecuencia Latina
+http://104.245.96.214:8000/live/negro/negro/1045.ts
+#EXTINF:0,PE: Frecuencia Latina op2
+http://104.245.96.214:8000/live/negro/negro/111.ts
+#EXTINF:0,PE: GolPeru
+http://104.245.96.214:8000/live/negro/negro/234.ts
+#EXTINF:0,PE: Panamericana
+http://104.245.96.214:8000/live/negro/negro/238.ts
+#EXTINF:0,PE: Peru Magico
+http://104.245.96.214:8000/live/negro/negro/233.ts
+#EXTINF:0,PE: TV Peru
+http://104.245.96.214:8000/live/negro/negro/237.ts
+#EXTINF:0,PR: ABC
+http://104.245.96.214:8000/live/negro/negro/867.ts
+#EXTINF:0,PR: MegaTV
+http://104.245.96.214:8000/live/negro/negro/865.ts
+#EXTINF:0,PR: NBC
+http://104.245.96.214:8000/live/negro/negro/866.ts
+#EXTINF:0,PR: Telemundo 2
+http://104.245.96.214:8000/live/negro/negro/504.ts
+#EXTINF:0,PR: Univision
+http://104.245.96.214:8000/live/negro/negro/864.ts
+#EXTINF:0,PR: Wapa 2
+http://104.245.96.214:8000/live/negro/negro/863.ts
+#EXTINF:0,PR: Wapa
+http://104.245.96.214:8000/live/negro/negro/503.ts
+#EXTINF:0,RD: Digital 15
+http://104.245.96.214:8000/live/negro/negro/250.ts
+#EXTINF:0,RD: Teleantillas
+http://104.245.96.214:8000/live/negro/negro/249.ts
+#EXTINF:0,RD: Telecentro
+http://104.245.96.214:8000/live/negro/negro/248.ts
+#EXTINF:0,RD: Telenord 10
+http://104.245.96.214:8000/live/negro/negro/247.ts
+#EXTINF:0,RD: Telenord 12
+http://104.245.96.214:8000/live/negro/negro/246.ts
+#EXTINF:0,RD: Telesistema
+http://104.245.96.214:8000/live/negro/negro/245.ts
+#EXTINF:0,RD: Teletica
+http://104.245.96.214:8000/live/negro/negro/242.ts
+#EXTINF:0,RD: Teleunion
+http://104.245.96.214:8000/live/negro/negro/244.ts
+#EXTINF:0,RD: Teleuniverso
+http://104.245.96.214:8000/live/negro/negro/243.ts
+#EXTINF:0,Ritmoson
+http://104.245.96.214:8000/live/negro/negro/99.ts
+#EXTINF:0,SKYSports 16 (solo eventos)
+http://104.245.96.214:8000/live/negro/negro/267.ts
+#EXTINF:0,SKYSports 17 (solo eventos)
+http://104.245.96.214:8000/live/negro/negro/266.ts
+#EXTINF:0,SKYSports 24
+http://104.245.96.214:8000/live/negro/negro/268.ts
+#EXTINF:0,Sony
+http://104.245.96.214:8000/live/negro/negro/17.ts
+#EXTINF:0,Space
+http://104.245.96.214:8000/live/negro/negro/76.ts
+#EXTINF:0,Space SD
+http://104.245.96.214:8000/live/negro/negro/81.ts
+#EXTINF:0,Studio Universal
+http://104.245.96.214:8000/live/negro/negro/82.ts
+#EXTINF:0,SyFy
+http://104.245.96.214:8000/live/negro/negro/29.ts
+#EXTINF:0,TBS
+http://104.245.96.214:8000/live/negro/negro/37.ts
+#EXTINF:0,TCM
+http://104.245.96.214:8000/live/negro/negro/84.ts
+#EXTINF:0,TDN
+http://104.245.96.214:8000/live/negro/negro/143.ts
+#EXTINF:0,Teleformula
+http://104.245.96.214:8000/live/negro/negro/14.ts
+#EXTINF:0,Telehit
+http://104.245.96.214:8000/live/negro/negro/94.ts
+#EXTINF:0,Telemundo
+http://104.245.96.214:8000/live/negro/negro/146.ts
+#EXTINF:0,Telemundo Internacional
+http://104.245.96.214:8000/live/negro/negro/147.ts
+#EXTINF:0,Telemundo USA
+http://104.245.96.214:8000/live/negro/negro/1994.ts
+#EXTINF:0,TIIN
+http://104.245.96.214:8000/live/negro/negro/50.ts
+#EXTINF:0,TLC Discovery
+http://104.245.96.214:8000/live/negro/negro/64.ts
+#EXTINF:0,TLnovelas
+http://104.245.96.214:8000/live/negro/negro/38.ts
+#EXTINF:0,TNT
+http://104.245.96.214:8000/live/negro/negro/71.ts
+#EXTINF:0,TNT Series
+http://104.245.96.214:8000/live/negro/negro/32.ts
+#EXTINF:0,Tooncast
+http://104.245.96.214:8000/live/negro/negro/51.ts
+#EXTINF:0,Tru TV
+http://104.245.96.214:8000/live/negro/negro/22.ts
+#EXTINF:0,TVE Internacional
+http://104.245.96.214:8000/live/negro/negro/92.ts
+#EXTINF:0,UFC
+http://104.245.96.214:8000/live/negro/negro/116.ts
+#EXTINF:0,UK: BOX Nation
+http://104.245.96.214:8000/live/negro/negro/173.ts
+#EXTINF:0,UK: BT Sport 1
+http://104.245.96.214:8000/live/negro/negro/180.ts
+#EXTINF:0,UK: BT Sport 2
+http://104.245.96.214:8000/live/negro/negro/181.ts
+#EXTINF:0,UK: BT Sport 3
+http://104.245.96.214:8000/live/negro/negro/182.ts
+#EXTINF:0,UK: Eurosport 1
+http://104.245.96.214:8000/live/negro/negro/170.ts
+#EXTINF:0,UK: Eurosport 2
+http://104.245.96.214:8000/live/negro/negro/171.ts
+#EXTINF:0,UK: ITV 2
+http://104.245.96.214:8000/live/negro/negro/163.ts
+#EXTINF:0,UK: ITV 3
+http://104.245.96.214:8000/live/negro/negro/164.ts
+#EXTINF:0,UK: ITV 4
+http://104.245.96.214:8000/live/negro/negro/165.ts
+#EXTINF:0,UK: ITV Encore
+http://104.245.96.214:8000/live/negro/negro/162.ts
+#EXTINF:0,UK: MUTV
+http://104.245.96.214:8000/live/negro/negro/172.ts
+#EXTINF:0,UK: SKY Formula 1
+http://104.245.96.214:8000/live/negro/negro/179.ts
+#EXTINF:0,UK: SKY Sports 1
+http://104.245.96.214:8000/live/negro/negro/174.ts
+#EXTINF:0,UK: SKY Sports 2
+http://104.245.96.214:8000/live/negro/negro/175.ts
+#EXTINF:0,UK: SKY Sports 3
+http://104.245.96.214:8000/live/negro/negro/176.ts
+#EXTINF:0,UK: SKY Sports 4
+http://104.245.96.214:8000/live/negro/negro/177.ts
+#EXTINF:0,UK: SKY Sports 5
+http://104.245.96.214:8000/live/negro/negro/178.ts
+#EXTINF:0,UK: SKY Sports News
+http://104.245.96.214:8000/live/negro/negro/166.ts
+#EXTINF:0,Unicable
+http://104.245.96.214:8000/live/negro/negro/24.ts
+#EXTINF:0,UniMAS
+http://104.245.96.214:8000/live/negro/negro/148.ts
+#EXTINF:0,Universal
+http://104.245.96.214:8000/live/negro/negro/19.ts
+#EXTINF:0,Universal Channel
+http://104.245.96.214:8000/live/negro/negro/28.ts
+#EXTINF:0,Univision
+http://104.245.96.214:8000/live/negro/negro/149.ts
+#EXTINF:0,Univision Deportes
+http://104.245.96.214:8000/live/negro/negro/259.ts
+#EXTINF:0,Univision TDN
+http://104.245.96.214:8000/live/negro/negro/145.ts
+#EXTINF:0,UR: VTV HD
+http://104.245.96.214:8000/live/negro/negro/293.ts
+#EXTINF:0,US: FOX Sports 2
+http://104.245.96.214:8000/live/negro/negro/167.ts
+#EXTINF:0,US: NFL Network
+http://104.245.96.214:8000/live/negro/negro/168.ts
+#EXTINF:0,US: WWE Network
+http://104.245.96.214:8000/live/negro/negro/169.ts
+#EXTINF:0,USA: ABC News
+http://104.245.96.214:8000/live/negro/negro/193.ts
+#EXTINF:0,USA: CBS
+http://104.245.96.214:8000/live/negro/negro/201.ts
+#EXTINF:0,USA: CBSN
+http://104.245.96.214:8000/live/negro/negro/205.ts
+#EXTINF:0,USA: CNBC
+http://104.245.96.214:8000/live/negro/negro/194.ts
+#EXTINF:0,USA: CNN
+http://104.245.96.214:8000/live/negro/negro/195.ts
+#EXTINF:0,USA: FOX Sport1 US
+http://104.245.96.214:8000/live/negro/negro/204.ts
+#EXTINF:0,USA: Golf
+http://104.245.96.214:8000/live/negro/negro/208.ts
+#EXTINF:0,USA: NBA TV
+http://104.245.96.214:8000/live/negro/negro/196.ts
+#EXTINF:0,USA: NDTV
+http://104.245.96.214:8000/live/negro/negro/202.ts
+#EXTINF:0,USA: PAG
+http://104.245.96.214:8000/live/negro/negro/203.ts
+#EXTINF:0,USA: Poker Central
+http://104.245.96.214:8000/live/negro/negro/207.ts
+#EXTINF:0,USA: TBS
+http://104.245.96.214:8000/live/negro/negro/206.ts
+#EXTINF:0,USA: TSN1
+http://104.245.96.214:8000/live/negro/negro/197.ts
+#EXTINF:0,USA: TSN2
+http://104.245.96.214:8000/live/negro/negro/198.ts
+#EXTINF:0,USA: TSN4
+http://104.245.96.214:8000/live/negro/negro/199.ts
+#EXTINF:0,USA: TSN5
+http://104.245.96.214:8000/live/negro/negro/200.ts
+#EXTINF:0,USA | MLB GAME PASS HD MATCH 1
+http://104.245.96.214:8000/live/negro/negro/695.ts
+#EXTINF:0,USA | MLB GAME PASS HD MATCH 2
+http://104.245.96.214:8000/live/negro/negro/687.ts
+#EXTINF:0,USA | MLB GAME PASS HD MATCH 3
+http://104.245.96.214:8000/live/negro/negro/686.ts
+#EXTINF:0,USA | MLB GAME PASS HD MATCH 4
+http://104.245.96.214:8000/live/negro/negro/685.ts
+#EXTINF:0,USA | MLB GAME PASS HD MATCH 5
+http://104.245.96.214:8000/live/negro/negro/684.ts
+#EXTINF:0,USA | MLB GAME PASS HD MATCH 6
+http://104.245.96.214:8000/live/negro/negro/683.ts
+#EXTINF:0,USA | MLB GAME PASS HD MATCH 7
+http://104.245.96.214:8000/live/negro/negro/682.ts
+#EXTINF:0,USA | MLB GAME PASS HD MATCH 8
+http://104.245.96.214:8000/live/negro/negro/681.ts
+#EXTINF:0,USA | MLB GAME PASS HD MATCH 9
+http://104.245.96.214:8000/live/negro/negro/680.ts
+#EXTINF:0,USA | MLB GAME PASS HD MATCH 10
+http://104.245.96.214:8000/live/negro/negro/694.ts
+#EXTINF:0,USA | NBA Live 1
+http://104.245.96.214:8000/live/negro/negro/679.ts
+#EXTINF:0,USA | NBA Live 10
+http://104.245.96.214:8000/live/negro/negro/678.ts
+#EXTINF:0,USA | NBA Live 2
+http://104.245.96.214:8000/live/negro/negro/677.ts
+#EXTINF:0,USA | NBA Live 3
+http://104.245.96.214:8000/live/negro/negro/676.ts
+#EXTINF:0,USA | NBA Live 4
+http://104.245.96.214:8000/live/negro/negro/675.ts
+#EXTINF:0,USA | NBA Live 5
+http://104.245.96.214:8000/live/negro/negro/674.ts
+#EXTINF:0,USA | NBA Live 6
+http://104.245.96.214:8000/live/negro/negro/673.ts
+#EXTINF:0,USA | NBA Live 7
+http://104.245.96.214:8000/live/negro/negro/672.ts
+#EXTINF:0,USA | NBA Live 8
+http://104.245.96.214:8000/live/negro/negro/671.ts
+#EXTINF:0,USA | NBA Live 9
+http://104.245.96.214:8000/live/negro/negro/670.ts
+#EXTINF:0,USA | NFL SUNDAY TICKET 1
+http://104.245.96.214:8000/live/negro/negro/668.ts
+#EXTINF:0,USA | NFL SUNDAY TICKET 10
+http://104.245.96.214:8000/live/negro/negro/667.ts
+#EXTINF:0,USA | NFL SUNDAY TICKET 2
+http://104.245.96.214:8000/live/negro/negro/661.ts
+#EXTINF:0,USA | NFL SUNDAY TICKET 3
+http://104.245.96.214:8000/live/negro/negro/660.ts
+#EXTINF:0,USA | NFL SUNDAY TICKET 4
+http://104.245.96.214:8000/live/negro/negro/659.ts
+#EXTINF:0,USA | NFL SUNDAY TICKET 5
+http://104.245.96.214:8000/live/negro/negro/658.ts
+#EXTINF:0,USA | NFL SUNDAY TICKET 6
+http://104.245.96.214:8000/live/negro/negro/657.ts
+#EXTINF:0,USA | NFL SUNDAY TICKET 7
+http://104.245.96.214:8000/live/negro/negro/656.ts
+#EXTINF:0,USA | NFL SUNDAY TICKET 8
+http://104.245.96.214:8000/live/negro/negro/655.ts
+#EXTINF:0,USA | NFL SUNDAY TICKET 9
+http://104.245.96.214:8000/live/negro/negro/654.ts
+#EXTINF:0,USA | NHL HD 1
+http://104.245.96.214:8000/live/negro/negro/653.ts
+#EXTINF:0,USA | NHL HD 10
+http://104.245.96.214:8000/live/negro/negro/652.ts
+#EXTINF:0,USA | NHL HD 11
+http://104.245.96.214:8000/live/negro/negro/651.ts
+#EXTINF:0,USA | NHL HD 12
+http://104.245.96.214:8000/live/negro/negro/650.ts
+#EXTINF:0,USA | NHL HD 13
+http://104.245.96.214:8000/live/negro/negro/649.ts
+#EXTINF:0,USA | NHL HD 2
+http://104.245.96.214:8000/live/negro/negro/648.ts
+#EXTINF:0,USA | NHL HD 3
+http://104.245.96.214:8000/live/negro/negro/647.ts
+#EXTINF:0,USA | NHL HD 4
+http://104.245.96.214:8000/live/negro/negro/646.ts
+#EXTINF:0,USA | NHL HD 5
+http://104.245.96.214:8000/live/negro/negro/645.ts
+#EXTINF:0,USA | NHL HD 6
+http://104.245.96.214:8000/live/negro/negro/644.ts
+#EXTINF:0,USA | NHL HD 7
+http://104.245.96.214:8000/live/negro/negro/643.ts
+#EXTINF:0,USA | NHL HD 8
+http://104.245.96.214:8000/live/negro/negro/642.ts
+#EXTINF:0,USA | NHL HD 9
+http://104.245.96.214:8000/live/negro/negro/641.ts
+#EXTINF:0,VE: La Teletuya
+http://104.245.96.214:8000/live/negro/negro/271.ts
+#EXTINF:0,VE: Meridiano
+http://104.245.96.214:8000/live/negro/negro/980.ts
+#EXTINF:0,VH1
+http://104.245.96.214:8000/live/negro/negro/95.ts
+#EXTINF:0,VH1 Classics
+http://104.245.96.214:8000/live/negro/negro/98.ts
+#EXTINF:0,Warner Channel
+http://104.245.96.214:8000/live/negro/negro/18.ts
+#EXTINF:0,PPV: 1 (Solo eventos)
+http://104.245.96.214:8000/live/negro/negro/1482.ts
+#EXTINF:0,PPV: 2 (Solo eventos)
+http://104.245.96.214:8000/live/negro/negro/1483.ts
+#EXTINF:0,PPV: 3 (Solo eventos)
+http://104.245.96.214:8000/live/negro/negro/1484.ts
+#EXTINF:0,PPV: 4 (Solo eventos)
+http://104.245.96.214:8000/live/negro/negro/1485.ts
+#EXTINF:0,PPV: 5 (Solo eventos)
+http://104.245.96.214:8000/live/negro/negro/1486.ts
+#EXTINF:0,PPV: 6 (Solo eventos)
+http://104.245.96.214:8000/live/negro/negro/1487.ts
+#EXTINF:0,Talentos ocultos
+http://104.245.96.214:8000/movie/negro/negro/952.mp4
+#EXTINF:0,Mechanic: Resurrection 2016
+http://104.245.96.214:8000/movie/negro/negro/954.mp4
+#EXTINF:0,The Club
+http://104.245.96.214:8000/movie/negro/negro/955.mp4
+#EXTINF:0,The Cave
+http://104.245.96.214:8000/movie/negro/negro/968.mp4
+#EXTINF:0,Una noche para sobrevivir
+http://104.245.96.214:8000/movie/negro/negro/986.mp4
+#EXTINF:0,Manchester frente al mar
+http://104.245.96.214:8000/movie/negro/negro/992.mp4
+#EXTINF:0,Rapidos y furiosos 8 (sub)
+http://104.245.96.214:8000/movie/negro/negro/993.mp4
+#EXTINF:0,Rock dog
+http://104.245.96.214:8000/movie/negro/negro/994.mp4
+#EXTINF:0,La busqueda 2004
+http://104.245.96.214:8000/movie/negro/negro/995.mp4
+#EXTINF:0,La gran muralla
+http://104.245.96.214:8000/movie/negro/negro/996.mp4
+#EXTINF:0,Max 2
+http://104.245.96.214:8000/movie/negro/negro/999.mkv
+#EXTINF:0,Un jefe en pañales
+http://104.245.96.214:8000/movie/negro/negro/1001.mp4
+#EXTINF:0,Logan 720p
+http://104.245.96.214:8000/movie/negro/negro/1002.mp4
+#EXTINF:0,Pelea de maestros
+http://104.245.96.214:8000/movie/negro/negro/1003.mp4
+#EXTINF:0,Mine
+http://104.245.96.214:8000/movie/negro/negro/1004.mp4
+#EXTINF:0,John Wick 720p
+http://104.245.96.214:8000/movie/negro/negro/1005.mp4
+#EXTINF:0,Mi papa es un gato
+http://104.245.96.214:8000/movie/negro/negro/1007.mp4
+#EXTINF:0,Batman La Lego pelicula 720p
+http://104.245.96.214:8000/movie/negro/negro/1006.mp4
+#EXTINF:0,Mascotas
+http://104.245.96.214:8000/movie/negro/negro/1009.mp4
+#EXTINF:0,Buscando a Dory
+http://104.245.96.214:8000/movie/negro/negro/1008.mp4
+#EXTINF:0,Disparo Letal
+http://104.245.96.214:8000/movie/negro/negro/1014.mp4
+#EXTINF:0,Sin salida 2011
+http://104.245.96.214:8000/movie/negro/negro/1013.mp4
+#EXTINF:0,El atico
+http://104.245.96.214:8000/movie/negro/negro/1012.mp4
+#EXTINF:0,Contrabando
+http://104.245.96.214:8000/movie/negro/negro/1011.mp4
+#EXTINF:0,Snowden
+http://104.245.96.214:8000/movie/negro/negro/1010.mp4
+#EXTINF:0,Small Crimes
+http://104.245.96.214:8000/movie/negro/negro/1015.mp4
+#EXTINF:0,El mayordomo
+http://104.245.96.214:8000/movie/negro/negro/1016.mp4
+#EXTINF:0,Fragmentado 720p
+http://104.245.96.214:8000/movie/negro/negro/1017.mp4
+#EXTINF:0,¿Tenia que ser el? 720p
+http://104.245.96.214:8000/movie/negro/negro/1018.mp4
+#EXTINF:0,La vida secreta de Walter Mitty 720p
+http://104.245.96.214:8000/movie/negro/negro/1019.mp4
+#EXTINF:0,La bella y la bestia
+http://104.245.96.214:8000/movie/negro/negro/1020.mp4
+#EXTINF:0,xXx: Reactivado
+http://104.245.96.214:8000/movie/negro/negro/1021.mp4
+#EXTINF:0,La Cabana 2017
+http://104.245.96.214:8000/movie/negro/negro/1022.mp4
+#EXTINF:0,La razon de estar contigo
+http://104.245.96.214:8000/movie/negro/negro/1023.mp4
+#EXTINF:0,Surfs up 2: wavemania
+http://104.245.96.214:8000/movie/negro/negro/1024.mp4
+#EXTINF:0,Belleza inesperada
+http://104.245.96.214:8000/movie/negro/negro/1025.mp4
+#EXTINF:0,Dia del atentado
+http://104.245.96.214:8000/movie/negro/negro/1026.mp4
+#EXTINF:0,Neruda
+http://104.245.96.214:8000/movie/negro/negro/1027.mp4
+#EXTINF:0,Moana
+http://104.245.96.214:8000/movie/negro/negro/1028.mp4
+#EXTINF:0,Boyka: Undisputed IV
+http://104.245.96.214:8000/movie/negro/negro/1030.mkv
+#EXTINF:0,La la land
+http://104.245.96.214:8000/movie/negro/negro/1032.mp4
+#EXTINF:0,Pele el nacimiento de una leyenda
+http://104.245.96.214:8000/movie/negro/negro/1031.mp4
+#EXTINF:0,Hasta el ultimo hombre
+http://104.245.96.214:8000/movie/negro/negro/1037.mp4
+#EXTINF:0,Focus
+http://104.245.96.214:8000/movie/negro/negro/1036.mp4
+#EXTINF:0,Ted 2
+http://104.245.96.214:8000/movie/negro/negro/1035.mp4
+#EXTINF:0,Extraction
+http://104.245.96.214:8000/movie/negro/negro/1034.mp4
+#EXTINF:0,Cincuenta sombras mas oscuras
+http://104.245.96.214:8000/movie/negro/negro/1033.mp4
+#EXTINF:0,Eliminators
+http://104.245.96.214:8000/movie/negro/negro/1040.mp4
+#EXTINF:0,The Discovery
+http://104.245.96.214:8000/movie/negro/negro/1039.mp4
+#EXTINF:0,Redada asesina 2
+http://104.245.96.214:8000/movie/negro/negro/1038.mp4
+#EXTINF:0,La autopista 10
+http://104.245.96.214:8000/movie/negro/negro/1044.mp4
+#EXTINF:0,Colonia
+http://104.245.96.214:8000/movie/negro/negro/1043.mp4
+#EXTINF:0,John Wick 2
+http://104.245.96.214:8000/movie/negro/negro/1042.mp4
+#EXTINF:0,Kill'em All
+http://104.245.96.214:8000/movie/negro/negro/1091.mp4
+#EXTINF:0,Redencion: Los casos del departamento q (sub)
+http://104.245.96.214:8000/movie/negro/negro/1093.mp4
+#EXTINF:0,Life
+http://104.245.96.214:8000/movie/negro/negro/1092.mp4
+#EXTINF:0,Padres por desigual
+http://104.245.96.214:8000/movie/negro/negro/1103.mp4
+#EXTINF:0,La gran ola
+http://104.245.96.214:8000/movie/negro/negro/1102.mp4
+#EXTINF:0,Mentiroso mentiroso
+http://104.245.96.214:8000/movie/negro/negro/1101.mp4
+#EXTINF:0,The wizard of lies 720p
+http://104.245.96.214:8000/movie/negro/negro/1100.mp4
+#EXTINF:0,Guardian y verdugo
+http://104.245.96.214:8000/movie/negro/negro/1099.mp4
+#EXTINF:0,The Shack
+http://104.245.96.214:8000/movie/negro/negro/1098.mp4
+#EXTINF:0,Nieve negra 720p
+http://104.245.96.214:8000/movie/negro/negro/1097.mp4
+#EXTINF:0,Blame!
+http://104.245.96.214:8000/movie/negro/negro/1096.mp4
+#EXTINF:0,La mujer mas odiada de America
+http://104.245.96.214:8000/movie/negro/negro/1095.mp4
+#EXTINF:0,Maquina de guerra
+http://104.245.96.214:8000/movie/negro/negro/1094.mp4
+#EXTINF:0,Golpe de monedas
+http://104.245.96.214:8000/movie/negro/negro/1109.mp4
+#EXTINF:0,Clinical
+http://104.245.96.214:8000/movie/negro/negro/1108.mp4
+#EXTINF:0,iBoy
+http://104.245.96.214:8000/movie/negro/negro/1107.mp4
+#EXTINF:0,Castillo de arena
+http://104.245.96.214:8000/movie/negro/negro/1106.mp4
+#EXTINF:0,Death race 2050
+http://104.245.96.214:8000/movie/negro/negro/1105.mp4
+#EXTINF:0,Rings
+http://104.245.96.214:8000/movie/negro/negro/1104.mp4
+#EXTINF:0,Alicia atraves del espejo
+http://104.245.96.214:8000/movie/negro/negro/1119.mp4
+#EXTINF:0,Memorias de un asesino internacional
+http://104.245.96.214:8000/movie/negro/negro/1118.mp4
+#EXTINF:0,Escuadron suicida 720p
+http://104.245.96.214:8000/movie/negro/negro/1117.mp4
+#EXTINF:0,Jason Bourne
+http://104.245.96.214:8000/movie/negro/negro/1116.mp4
+#EXTINF:0,Juego de armas
+http://104.245.96.214:8000/movie/negro/negro/1115.mp4
+#EXTINF:0,Nerve - un juego sin reglas
+http://104.245.96.214:8000/movie/negro/negro/1114.mp4
+#EXTINF:0,Mr. Right
+http://104.245.96.214:8000/movie/negro/negro/1113.mp4
+#EXTINF:0,Mesa 19
+http://104.245.96.214:8000/movie/negro/negro/1112.mp4
+#EXTINF:0,Un espacio entre nosotros
+http://104.245.96.214:8000/movie/negro/negro/1111.mp4
+#EXTINF:0,Lucid dream
+http://104.245.96.214:8000/movie/negro/negro/1110.mp4
+#EXTINF:0,La leyenda de Tarzan 720p
+http://104.245.96.214:8000/movie/negro/negro/1120.mp4
+#EXTINF:0,Level up
+http://104.245.96.214:8000/movie/negro/negro/1121.mp4
+#EXTINF:0,Un espia y medio
+http://104.245.96.214:8000/movie/negro/negro/1126.mp4
+#EXTINF:0,Malas madres
+http://104.245.96.214:8000/movie/negro/negro/1127.mp4
+#EXTINF:0,El heroe de Berlin
+http://104.245.96.214:8000/movie/negro/negro/1128.mp4
+#EXTINF:0,Una madre imperfecta
+http://104.245.96.214:8000/movie/negro/negro/1129.mp4
+#EXTINF:0,Standoff 720p
+http://104.245.96.214:8000/movie/negro/negro/1130.mp4
+#EXTINF:0,Kong: Skull Island
+http://104.245.96.214:8000/movie/negro/negro/1793.mp4
+#EXTINF:0,Resident Evil Capitulo Final
+http://104.245.96.214:8000/movie/negro/negro/1795.mp4
+#EXTINF:0,Los Mercenarios
+http://104.245.96.214:8000/movie/negro/negro/1887.mp4
+#EXTINF:0,La Mujer Maravilla 720p
+http://104.245.96.214:8000/movie/negro/negro/1979.mp4
+#EXTINF:0,Un golpe con estilo
+http://104.245.96.214:8000/movie/negro/negro/1995.mp4
+#EXTINF:0,Hasta los huesos
+http://104.245.96.214:8000/movie/negro/negro/1997.mp4
+#EXTINF:0,Los Pitufos: La aldea escondida
+http://104.245.96.214:8000/movie/negro/negro/1998.mp4
+#EXTINF:0,Dale duro
+http://104.245.96.214:8000/movie/negro/negro/1999.mp4
+#EXTINF:0,La llegada
+http://drive.myfusionplay.com:80/dl/0B_9oNfsRaFnlWWJUdktCM2dpQTA
+#EXTINF:0,Power Rangers
+http://drive.myfusionplay.com:80/dl/0B58KC_mGsT97TWZmN3BqRUc2b0U
+#EXTINF:0,La Momia
+http://104.245.96.214:8000/movie/negro/negro/2125.mp4
+#EXTINF:0,3 Idiotas
+http://104.245.96.214:8000/movie/negro/negro/2126.mp4
+#EXTINF:0,Quiero matar a mi jefe 2
+http://104.245.96.214:8000/movie/negro/negro/2132.mp4
+#EXTINF:0,FOX HD
+http://104.245.96.214:8000/live/negro/negro/2179.ts
+#EXTINF:0,TVC Deportes HD
+http://104.245.96.214:8000/live/negro/negro/2180.ts
+#EXTINF:0,SONY HD
+http://104.245.96.214:8000/live/negro/negro/2181.ts
+#EXTINF:0,WARNER HD
+http://104.245.96.214:8000/live/negro/negro/2182.ts
+#EXTINF:0,UNIVERSAL HD
+http://104.245.96.214:8000/live/negro/negro/2183.ts
+#EXTINF:0,FX HD
+http://104.245.96.214:8000/live/negro/negro/2184.ts
+#EXTINF:0,A&E HD
+http://104.245.96.214:8000/live/negro/negro/2185.ts
+#EXTINF:0,AXN HD
+http://104.245.96.214:8000/live/negro/negro/2186.ts
+#EXTINF:0,TRUTV HD
+http://104.245.96.214:8000/live/negro/negro/2187.ts
+#EXTINF:0,COMEDY CENTRAL HD
+http://104.245.96.214:8000/live/negro/negro/2188.ts
+#EXTINF:0,HOLA TV HD
+http://104.245.96.214:8000/live/negro/negro/2189.ts
+#EXTINF:0,E! HD
+http://104.245.96.214:8000/live/negro/negro/2190.ts
+#EXTINF:0,SYFY HD
+http://104.245.96.214:8000/live/negro/negro/2191.ts
+#EXTINF:0,TNT SERIES HD
+http://104.245.96.214:8000/live/negro/negro/2192.ts
+#EXTINF:0,GOURMET HD
+http://104.245.96.214:8000/live/negro/negro/2193.ts
+#EXTINF:0,FOX LIFE HD
+http://104.245.96.214:8000/live/negro/negro/2194.ts
+#EXTINF:0,NICK HD
+http://104.245.96.214:8000/live/negro/negro/2195.ts
+#EXTINF:0,CARTOON NETWORK HD
+http://104.245.96.214:8000/live/negro/negro/2196.ts
+#EXTINF:0,DISCOVERY THEATER HD
+http://104.245.96.214:8000/live/negro/negro/2197.ts
+#EXTINF:0,HISTORY HD
+http://104.245.96.214:8000/live/negro/negro/2198.ts
+#EXTINF:0,NATGEO WILD HD
+http://104.245.96.214:8000/live/negro/negro/2199.ts
+#EXTINF:0,DISCOVERY WORLD HD
+http://104.245.96.214:8000/live/negro/negro/2200.ts
+#EXTINF:0,LIFE TIME HD
+http://104.245.96.214:8000/live/negro/negro/2201.ts
+#EXTINF:0,FOX ACTION HD
+http://104.245.96.214:8000/live/negro/negro/2203.ts
+#EXTINF:0,FOX SERIES HD
+http://104.245.96.214:8000/live/negro/negro/2202.ts
+#EXTINF:0,FOX MOVIES HD
+http://104.245.96.214:8000/live/negro/negro/2204.ts
+#EXTINF:0,CINECANAL HD
+http://104.245.96.214:8000/live/negro/negro/2205.ts
+#EXTINF:0,TNT HD
+http://104.245.96.214:8000/live/negro/negro/2206.ts
+#EXTINF:0,GOLDEN HD
+http://104.245.96.214:8000/live/negro/negro/2207.ts
+#EXTINF:0,FILMZONE HD
+http://104.245.96.214:8000/live/negro/negro/2208.ts
+#EXTINF:0,DEPELICULA HD
+http://104.245.96.214:8000/live/negro/negro/2209.ts
+#EXTINF:0,AMC HD
+http://104.245.96.214:8000/live/negro/negro/2210.ts
+#EXTINF:0,SPACE HD
+http://104.245.96.214:8000/live/negro/negro/2211.ts
+#EXTINF:0,CINEMAX HD
+http://104.245.96.214:8000/live/negro/negro/2212.ts
+#EXTINF:0,ESPN 2 HD
+http://104.245.96.214:8000/live/negro/negro/2216.ts
+#EXTINF:0,ESPN 3 HD
+http://104.245.96.214:8000/live/negro/negro/2214.ts
+#EXTINF:0,ESPN HD
+http://104.245.96.214:8000/live/negro/negro/2215.ts
+#EXTINF:0,ESPN PLUS HD
+http://104.245.96.214:8000/live/negro/negro/2213.ts
+#EXTINF:0,FOX SPORTS 2 HD
+http://104.245.96.214:8000/live/negro/negro/2218.ts
+#EXTINF:0,FOX SPORTS 3 HD
+http://104.245.96.214:8000/live/negro/negro/2219.ts
+#EXTINF:0,FOX SPORTS HD
+http://104.245.96.214:8000/live/negro/negro/2217.ts
+#EXTINF:0,MTV  LIVE HD
+http://104.245.96.214:8000/live/negro/negro/2221.ts
+#EXTINF:0,MTV HD
+http://104.245.96.214:8000/live/negro/negro/2224.ts
+#EXTINF:0,FOOD NETWORK HD
+http://104.245.96.214:8000/live/negro/negro/2225.ts
+#EXTINF:0,VH1 HD
+http://104.245.96.214:8000/live/negro/negro/2223.ts
+#EXTINF:0,TELEHIT HD
+http://104.245.96.214:8000/live/negro/negro/2222.ts
+#EXTINF:0,GOLF CHANNEL HD
+http://104.245.96.214:8000/live/negro/negro/2220.ts
+#EXTINF:0,PARAMOUNT CHANNEL HD
+http://104.245.96.214:8000/live/negro/negro/2226.ts
+#EXTINF:0,NATGEO KIDS HD
+http://104.245.96.214:8000/live/negro/negro/2227.ts
+#EXTINF:0,CANAL FORMULA1 HD
+http://104.245.96.214:8000/live/negro/negro/2228.ts
+#EXTINF:0,MN TVC HD
+http://104.245.96.214:8000/live/negro/negro/2229.ts
+#EXTINF:0,RT HD
+http://104.245.96.214:8000/live/negro/negro/2230.ts
+#EXTINF:0,DISCOVERY KIDS HD
+http://104.245.96.214:8000/live/negro/negro/2231.ts
+#EXTINF:0,DISCOVERY TURBO HD
+http://104.245.96.214:8000/live/negro/negro/2232.ts
+#EXTINF:0,HBO 2 HD
+http://104.245.96.214:8000/live/negro/negro/2236.ts
+#EXTINF:0,HBO FAMILY HD
+http://104.245.96.214:8000/live/negro/negro/2237.ts
+#EXTINF:0,HBO HD
+http://104.245.96.214:8000/live/negro/negro/2238.ts
+#EXTINF:0,HBO PLUS HD
+http://104.245.96.214:8000/live/negro/negro/2239.ts
+#EXTINF:0,HBO SIGNATURE HD
+http://104.245.96.214:8000/live/negro/negro/2240.ts
+#EXTINF:0,MAX UP HD
+http://104.245.96.214:8000/live/negro/negro/2241.ts
+#EXTINF:0,NICK 2 HD
+http://104.245.96.214:8000/live/negro/negro/2242.ts
+#EXTINF:0,INVESTIGATION DISCOVERY HD
+http://104.245.96.214:8000/live/negro/negro/2243.ts
+#EXTINF:0,DISCOVERY CHANNEL HD
+http://104.245.96.214:8000/live/negro/negro/2244.ts
+#EXTINF:0,TLC DISCOVERY HD
+http://104.245.96.214:8000/live/negro/negro/2245.ts
+#EXTINF:0,BABY FIRST HD
+http://104.245.96.214:8000/live/negro/negro/2246.ts
+#EXTINF:0,BR || A&E
+http://104.245.96.214:8000/live/negro/negro/2399.ts
+#EXTINF:0,BR || Arte
+http://104.245.96.214:8000/live/negro/negro/2398.ts
+#EXTINF:0,BR || Band
+http://104.245.96.214:8000/live/negro/negro/2396.ts
+#EXTINF:0,BR || Band News
+http://104.245.96.214:8000/live/negro/negro/2395.ts
+#EXTINF:0,BR || Band Sports
+http://104.245.96.214:8000/live/negro/negro/2394.ts
+#EXTINF:0,BR || Bis
+http://104.245.96.214:8000/live/negro/negro/2393.ts
+#EXTINF:0,BR || Brazil 2
+http://104.245.96.214:8000/live/negro/negro/2392.ts
+#EXTINF:0,BR || Canacao Nova
+http://104.245.96.214:8000/live/negro/negro/2391.ts
+#EXTINF:0,BR || Canal Do Boi
+http://104.245.96.214:8000/live/negro/negro/2390.ts
+#EXTINF:0,BR || Canal Escola
+http://104.245.96.214:8000/live/negro/negro/2389.ts
+#EXTINF:0,BR || Conexao
+http://104.245.96.214:8000/live/negro/negro/2388.ts
+#EXTINF:0,BR || Discovery
+http://104.245.96.214:8000/live/negro/negro/2387.ts
+#EXTINF:0,BR || DW Latin
+http://104.245.96.214:8000/live/negro/negro/2386.ts
+#EXTINF:0,BR || ESPN Brazil
+http://104.245.96.214:8000/live/negro/negro/2385.ts
+#EXTINF:0,BR || Fish tv
+http://104.245.96.214:8000/live/negro/negro/2384.ts
+#EXTINF:0,BR || Fox
+http://104.245.96.214:8000/live/negro/negro/2383.ts
+#EXTINF:0,BR || FOX Sports
+http://104.245.96.214:8000/live/negro/negro/2382.ts
+#EXTINF:0,BR || FOX Sports 2
+http://104.245.96.214:8000/live/negro/negro/2366.ts
+#EXTINF:0,BR || Globo News
+http://104.245.96.214:8000/live/negro/negro/2380.ts
+#EXTINF:0,BR || Globo TV
+http://104.245.96.214:8000/live/negro/negro/2381.ts
+#EXTINF:0,BR || HBO
+http://104.245.96.214:8000/live/negro/negro/2379.ts
+#EXTINF:0,BR || HBO 2
+http://104.245.96.214:8000/live/negro/negro/2378.ts
+#EXTINF:0,BR || HBO Family
+http://104.245.96.214:8000/live/negro/negro/2377.ts
+#EXTINF:0,BR || History
+http://104.245.96.214:8000/live/negro/negro/2376.ts
+#EXTINF:0,BR || Multi TV
+http://104.245.96.214:8000/live/negro/negro/2375.ts
+#EXTINF:0,BR || Rede TV
+http://104.245.96.214:8000/live/negro/negro/2374.ts
+#EXTINF:0,BR || SporTV2
+http://104.245.96.214:8000/live/negro/negro/2373.ts
+#EXTINF:0,BR || SporTV3
+http://104.245.96.214:8000/live/negro/negro/2372.ts
+#EXTINF:0,BR || TBS
+http://104.245.96.214:8000/live/negro/negro/2371.ts
+#EXTINF:0,BR || TV Brazil
+http://104.245.96.214:8000/live/negro/negro/2370.ts
+#EXTINF:0,BR || TV Diario
+http://104.245.96.214:8000/live/negro/negro/2368.ts
+#EXTINF:0,BR || TV Geral
+http://104.245.96.214:8000/live/negro/negro/2369.ts
+#EXTINF:0,BR || TVE
+http://104.245.96.214:8000/live/negro/negro/2367.ts
+#EXTINF:0,USA || A&E HD
+http://104.245.96.214:8000/live/negro/negro/2602.ts
+#EXTINF:0,USA || ABC HD
+http://104.245.96.214:8000/live/negro/negro/2601.ts
+#EXTINF:0,USA || ABC News
+http://104.245.96.214:8000/live/negro/negro/2531.ts
+#EXTINF:0,USA || AFN MOVIE
+http://104.245.96.214:8000/live/negro/negro/2600.ts
+#EXTINF:0,USA || AFN NEWS
+http://104.245.96.214:8000/live/negro/negro/2599.ts
+#EXTINF:0,USA || AFN PRIME ATLANTIC
+http://104.245.96.214:8000/live/negro/negro/2598.ts
+#EXTINF:0,USA || AFN PRIME PACIFIC
+http://104.245.96.214:8000/live/negro/negro/2597.ts
+#EXTINF:0,USA || AFN PULSE
+http://104.245.96.214:8000/live/negro/negro/2596.ts
+#EXTINF:0,USA || AFN SPECTRUM
+http://104.245.96.214:8000/live/negro/negro/2595.ts
+#EXTINF:0,USA || AFN SPORTS
+http://104.245.96.214:8000/live/negro/negro/2594.ts
+#EXTINF:0,USA || AFN SPORTS 2
+http://104.245.96.214:8000/live/negro/negro/2593.ts
+#EXTINF:0,USA || AMC HD
+http://104.245.96.214:8000/live/negro/negro/2592.ts
+#EXTINF:0,USA || Animal Planet HD
+http://104.245.96.214:8000/live/negro/negro/2591.ts
+#EXTINF:0,USA || BRAVO HD
+http://104.245.96.214:8000/live/negro/negro/2590.ts
+#EXTINF:0,USA || CartoonNetwork
+http://104.245.96.214:8000/live/negro/negro/2581.ts
+#EXTINF:0,USA || CBS HD
+http://104.245.96.214:8000/live/negro/negro/2589.ts
+#EXTINF:0,USA || CINEMAX HD
+http://104.245.96.214:8000/live/negro/negro/2587.ts
+#EXTINF:0,USA || Cinemax MoreMax HD
+http://104.245.96.214:8000/live/negro/negro/2586.ts
+#EXTINF:0,USA || Cinemax ThrillerMax HD
+http://104.245.96.214:8000/live/negro/negro/2585.ts
+#EXTINF:0,USA || CNBC-US (nbc at 3pm)
+http://104.245.96.214:8000/live/negro/negro/2584.ts
+#EXTINF:0,USA || CNN HD
+http://104.245.96.214:8000/live/negro/negro/2583.ts
+#EXTINF:0,USA || Comedy Central
+http://104.245.96.214:8000/live/negro/negro/2582.ts
+#EXTINF:0,USA || CW
+http://104.245.96.214:8000/live/negro/negro/2580.ts
+#EXTINF:0,USA || CW11
+http://104.245.96.214:8000/live/negro/negro/2588.ts
+#EXTINF:0,USA || Discovery HD
+http://104.245.96.214:8000/live/negro/negro/2578.ts
+#EXTINF:0,USA || DISCOVERY SCIENCE
+http://104.245.96.214:8000/live/negro/negro/2577.ts
+#EXTINF:0,USA || DisneyChannel
+http://104.245.96.214:8000/live/negro/negro/2579.ts
+#EXTINF:0,USA || DIY NETWORK HD
+http://104.245.96.214:8000/live/negro/negro/2576.ts
+#EXTINF:0,USA || E!
+http://104.245.96.214:8000/live/negro/negro/2575.ts
+#EXTINF:0,USA || ESPN
+http://104.245.96.214:8000/live/negro/negro/2574.ts
+#EXTINF:0,USA || ESPN 2
+http://104.245.96.214:8000/live/negro/negro/2573.ts
+#EXTINF:0,USA || Fight Network
+http://104.245.96.214:8000/live/negro/negro/2572.ts
+#EXTINF:0,USA || Food Network HD
+http://104.245.96.214:8000/live/negro/negro/2571.ts
+#EXTINF:0,USA || Fox
+http://104.245.96.214:8000/live/negro/negro/2570.ts
+#EXTINF:0,USA || FOX 5 HD
+http://104.245.96.214:8000/live/negro/negro/2569.ts
+#EXTINF:0,USA || Fox News HD
+http://104.245.96.214:8000/live/negro/negro/2567.ts
+#EXTINF:0,USA || Fox Soccer Plus HD US
+http://104.245.96.214:8000/live/negro/negro/2568.ts
+#EXTINF:0,USA || Fox Sports 1 HD
+http://104.245.96.214:8000/live/negro/negro/2566.ts
+#EXTINF:0,USA || Fox Sports 2 HD
+http://104.245.96.214:8000/live/negro/negro/2565.ts
+#EXTINF:0,USA || FOXMiami
+http://104.245.96.214:8000/live/negro/negro/2558.ts
+#EXTINF:0,USA || FreeForm HD
+http://104.245.96.214:8000/live/negro/negro/2564.ts
+#EXTINF:0,USA || FX HD
+http://104.245.96.214:8000/live/negro/negro/2563.ts
+#EXTINF:0,USA || FXX
+http://104.245.96.214:8000/live/negro/negro/2562.ts
+#EXTINF:0,USA || Golf HD
+http://104.245.96.214:8000/live/negro/negro/2561.ts
+#EXTINF:0,USA || H2
+http://104.245.96.214:8000/live/negro/negro/2560.ts
+#EXTINF:0,USA || HallMark HD
+http://104.245.96.214:8000/live/negro/negro/2559.ts
+#EXTINF:0,USA || HBO Comedy (nbc at 3pm)
+http://104.245.96.214:8000/live/negro/negro/2557.ts
+#EXTINF:0,USA || HBO Family
+http://104.245.96.214:8000/live/negro/negro/2556.ts
+#EXTINF:0,USA || HBO HD 1
+http://104.245.96.214:8000/live/negro/negro/2555.ts
+#EXTINF:0,USA || HBO HD 2
+http://104.245.96.214:8000/live/negro/negro/2554.ts
+#EXTINF:0,USA || HBO Signature
+http://104.245.96.214:8000/live/negro/negro/2553.ts
+#EXTINF:0,USA || HBO Zone
+http://104.245.96.214:8000/live/negro/negro/2552.ts
+#EXTINF:0,USA || HGTV
+http://104.245.96.214:8000/live/negro/negro/2551.ts
+#EXTINF:0,USA || HISTORY
+http://104.245.96.214:8000/live/negro/negro/2550.ts
+#EXTINF:0,USA || Investigation Discovery HD
+http://104.245.96.214:8000/live/negro/negro/2549.ts
+#EXTINF:0,USA || LIFETIME
+http://104.245.96.214:8000/live/negro/negro/2548.ts
+#EXTINF:0,USA || NASA TV HD
+http://104.245.96.214:8000/live/negro/negro/2547.ts
+#EXTINF:0,USA || National Geographic
+http://104.245.96.214:8000/live/negro/negro/2546.ts
+#EXTINF:0,USA || NBA HD
+http://104.245.96.214:8000/live/negro/negro/2545.ts
+#EXTINF:0,USA || NBC
+http://104.245.96.214:8000/live/negro/negro/2544.ts
+#EXTINF:0,USA || NBC GOLF
+http://104.245.96.214:8000/live/negro/negro/2543.ts
+#EXTINF:0,USA || NBC Sports Network HD
+http://104.245.96.214:8000/live/negro/negro/2542.ts
+#EXTINF:0,USA || NFL NETWORK
+http://104.245.96.214:8000/live/negro/negro/2541.ts
+#EXTINF:0,USA || NHL Network (nbc goalrush at 3pm)
+http://104.245.96.214:8000/live/negro/negro/2540.ts
+#EXTINF:0,USA || PAC 12 WASHINGTON HD
+http://104.245.96.214:8000/live/negro/negro/2539.ts
+#EXTINF:0,USA || PBS
+http://104.245.96.214:8000/live/negro/negro/2538.ts
+#EXTINF:0,USA || Showtime
+http://104.245.96.214:8000/live/negro/negro/2537.ts
+#EXTINF:0,USA || ShowTime 2 HD
+http://104.245.96.214:8000/live/negro/negro/2536.ts
+#EXTINF:0,USA || SPIKE HD
+http://104.245.96.214:8000/live/negro/negro/2535.ts
+#EXTINF:0,USA || Sports Net 360 HD
+http://104.245.96.214:8000/live/negro/negro/2533.ts
+#EXTINF:0,USA || Sports Net One HD
+http://104.245.96.214:8000/live/negro/negro/2532.ts
+#EXTINF:0,USA || Starz Cinema HD
+http://104.245.96.214:8000/live/negro/negro/2530.ts
+#EXTINF:0,USA || STARZ HD
+http://104.245.96.214:8000/live/negro/negro/2529.ts
+#EXTINF:0,USA || SYFY HD
+http://104.245.96.214:8000/live/negro/negro/2528.ts
+#EXTINF:0,USA || TBS
+http://104.245.96.214:8000/live/negro/negro/2527.ts
+#EXTINF:0,USA || Tennis Channel HD
+http://104.245.96.214:8000/live/negro/negro/2526.ts
+#EXTINF:0,USA || TLC HD
+http://104.245.96.214:8000/live/negro/negro/2525.ts
+#EXTINF:0,USA || TNT HD
+http://104.245.96.214:8000/live/negro/negro/2524.ts
+#EXTINF:0,USA || TRU TV HD
+http://104.245.96.214:8000/live/negro/negro/2523.ts
+#EXTINF:0,USA || TSN-1
+http://104.245.96.214:8000/live/negro/negro/2534.ts
+#EXTINF:0,USA || UNIVERSAL HD
+http://104.245.96.214:8000/live/negro/negro/2522.ts
+#EXTINF:0,USA || USA NETWORK
+http://104.245.96.214:8000/live/negro/negro/2521.ts
+#EXTINF:0,XXX: Juicy
+http://104.245.96.214:8000/live/negro/negro/211.ts
+#EXTINF:0,XXX: PentHouse HD
+http://104.245.96.214:8000/live/negro/negro/153.ts
+#EXTINF:0,XXX: PLAYBOY HD
+http://104.245.96.214:8000/live/negro/negro/113.ts
+#EXTINF:0,XXX: VENUS
+http://104.245.96.214:8000/live/negro/negro/114.ts
+#EXTINF:0,XXX: Hustler
+http://104.245.96.214:8000/live/negro/negro/154.ts
+#EXTINF:0,XXX: Xtsy
+http://104.245.96.214:8000/live/negro/negro/214.ts
+#EXTINF:0,XXX: Sextreme
+http://104.245.96.214:8000/live/negro/negro/1488.ts
