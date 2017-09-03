@@ -1,4 +1,301 @@
 #EXTM3U
+#EXTINF:-1,#0 HD ES
+http://193.200.164.137:8080/live/julia/julia/1056.m3u8
+#EXTINF:-1,A&E ES
+http://193.200.164.137:8080/live/julia/julia/1028.m3u8
+#EXTINF:-1,AMC HD ES
+http://193.200.164.137:8080/live/julia/julia/1053.m3u8
+#EXTINF:-1,AXN HD ES
+http://193.200.164.137:8080/live/julia/julia/1052.m3u8
+#EXTINF:-1,AXN White ES
+http://193.200.164.137:8080/live/julia/julia/1051.m3u8
+#EXTINF:-1,Extremadura TV ES
+http://193.200.164.137:8080/live/julia/julia/1078.m3u8
+#EXTINF:-1,Antena 3 HD ES
+http://193.200.164.137:8080/live/julia/julia/1084.m3u8
+#EXTINF:-1,Lancelot TV ES
+http://193.200.164.137:8080/live/julia/julia/1022.m3u8
+#EXTINF:-1,Barca TV ES
+http://193.200.164.137:8080/live/julia/julia/1038.m3u8
+#EXTINF:-1,Boing ES
+http://193.200.164.137:8080/live/julia/julia/1015.m3u8
+#EXTINF:-1,C+ Estrellas ES
+http://193.200.164.137:8080/live/julia/julia/1046.m3u8
+#EXTINF:-1,Calle 13 HD ES
+http://193.200.164.137:8080/live/julia/julia/1049.m3u8
+#EXTINF:-1,Canal Cocina ES
+http://193.200.164.137:8080/live/julia/julia/1025.m3u8
+#EXTINF:-1,Canal Decasa ES
+http://193.200.164.137:8080/live/julia/julia/1024.m3u8
+#EXTINF:-1,Canal Panda ES
+http://193.200.164.137:8080/live/julia/julia/1023.m3u8
+#EXTINF:-1,Canal SUR ES
+http://193.200.164.137:8080/live/julia/julia/1057.m3u8
+#EXTINF:-1,Caza Y Pesca ES
+http://193.200.164.137:8080/live/julia/julia/1027.m3u8
+#EXTINF:-1,TV3 Cat ES
+http://193.200.164.137:8080/live/julia/julia/1019.m3u8
+#EXTINF:-1,Comedy Central HD ES
+http://193.200.164.137:8080/live/julia/julia/1048.m3u8
+#EXTINF:-1,Cosmos HD ES
+http://193.200.164.137:8080/live/julia/julia/1047.m3u8
+#EXTINF:-1,Cuatro ES
+http://193.200.164.137:8080/live/julia/julia/1083.m3u8
+#EXTINF:-1,Discovery HD ES
+http://193.200.164.137:8080/live/julia/julia/1030.m3u8
+#EXTINF:-1,Clan TVE ES
+http://193.200.164.137:8080/live/julia/julia/1031.m3u8
+#EXTINF:-1,Disney Channel HD ES
+http://193.200.164.137:8080/live/julia/julia/1017.m3u8
+#EXTINF:-1,Disney XD ES
+http://193.200.164.137:8080/live/julia/julia/1016.m3u8
+#EXTINF:-1,Energy ES
+http://193.200.164.137:8080/live/julia/julia/1044.m3u8
+#EXTINF:-1,EuroNews ES
+http://193.200.164.137:8080/live/julia/julia/1018.m3u8
+#EXTINF:-1,EuroSport 1 HD ES
+http://193.200.164.137:8080/live/julia/julia/1036.m3u8
+#EXTINF:-1,Fox News ES
+http://193.200.164.137:8080/live/julia/julia/1074.m3u8
+#EXTINF:-1,FDF ES
+http://193.200.164.137:8080/live/julia/julia/1045.m3u8
+#EXTINF:-1,Fox HD ES
+http://193.200.164.137:8080/live/julia/julia/1055.m3u8
+#EXTINF:-1,Fox Life HD ES
+http://193.200.164.137:8080/live/julia/julia/1054.m3u8
+#EXTINF:-1,Galicia TV ES
+http://193.200.164.137:8080/live/julia/julia/1075.m3u8
+#EXTINF:-1,Gol TV ES
+http://193.200.164.137:8080/live/julia/julia/1040.m3u8
+#EXTINF:-1,Andalucia TV ES
+http://193.200.164.137:8080/live/julia/julia/1039.m3u8
+#EXTINF:-1,Historia ES
+http://193.200.164.137:8080/live/julia/julia/1029.m3u8
+#EXTINF:-1,Hollywood ES
+http://193.200.164.137:8080/live/julia/julia/1060.m3u8
+#EXTINF:-1,La 1 ES
+http://193.200.164.137:8080/live/julia/julia/1086.m3u8
+#EXTINF:-1,La Sexta ES
+http://193.200.164.137:8080/live/julia/julia/1081.m3u8
+#EXTINF:-1,LaLiga TV Bar ES
+http://193.200.164.137:8080/live/julia/julia/1062.m3u8
+#EXTINF:-1,Mega ES
+http://193.200.164.137:8080/live/julia/julia/1012.m3u8
+#EXTINF:-1,MovieStar Accion ES
+http://193.200.164.137:8080/live/julia/julia/1070.m3u8
+#EXTINF:-1,MovieStar Comedia ES
+http://193.200.164.137:8080/live/julia/julia/1069.m3u8
+#EXTINF:-1,MovieStar DCine ES
+http://193.200.164.137:8080/live/julia/julia/1068.m3u8
+#EXTINF:-1,MovieStar Deportes 1 ES
+http://193.200.164.137:8080/live/julia/julia/1064.m3u8
+#EXTINF:-1,MovieStar Deportes 2 HD ES
+http://193.200.164.137:8080/live/julia/julia/1073.m3u8
+#EXTINF:-1,MovieStar Estrenos ES
+http://193.200.164.137:8080/live/julia/julia/1072.m3u8
+#EXTINF:-1,MovieStar F1 ES
+http://193.200.164.137:8080/live/julia/julia/1035.m3u8
+#EXTINF:-1,MovieStar Futbol ES
+http://193.200.164.137:8080/live/julia/julia/1063.m3u8
+#EXTINF:-1,MovieStar Golf ES
+http://193.200.164.137:8080/live/julia/julia/1061.m3u8
+#EXTINF:-1,MovieStar MotoGP HD ES
+http://193.200.164.137:8080/live/julia/julia/1041.m3u8
+#EXTINF:-1,MovieStar Series HD ES
+http://193.200.164.137:8080/live/julia/julia/1067.m3u8
+#EXTINF:-1,MovieStar Series Xtra ES
+http://193.200.164.137:8080/live/julia/julia/1066.m3u8
+#EXTINF:-1,MovieStar Toros HD ES
+http://193.200.164.137:8080/live/julia/julia/1065.m3u8
+#EXTINF:-1,MovieStar Xtra ES
+http://193.200.164.137:8080/live/julia/julia/1071.m3u8
+#EXTINF:-1,Nat Geo ES
+http://193.200.164.137:8080/live/julia/julia/1033.m3u8
+#EXTINF:-1,Nat Geo Wild HD ES
+http://193.200.164.137:8080/live/julia/julia/1032.m3u8
+#EXTINF:-1,Neox ES
+http://193.200.164.137:8080/live/julia/julia/1079.m3u8
+#EXTINF:-1,Nick Junior ES
+http://193.200.164.137:8080/live/julia/julia/1013.m3u8
+#EXTINF:-1,Nickelodeon HD ES
+http://193.200.164.137:8080/live/julia/julia/1014.m3u8
+#EXTINF:-1,Nova ES
+http://193.200.164.137:8080/live/julia/julia/1080.m3u8
+#EXTINF:-1,Odisea HD ES
+http://193.200.164.137:8080/live/julia/julia/1034.m3u8
+#EXTINF:-1,Telecinco HD ES
+http://193.200.164.137:8080/live/julia/julia/1077.m3u8
+#EXTINF:-1,Esperanza TV ES
+http://193.200.164.137:8080/live/julia/julia/1020.m3u8
+#EXTINF:-1,Real Madrid TV ES
+http://193.200.164.137:8080/live/julia/julia/1037.m3u8
+#EXTINF:-1,SyFy HD ES
+http://193.200.164.137:8080/live/julia/julia/1050.m3u8
+#EXTINF:-1,TCM ES
+http://193.200.164.137:8080/live/julia/julia/1059.m3u8
+#EXTINF:-1,TNT ES
+http://193.200.164.137:8080/live/julia/julia/1058.m3u8
+#EXTINF:-1,TV3 24H ES
+http://193.200.164.137:8080/live/julia/julia/1021.m3u8
+#EXTINF:-1,La Sexta HD ES
+http://193.200.164.137:8080/live/julia/julia/1076.m3u8
+#EXTINF:-1,TVE LA 2 ES
+http://193.200.164.137:8080/live/julia/julia/1085.m3u8
+#EXTINF:-1,Telecinco ES
+http://193.200.164.137:8080/live/julia/julia/1082.m3u8
+#EXTINF:-1,Viajar HD ES
+http://193.200.164.137:8080/live/julia/julia/1026.m3u8
+#EXTINF:-1,Antenna 3 FHD ES
+http://193.200.164.137:8080/live/julia/julia/4427.m3u8
+#EXTINF:-1,AXN FHD ES
+http://193.200.164.137:8080/live/julia/julia/4414.m3u8
+#EXTINF:-1,AXN White FHD ES
+http://193.200.164.137:8080/live/julia/julia/4413.m3u8
+#EXTINF:-1,C+ Accion FHD ES
+http://193.200.164.137:8080/live/julia/julia/4409.m3u8
+#EXTINF:-1,C+ DCine FHD ES
+http://193.200.164.137:8080/live/julia/julia/4407.m3u8
+#EXTINF:-1,C+ Dep 2 FHD ES
+http://193.200.164.137:8080/live/julia/julia/4405.m3u8
+#EXTINF:-1,C+ Estrenos FHD ES
+http://193.200.164.137:8080/live/julia/julia/4408.m3u8
+#EXTINF:-1,C  Series FHD ES
+http://193.200.164.137:8080/live/julia/julia/4410.m3u8
+#EXTINF:-1,C+ Xtra FHD ES
+http://193.200.164.137:8080/live/julia/julia/4411.m3u8
+#EXTINF:-1,Calle 13 FHD ES
+http://193.200.164.137:8080/live/julia/julia/4416.m3u8
+#EXTINF:-1,Caza Y Pesca FHD ES
+http://193.200.164.137:8080/live/julia/julia/4417.m3u8
+#EXTINF:-1,Cosmo FHD ES
+http://193.200.164.137:8080/live/julia/julia/4412.m3u8
+#EXTINF:-1,Cuatro FHD ES
+http://193.200.164.137:8080/live/julia/julia/4426.m3u8
+#EXTINF:-1,Disney Channel FHD ES
+http://193.200.164.137:8080/live/julia/julia/4422.m3u8
+#EXTINF:-1,Fox FHD ES
+http://193.200.164.137:8080/live/julia/julia/4415.m3u8
+#EXTINF:-1,LA 1 FHD ES
+http://193.200.164.137:8080/live/julia/julia/4428.m3u8
+#EXTINF:-1,LA Sexta FHD ES
+http://193.200.164.137:8080/live/julia/julia/4424.m3u8
+#EXTINF:-1,M  Formula 1 FHD ES
+http://193.200.164.137:8080/live/julia/julia/4400.m3u8
+#EXTINF:-1,M+ Futbol FHD ES
+http://193.200.164.137:8080/live/julia/julia/4406.m3u8
+#EXTINF:-1,M  Golf  FHD ES
+http://193.200.164.137:8080/live/julia/julia/4402.m3u8
+#EXTINF:-1,M  MotoGP FHD ES
+http://193.200.164.137:8080/live/julia/julia/4399.m3u8
+#EXTINF:-1,MoviStar F1 FHD ES
+http://193.200.164.137:8080/live/julia/julia/4401.m3u8
+#EXTINF:-1,Nat Geo FHD ES
+http://193.200.164.137:8080/live/julia/julia/4419.m3u8
+#EXTINF:-1,Nat Geo Wild FHD ES
+http://193.200.164.137:8080/live/julia/julia/4418.m3u8
+#EXTINF:-1,SyFy FHD ES
+http://193.200.164.137:8080/live/julia/julia/4420.m3u8
+#EXTINF:-1,Telecinco FHD ES
+http://193.200.164.137:8080/live/julia/julia/4425.m3u8
+#EXTINF:-1,Viajar FHD ES
+http://193.200.164.137:8080/live/julia/julia/4423.m3u8
+#EXTINF:-1,beIN LA Liga FHD ES
+http://193.200.164.137:8080/live/julia/julia/4403.m3u8
+#EXTINF:-1,beIN Sport FHD ES
+http://193.200.164.137:8080/live/julia/julia/4404.m3u8
+#EXTINF:-1,beINSport HD ES
+http://193.200.164.137:8080/live/julia/julia/1043.m3u8
+#EXTINF:-1,beINSport LaLiga HD ES
+http://193.200.164.137:8080/live/julia/julia/1042.m3u8
+
+#EXTINF:-1,#0 FHD ES
+http://193.200.164.137:8080/live/julia/julia/6085.m3u8
+#EXTINF:-1,13 TV ES
+http://193.200.164.137:8080/live/julia/julia/6093.m3u8
+#EXTINF:-1,8TV ES
+http://193.200.164.137:8080/live/julia/julia/6094.m3u8
+#EXTINF:-1,a3series HD ES
+http://193.200.164.137:8080/live/julia/julia/6097.m3u8
+#EXTINF:-1,AMC FHD ES
+http://193.200.164.137:8080/live/julia/julia/6082.m3u8
+#EXTINF:-1,Aragon TV ES
+http://193.200.164.137:8080/live/julia/julia/6091.m3u8
+#EXTINF:-1,Baby TV ES
+http://193.200.164.137:8080/live/julia/julia/6051.m3u8
+#EXTINF:-1,Canal Dark ES
+http://193.200.164.137:8080/live/julia/julia/6078.m3u8
+#EXTINF:-1,Canal Orbe 21 ES
+http://193.200.164.137:8080/live/julia/julia/6052.m3u8
+#EXTINF:-1,Cine 3D ES
+http://193.200.164.137:8080/live/julia/julia/6079.m3u8
+#EXTINF:-1,Classica ES
+http://193.200.164.137:8080/live/julia/julia/6042.m3u8
+#EXTINF:-1,Comedy Central FHD ES
+http://193.200.164.137:8080/live/julia/julia/6073.m3u8
+#EXTINF:-1,Crimen e Investigaci?n ES
+http://193.200.164.137:8080/live/julia/julia/6058.m3u8
+#EXTINF:-1,Discovery Channel FHD ES
+http://193.200.164.137:8080/live/julia/julia/6057.m3u8
+#EXTINF:-1,Disney Junior ES
+http://193.200.164.137:8080/live/julia/julia/6050.m3u8
+#EXTINF:-1,Eurosport 1 FHD ES
+http://193.200.164.137:8080/live/julia/julia/6065.m3u8
+#EXTINF:-1,Eurosport 2 FHD ES
+http://193.200.164.137:8080/live/julia/julia/6064.m3u8
+#EXTINF:-1,FOX Life FHD ES
+http://193.200.164.137:8080/live/julia/julia/6075.m3u8
+#EXTINF:-1,Gol TV HD ES
+http://193.200.164.137:8080/live/julia/julia/6066.m3u8
+#EXTINF:-1,Historia FHD ES
+http://193.200.164.137:8080/live/julia/julia/6055.m3u8
+#EXTINF:-1,Hollywood FHD ES
+http://193.200.164.137:8080/live/julia/julia/6080.m3u8
+#EXTINF:-1,Iberalia TV ES
+http://193.200.164.137:8080/live/julia/julia/6056.m3u8
+#EXTINF:-1,Kiss TV ES
+http://193.200.164.137:8080/live/julia/julia/6040.m3u8
+#EXTINF:-1,LaLigaTV FHD ES
+http://193.200.164.137:8080/live/julia/julia/6069.m3u8
+#EXTINF:-1,Levante TV ES
+http://193.200.164.137:8080/live/julia/julia/6092.m3u8
+#EXTINF:-1,LTC ES
+http://193.200.164.137:8080/live/julia/julia/6086.m3u8
+#EXTINF:-1,Mezzo Live FHD ES
+http://193.200.164.137:8080/live/julia/julia/6043.m3u8
+#EXTINF:-1,Movistar+ Comedia FHD ES
+http://193.200.164.137:8080/live/julia/julia/6083.m3u8
+#EXTINF:-1,Movistar  Deportes 1 FHD ES
+http://193.200.164.137:8080/live/julia/julia/6071.m3u8
+#EXTINF:-1,Movistar+ Series Xtra FHD ES
+http://193.200.164.137:8080/live/julia/julia/6084.m3u8
+#EXTINF:-1,MTV ES
+http://193.200.164.137:8080/live/julia/julia/6046.m3u8
+#EXTINF:-1,MTV Rocks ES ES
+http://193.200.164.137:8080/live/julia/julia/6045.m3u8
+#EXTINF:-1,Nickelodeon FHD ES
+http://193.200.164.137:8080/live/julia/julia/6048.m3u8
+#EXTINF:-1,Non Stop People ES
+http://193.200.164.137:8080/live/julia/julia/6041.m3u8
+#EXTINF:-1,Olympic Channel FHD ES
+http://193.200.164.137:8080/live/julia/julia/6063.m3u8
+#EXTINF:-1,Sundance TV ES
+http://193.200.164.137:8080/live/julia/julia/6072.m3u8
+#EXTINF:-1,TCM FHD ES
+http://193.200.164.137:8080/live/julia/julia/6081.m3u8
+#EXTINF:-1,TNT FHD ES
+http://193.200.164.137:8080/live/julia/julia/6074.m3u8
+#EXTINF:-1,Toros TV FHD ES
+http://193.200.164.137:8080/live/julia/julia/6067.m3u8
+#EXTINF:-1,TV Canaria ES
+http://193.200.164.137:8080/live/julia/julia/6090.m3u8
+#EXTINF:-1,VH1 ES
+http://193.200.164.137:8080/live/julia/julia/6044.m3u8
+#EXTINF:-1,World Padel Tour FHD ES
+http://193.200.164.137:8080/live/julia/julia/6062.m3u8
+
+#EXTINF:-1,Sport 1 HD
+http://108.168.175.182:5000/live/103/103.m3u8
+
 #EXTINF:-1,============ Spain Movistar =============
 http://toshiba13.dyndns.org:25461/live/amer/amer/740.ts
 #EXTINF:-1,[ES] Bein La Liga
