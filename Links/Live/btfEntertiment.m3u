@@ -1,292 +1,174 @@
 #EXTM3U
-#EXTINF:0,24/7: The Simpsons HD
-http://104.245.96.214:8000/live/negro/negro/836.ts
-#EXTINF:0,24/7: The Simpsons 2
-http://104.245.96.214:8000/live/negro/negro/869.ts
-#EXTINF:0,24/7: Two and half men
-http://104.245.96.214:8000/live/negro/negro/858.ts
-#EXTINF:0,24/7: Cantinflas
-http://104.245.96.214:8000/live/negro/negro/990.ts
-#EXTINF:0,24/7: Peliculas 2
-http://104.245.96.214:8000/live/negro/negro/854.ts
-#EXTINF:0,24/7: Terror
-http://104.245.96.214:8000/live/negro/negro/855.ts
-#EXTINF:0,24/7: Shin Chan
-http://104.245.96.214:8000/live/negro/negro/879.ts
-#EXTINF:0,24/7: Un hogar casi perfecto - 3X3 (2016)
-http://104.245.96.214:8000/live/negro/negro/1000.ts
-#EXTINF:0,24/7: Dragon Ball Super
-http://104.245.96.214:8000/live/negro/negro/985.ts
-#EXTINF:0,24/7: Pinky y cerebro
-http://104.245.96.214:8000/live/negro/negro/982.ts
-#EXTINF:0,24/7: Robotech
-http://104.245.96.214:8000/live/negro/negro/983.ts
-#EXTINF:0,24/7: The Big Bang Theory
-http://104.245.96.214:8000/live/negro/negro/984.ts
-#EXTINF:0,24/7: Bob Esponja SD
-http://104.245.96.214:8000/live/negro/negro/853.ts
-#EXTINF:0,24/7: Canal Disney  HD
-http://104.245.96.214:8000/live/negro/negro/852.ts
-#EXTINF:0,24/7: Dragon Ball HD
-http://104.245.96.214:8000/live/negro/negro/851.ts
-#EXTINF:0,24/7: Dragon Ball Z HD
-http://104.245.96.214:8000/live/negro/negro/850.ts
-#EXTINF:0,24/7: Doctor House
-http://104.245.96.214:8000/live/negro/negro/1123.ts
-#EXTINF:0,24/7: El principe del rap
-http://104.245.96.214:8000/live/negro/negro/1125.ts
-#EXTINF:0,24/7: El Chapulín Colorado SD
-http://104.245.96.214:8000/live/negro/negro/849.ts
-#EXTINF:0,24/7: El Chavo del Ocho SD
-http://104.245.96.214:8000/live/negro/negro/848.ts
-#EXTINF:0,24/7: Family Guy HD
-http://104.245.96.214:8000/live/negro/negro/847.ts
-#EXTINF:0,24/7: Futurama HD
-http://104.245.96.214:8000/live/negro/negro/846.ts
-#EXTINF:0,24/7: Garfield
-http://104.245.96.214:8000/live/negro/negro/1122.ts
-#EXTINF:0,24/7: Los caballeros del Zodiaco  HD
-http://104.245.96.214:8000/live/negro/negro/845.ts
-#EXTINF:0,24/7: MacGyver SD
-http://104.245.96.214:8000/live/negro/negro/834.ts
-#EXTINF:0,24/7: Malcolm  SD
-http://104.245.96.214:8000/live/negro/negro/844.ts
-#EXTINF:0,24/7: Mr. Bean SD
-http://104.245.96.214:8000/live/negro/negro/843.ts
-#EXTINF:0,24/7: Patoaventuras SD
-http://104.245.96.214:8000/live/negro/negro/842.ts
-#EXTINF:0,24/7: Pocoyó SD
-http://104.245.96.214:8000/live/negro/negro/841.ts
-#EXTINF:0,24/7: Ranma ½ HD
-http://104.245.96.214:8000/live/negro/negro/840.ts
-#EXTINF:0,24/7: Scooby-Doo HD
-http://104.245.96.214:8000/live/negro/negro/839.ts
-#EXTINF:0,24/7: South Park  HD
-http://104.245.96.214:8000/live/negro/negro/838.ts
-#EXTINF:0,24/7: Súper Campeones SD
-http://104.245.96.214:8000/live/negro/negro/837.ts
-#EXTINF:0,24/7: Slam Dunk
-http://104.245.96.214:8000/live/negro/negro/1124.ts
-#EXTINF:0,24/7: WWE 24/7 HD
-http://104.245.96.214:8000/live/negro/negro/835.ts
-#EXTINF:0,A&E
-http://104.245.96.214:8000/live/negro/negro/21.ts
-#EXTINF:0,AMC
-http://104.245.96.214:8000/live/negro/negro/75.ts
-#EXTINF:0,AMC SD
-http://104.245.96.214:8000/live/negro/negro/80.ts
-#EXTINF:0,Animal Planet
-http://104.245.96.214:8000/live/negro/negro/57.ts
-#EXTINF:0,AR: America TV
-http://104.245.96.214:8000/live/negro/negro/136.ts
-#EXTINF:0,AR: C5N
-http://104.245.96.214:8000/live/negro/negro/254.ts
-#EXTINF:0,AR: Canal 26
-http://104.245.96.214:8000/live/negro/negro/255.ts
-#EXTINF:0,AR: Canal 9
-http://104.245.96.214:8000/live/negro/negro/273.ts
-#EXTINF:0,AR: El Trece
-http://104.245.96.214:8000/live/negro/negro/252.ts
-#EXTINF:0,AR: TELEFE
-http://104.245.96.214:8000/live/negro/negro/117.ts
-#EXTINF:0,AR: TN
-http://104.245.96.214:8000/live/negro/negro/253.ts
-#EXTINF:0,AR: TV Publica
-http://104.245.96.214:8000/live/negro/negro/134.ts
-#EXTINF:0,AR: TYC Sports
-http://104.245.96.214:8000/live/negro/negro/232.ts
-#EXTINF:0,AXN
-http://104.245.96.214:8000/live/negro/negro/152.ts
-#EXTINF:0,AYM Sports
-http://104.245.96.214:8000/live/negro/negro/91.ts
-#EXTINF:0,AZCinema
-http://104.245.96.214:8000/live/negro/negro/192.ts
-#EXTINF:0,AzCorazon
-http://104.245.96.214:8000/live/negro/negro/7.ts
-#EXTINF:0,Azteca Siete
-http://104.245.96.214:8000/live/negro/negro/5.ts
-#EXTINF:0,Azteca Trece
-http://104.245.96.214:8000/live/negro/negro/6.ts
-#EXTINF:0,Bandamax
-http://104.245.96.214:8000/live/negro/negro/100.ts
-#EXTINF:0,Bein Sports Ñ
-http://104.245.96.214:8000/live/negro/negro/144.ts
-#EXTINF:0,BEIN Sports 1
-http://104.245.96.214:8000/live/negro/negro/215.ts
-#EXTINF:0,BEIN Sports 2
-http://104.245.96.214:8000/live/negro/negro/216.ts
-#EXTINF:0,BEIN Sports 3
-http://104.245.96.214:8000/live/negro/negro/217.ts
-#EXTINF:0,BEIN Sports 4
-http://104.245.96.214:8000/live/negro/negro/218.ts
-#EXTINF:0,BEIN Sports 5
-http://104.245.96.214:8000/live/negro/negro/219.ts
-#EXTINF:0,BEIN Sports 6
-http://104.245.96.214:8000/live/negro/negro/220.ts
-#EXTINF:0,BEIN Sports 7
-http://104.245.96.214:8000/live/negro/negro/221.ts
-#EXTINF:0,BEIN Sports 8
-http://104.245.96.214:8000/live/negro/negro/222.ts
-#EXTINF:0,BEIN Sports 9
-http://104.245.96.214:8000/live/negro/negro/223.ts
-#EXTINF:0,BEIN Sports 10
-http://104.245.96.214:8000/live/negro/negro/224.ts
-#EXTINF:0,BEIN Sports 11
-http://104.245.96.214:8000/live/negro/negro/225.ts
-#EXTINF:0,BEIN Sports 12
-http://104.245.96.214:8000/live/negro/negro/226.ts
-#EXTINF:0,Boomerang
-http://104.245.96.214:8000/live/negro/negro/49.ts
-#EXTINF:0,Canal 5
-http://104.245.96.214:8000/live/negro/negro/8.ts
-#EXTINF:0,Canal Formula 1
-http://104.245.96.214:8000/live/negro/negro/209.ts
-#EXTINF:0,Canal El Gourmet
-http://104.245.96.214:8000/live/negro/negro/33.ts
-#EXTINF:0,Canal Once
-http://104.245.96.214:8000/live/negro/negro/12.ts
-#EXTINF:0,Cartoon Network
-http://104.245.96.214:8000/live/negro/negro/47.ts
-#EXTINF:0,Baby TV
-http://104.245.96.214:8000/live/negro/negro/40.ts
-#EXTINF:0,Cinecanal
-http://104.245.96.214:8000/live/negro/negro/77.ts
-#EXTINF:0,Cinecanal 2
-http://104.245.96.214:8000/live/negro/negro/70.ts
-#EXTINF:0,Cinemax
-http://104.245.96.214:8000/live/negro/negro/78.ts
-#EXTINF:0,CL: 13 CABLE
-http://104.245.96.214:8000/live/negro/negro/107.ts
-#EXTINF:0,CL: CANAL13
-http://104.245.96.214:8000/live/negro/negro/103.ts
-#EXTINF:0,CL: CANAL13 HD
-http://104.245.96.214:8000/live/negro/negro/110.ts
-#EXTINF:0,CL: CHV HD
-http://104.245.96.214:8000/live/negro/negro/106.ts
-#EXTINF:0,CL: CDO
-http://104.245.96.214:8000/live/negro/negro/2133.ts
-#EXTINF:0,CL: CDF Basico
-http://104.245.96.214:8000/live/negro/negro/505.ts
-#EXTINF:0,CL: CDF Premium op1
-http://104.245.96.214:8000/live/negro/negro/988.ts
-#EXTINF:0,CL: CDF PREMIUN
-http://104.245.96.214:8000/live/negro/negro/109.ts
-#EXTINF:0,CL: CDF HD
-http://104.245.96.214:8000/live/negro/negro/2087.ts
-#EXTINF:0,CL: CDF FULL HD
-http://104.245.96.214:8000/live/negro/negro/490.ts
-#EXTINF:0,CL: Estadio CDF HD
-http://104.245.96.214:8000/live/negro/negro/261.ts
-#EXTINF:0,CL: ETC TV
-http://104.245.96.214:8000/live/negro/negro/971.ts
-#EXTINF:0,CL: FOX Sports Chile HD
-http://104.245.96.214:8000/live/negro/negro/881.ts
-#EXTINF:0,CL: LA RED
-http://104.245.96.214:8000/live/negro/negro/108.ts
-#EXTINF:0,CL: MEGA
-http://104.245.96.214:8000/live/negro/negro/102.ts
-#EXTINF:0,CL: MEGA HD
-http://104.245.96.214:8000/live/negro/negro/105.ts
-#EXTINF:0,CL: Teletrak
-http://104.245.96.214:8000/live/negro/negro/279.ts
-#EXTINF:0,CL: TVN HD
-http://104.245.96.214:8000/live/negro/negro/104.ts
-#EXTINF:0,CL: TVN 24 Horas
-http://104.245.96.214:8000/live/negro/negro/970.ts
-#EXTINF:0,CL: UCV
-http://104.245.96.214:8000/live/negro/negro/241.ts
-#EXTINF:0,Claro Sports
-http://104.245.96.214:8000/live/negro/negro/258.ts
-#EXTINF:0,CNN CHILE
-http://104.245.96.214:8000/live/negro/negro/118.ts
-#EXTINF:0,CO: Caracol
-http://104.245.96.214:8000/live/negro/negro/236.ts
-#EXTINF:0,CO: Caracol 2
-http://104.245.96.214:8000/live/negro/negro/257.ts
-#EXTINF:0,CO: Caracol Internacional
-http://104.245.96.214:8000/live/negro/negro/119.ts
-#EXTINF:0,CO: City TV
-http://104.245.96.214:8000/live/negro/negro/262.ts
-#EXTINF:0,CO: RCN
-http://104.245.96.214:8000/live/negro/negro/141.ts
-#EXTINF:0,CO: RCN HD2
-http://104.245.96.214:8000/live/negro/negro/256.ts
-#EXTINF:0,CO: TRECE COLOMBIA
-http://104.245.96.214:8000/live/negro/negro/142.ts
-#EXTINF:0,CO: WINSPORT
-http://104.245.96.214:8000/live/negro/negro/120.ts
-#EXTINF:0,Comedy Central
-http://104.245.96.214:8000/live/negro/negro/23.ts
-#EXTINF:0,CR: Repretel11
-http://104.245.96.214:8000/live/negro/negro/288.ts
-#EXTINF:0,CR: Repretel4
-http://104.245.96.214:8000/live/negro/negro/289.ts
-#EXTINF:0,CR: Repretel6
-http://104.245.96.214:8000/live/negro/negro/290.ts
-#EXTINF:0,De Pelicula
-http://104.245.96.214:8000/live/negro/negro/74.ts
-#EXTINF:0,Directv Sports
-http://104.245.96.214:8000/live/negro/negro/135.ts
-#EXTINF:0,Campeonato EC (solo eventos)
-http://104.245.96.214:8000/live/negro/negro/874.ts
-#EXTINF:0,Campeonato EC 2 (solo eventos)
-http://104.245.96.214:8000/live/negro/negro/962.ts
-#EXTINF:0,Discovery Channel
-http://104.245.96.214:8000/live/negro/negro/56.ts
-#EXTINF:0,Discovery Civilization
-http://104.245.96.214:8000/live/negro/negro/62.ts
-#EXTINF:0,Discovery Home & Health
-http://104.245.96.214:8000/live/negro/negro/58.ts
-#EXTINF:0,Discovery Kids
-http://104.245.96.214:8000/live/negro/negro/39.ts
-#EXTINF:0,Discovery Science
-http://104.245.96.214:8000/live/negro/negro/61.ts
-#EXTINF:0,Discovery Theater
-http://104.245.96.214:8000/live/negro/negro/52.ts
-#EXTINF:0,Discovery Turbo
-http://104.245.96.214:8000/live/negro/negro/63.ts
-#EXTINF:0,Discovery World
-http://104.245.96.214:8000/live/negro/negro/55.ts
-#EXTINF:0,Disney Channel
-http://104.245.96.214:8000/live/negro/negro/43.ts
-#EXTINF:0,Disney Junior
-http://104.245.96.214:8000/live/negro/negro/41.ts
-#EXTINF:0,Disney XD
-http://104.245.96.214:8000/live/negro/negro/48.ts
-#EXTINF:0,Distrito Comedia
-http://104.245.96.214:8000/live/negro/negro/36.ts
-#EXTINF:0,DW Latinoamerica
-http://104.245.96.214:8000/live/negro/negro/251.ts
-#EXTINF:0,E!
-http://104.245.96.214:8000/live/negro/negro/27.ts
-#EXTINF:0,EC: CNT Sports
-http://104.245.96.214:8000/live/negro/negro/989.ts
-#EXTINF:0,EC: CNT Sports op2
-http://104.245.96.214:8000/live/negro/negro/350.ts
-#EXTINF:0,EC: Ecuavisa
-http://104.245.96.214:8000/live/negro/negro/974.ts
-#EXTINF:0,EC: Ecuavisa op2
-http://104.245.96.214:8000/live/negro/negro/128.ts
-#EXTINF:0,EC: RTS Ecuador
-http://104.245.96.214:8000/live/negro/negro/138.ts
-#EXTINF:0,EC: Teleamazonas
-http://104.245.96.214:8000/live/negro/negro/977.ts
-#EXTINF:0,EC: Teleamazonas op2
-http://104.245.96.214:8000/live/negro/negro/129.ts
-#EXTINF:0,EC: Ecuador TV
-http://104.245.96.214:8000/live/negro/negro/131.ts
-#EXTINF:0,EC: GamaTV
-http://104.245.96.214:8000/live/negro/negro/978.ts
-#EXTINF:0,EC: GamaTV op2
-http://104.245.96.214:8000/live/negro/negro/132.ts
-#EXTINF:0,EC: TC Television
-http://104.245.96.214:8000/live/negro/negro/976.ts
-#EXTINF:0,EC: TC Television op2
-http://104.245.96.214:8000/live/negro/negro/130.ts
-#EXTINF:0,EC: Canal UNO
-http://104.245.96.214:8000/live/negro/negro/133.ts
-#EXTINF:0,EC: OromarTV
-http://104.245.96.214:8000/live/negro/negro/137.ts
+#EXTINF:-1,============ Spain Movistar =============
+http://toshiba13.dyndns.org:25461/live/amer/amer/740.ts
+#EXTINF:-1,[ES] Bein La Liga
+http://toshiba13.dyndns.org:25461/live/amer/amer/735.ts
+#EXTINF:-1,ES:Bein_Sport _ES_HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/1876.ts
+#EXTINF:-1,ES: BEIN LA LIGA 1
+http://toshiba13.dyndns.org:25461/live/amer/amer/1886.ts
+#EXTINF:-1,[ES] C LIGA HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/738.ts
+#EXTINF:-1,ES: C+ Futbol
+http://toshiba13.dyndns.org:25461/live/amer/amer/581.ts
+#EXTINF:-1,ES: MOVISTAR FUTBOL HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/724.ts
+#EXTINF:-1,ES: LA LIGATV BAR HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/1885.ts
+#EXTINF:-1,ES:TELEDEPORTE_HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/1922.ts
+#EXTINF:-1,ES: Barca TV
+http://toshiba13.dyndns.org:25461/live/amer/amer/1875.ts
+#EXTINF:-1,[ES] Movistar Deportes 1
+http://toshiba13.dyndns.org:25461/live/amer/amer/726.ts
+#EXTINF:-1,ES:DEPORTES.2
+http://toshiba13.dyndns.org:25461/live/amer/amer/1931.ts
+#EXTINF:-1,Movistar_Nat_Geo
+http://toshiba13.dyndns.org:25461/live/amer/amer/1242.ts
+#EXTINF:-1,Movistar_Nat_Geo_Wild
+http://toshiba13.dyndns.org:25461/live/amer/amer/1243.ts
+#EXTINF:-1,[ES] Movistar Toros TV
+http://toshiba13.dyndns.org:25461/live/amer/amer/729.ts
+#EXTINF:-1,[ES] Movistar Series.
+http://toshiba13.dyndns.org:25461/live/amer/amer/723.ts
+#EXTINF:-1,[ES] Movistar Series XTRA.
+http://toshiba13.dyndns.org:25461/live/amer/amer/722.ts
+#EXTINF:-1,[ES] Movistar Moto GP ES
+http://toshiba13.dyndns.org:25461/live/amer/amer/730.ts
+#EXTINF:-1,[ES] Movistar Golf
+http://toshiba13.dyndns.org:25461/live/amer/amer/731.ts
+#EXTINF:-1,[ES] Movistar F1
+http://toshiba13.dyndns.org:25461/live/amer/amer/732.ts
+#EXTINF:-1,[ES] Movistar Estrenos
+http://toshiba13.dyndns.org:25461/live/amer/amer/725.ts
+#EXTINF:-1,[ES] Movistar Dcine Ñ
+http://toshiba13.dyndns.org:25461/live/amer/amer/733.ts
+#EXTINF:-1,ES_FOX_HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/1854.ts
+#EXTINF:-1,ES:FOX_LIFE_HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/1923.ts
+#EXTINF:-1,ES: Asturias
+http://toshiba13.dyndns.org:25461/live/amer/amer/1877.ts
+#EXTINF:-1,ES: Canal 4
+http://toshiba13.dyndns.org:25461/live/amer/amer/1878.ts
+#EXTINF:-1,ES:La -SextaHD
+http://toshiba13.dyndns.org:25461/live/amer/amer/1873.ts
+#EXTINF:-1,ES:TeleticinoHD
+http://toshiba13.dyndns.org:25461/live/amer/amer/1874.ts
+#EXTINF:-1,ES: CALLE 13 HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/1888.ts
+#EXTINF:-1,ES: M. SERIES HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/1884.ts
+#EXTINF:-1,ES: SYFY HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/1883.ts
+#EXTINF:-1,ES: TCM HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/1880.ts
+#EXTINF:-1,ES: TNT HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/1881.ts
+#EXTINF:-1,ES: VIAJAR HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/1879.ts
+#EXTINF:-1,ES:ANTENA 3 HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/1882.ts
+#EXTINF:-1,[ES] Movistar Dcine
+http://toshiba13.dyndns.org:25461/live/amer/amer/734.ts
+#EXTINF:-1,ES: MOVISTAR COMEDIA HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/727.ts
+#EXTINF:-1,[ES] MOVISTAR ACTION HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/728.ts
+#EXTINF:-1,[ES] Barca TV
+http://toshiba13.dyndns.org:25461/live/amer/amer/736.ts
+#EXTINF:-1,[ES] Real Madrid TV
+http://toshiba13.dyndns.org:25461/live/amer/amer/737.ts
+#EXTINF:-1,ES:AXN
+http://toshiba13.dyndns.org:25461/live/amer/amer/1890.ts
+#EXTINF:-1,ES:ODESSEIA
+http://toshiba13.dyndns.org:25461/live/amer/amer/1893.ts
+#EXTINF:-1,ES: AMC
+http://toshiba13.dyndns.org:25461/live/amer/amer/1897.ts
+#EXTINF:-1,ES: CAZA Y PESCA
+http://toshiba13.dyndns.org:25461/live/amer/amer/1894.ts
+#EXTINF:-1,ES: CLAN TVE
+http://toshiba13.dyndns.org:25461/live/amer/amer/1896.ts
+#EXTINF:-1,ES: CUATRO
+http://toshiba13.dyndns.org:25461/live/amer/amer/1895.ts
+#EXTINF:-1,ES:LA_1_HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/1921.ts
+#EXTINF:-1,ES: TVE LA2
+http://toshiba13.dyndns.org:25461/live/amer/amer/1898.ts
+#EXTINF:-1,ES: NOVA
+http://toshiba13.dyndns.org:25461/live/amer/amer/1899.ts
+#EXTINF:-1,ES: -Hollywood-Spain-HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/582.ts
+#EXTINF:-1,ES: Comedy central
+http://toshiba13.dyndns.org:25461/live/amer/amer/1919.ts
+#EXTINF:-1,ES: COSMO HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/1918.ts
+#EXTINF:-1,ES:DISNEY XD
+http://toshiba13.dyndns.org:25461/live/amer/amer/1891.ts
+#EXTINF:-1,ES:DISNEY CHANNEL
+http://toshiba13.dyndns.org:25461/live/amer/amer/1892.ts
+#EXTINF:-1,ES: A&E
+http://toshiba13.dyndns.org:25461/live/amer/amer/1938.ts
+#EXTINF:-1,ES: CANAL DECASA
+http://toshiba13.dyndns.org:25461/live/amer/amer/1939.ts
+#EXTINF:-1,ES: EUROSPORT 1 HD esp
+http://toshiba13.dyndns.org:25461/live/amer/amer/1940.ts
+#EXTINF:-1,ES: EUROSPORT 2 HD esp
+http://toshiba13.dyndns.org:25461/live/amer/amer/1941.ts
+#EXTINF:-1,ES: GOL TV
+http://toshiba13.dyndns.org:25461/live/amer/amer/1942.ts
+#EXTINF:-1,ES: M. PARTIDAZO HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/1944.ts
+#EXTINF:-1,ES: MTV ESP
+http://toshiba13.dyndns.org:25461/live/amer/amer/1946.ts
+#EXTINF:-1,ES:ES: Canal #0 HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/1937.ts
+#EXTINF:-1,Movistar_Disney_Channel
+http://toshiba13.dyndns.org:25461/live/amer/amer/1241.ts
+#EXTINF:-1,ES:DISNEY_XD
+http://toshiba13.dyndns.org:25461/live/amer/amer/1924.ts
+#EXTINF:-1,ES:NICK_Jr
+http://toshiba13.dyndns.org:25461/live/amer/amer/1920.ts
+#EXTINF:-1,ES: CANAL HD
+http://toshiba13.dyndns.org:25461/live/amer/amer/1953.ts
+#EXTINF:-1,ES: Crime&Investigation
+http://toshiba13.dyndns.org:25461/live/amer/amer/1954.ts
+#EXTINF:-1,ES: NON STOP PEOPLE
+http://toshiba13.dyndns.org:25461/live/amer/amer/1949.ts
+#EXTINF:-1,ES: Paramount Channel
+http://toshiba13.dyndns.org:25461/live/amer/amer/1948.ts
+#EXTINF:-1,ES: VH1
+http://toshiba13.dyndns.org:25461/live/amer/amer/1950.ts
+#EXTINF:-1,ES: AXN WHITE
+http://toshiba13.dyndns.org:25461/live/amer/amer/1951.ts
+#EXTINF:-1,ES: Boing
+http://toshiba13.dyndns.org:25461/live/amer/amer/1952.ts
+#EXTINF:-1,ES.Energy
+http://toshiba13.dyndns.org:25461/live/amer/amer/1932.ts
+#EXTINF:-1,ES:TAQUILLA_1
+http://toshiba13.dyndns.org:25461/live/amer/amer/1265.ts
+#EXTINF:-1,ES:TAQUILLA_3
+http://toshiba13.dyndns.org:25461/live/amer/amer/1267.ts
+#EXTINF:-1,ES:TAQUILLA_4
+http://toshiba13.dyndns.org:25461/live/amer/amer/1268.ts
+#EXTINF:-1,ES:TAQUILLA_5
+http://toshiba13.dyndns.org:25461/live/amer/amer/1269.ts
+#EXTINF:-1,ES:TAQUILLA_6
+http://toshiba13.dyndns.org:25461/live/amer/amer/1270.ts
+#EXTINF:-1,TAQUILLA _4
+http://toshiba13.dyndns.org:25461/live/amer/amer/1459.ts
+#EXTINF:-1,TAQUILLA_1
+http://toshiba13.dyndns.org:25461/live/amer/amer/1456.ts
+#EXTINF:-1,TAQUILLA_2
+http://toshiba13.dyndns.org:25461/live/amer/amer/1457.ts
+#EXTINF:-1,TAQUILLA_3
+http://toshiba13.dyndns.org:25461/live/amer/amer/1458.ts
+#EXTINF:-1,TAQUILLA_5
+http://toshiba13.dyndns.org:25461/live/amer/amer/1460.ts
+#EXTINF:-1,TAQUILLA_6
+http://toshiba13.dyndns.org:25461/live/amer/amer/1461.ts
+#EXTINF:-1,TAQUILLA_7
+http://toshiba13.dyndns.org:25461/live/amer/amer/1462.ts
 #EXTINF:0,ES: ANDALUCIA TV
 http://104.245.96.214:8000/live/negro/negro/315.ts
 #EXTINF:0,ES: LA 1
