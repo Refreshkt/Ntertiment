@@ -249,3 +249,45 @@ http://163.172.52.83:8000/live/testapp/testapp/123.ts
 http://163.172.52.83:8000/live/testapp/testapp/124.ts
 #EXTINF:0,TAQUILLA_40
 http://163.172.52.83:8000/live/testapp/testapp/125.ts
+#EXTINF:0,SP | DISCOVERY CHANNEL
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2650.ts
+#EXTINF:0,SP | DCINE
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2651.ts
+#EXTINF:0,SP | Taquilla3
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2645.ts
+#EXTINF:0,SP | CANAL SERIES
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2655.ts
+#EXTINF:0,SP | CANAL HOLLYWOOD
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2656.ts
+#EXTINF:0,SP | CUATRO
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2652.ts
+#EXTINF:0,SP | ENERGY
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2660.ts
+#EXTINF:0,SP | Antena 3 HD
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2659.ts
+#EXTINF:0,SP | MEGA
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2664.ts
+#EXTINF:0,SP | Taquilla2
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2646.ts
+#EXTINF:0,SP | CANAL+ DEPORTES
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2661.ts
+#EXTINF:0,SP | Taquilla1
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2647.ts
+#EXTINF:0,SP | CAZA Y PESCA
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2653.ts
+#EXTINF:0,SP | CANAL ESTRENOS
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2657.ts
+#EXTINF:0,SP | CANAL+ COMEDIA HD
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2640.ts
+#EXTINF:0,SP | NOVA
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2642.ts
+#EXTINF:0,SP | BEIN SPORT ES
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2639.ts
+#EXTINF:0,SP | TVE LA1
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2666.ts
+#EXTINF:0,SP | CANAL+ LIGA HD
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2663.ts
+#EXTINF:0,SP | NAT GEO WILD
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2643.ts
+#EXTINF:0,SP | Taquilla4
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2644.ts
