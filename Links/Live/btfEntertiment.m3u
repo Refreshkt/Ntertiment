@@ -1,293 +1,594 @@
 #EXTM3U
-#EXTINF:0,#0 HD
+#EXTINF:-1,ES: Canal  Futbol
+http://163.172.217.107:1944/live/7/zf8TH5W6jb/72.ts
+#EXTINF:-1,ES: Canal  Liga
+http://163.172.217.107:1944/live/7/zf8TH5W6jb/70.ts
+#EXTINF:-1,ES: Canal  Liga 2
+http://163.172.217.107:1944/live/7/zf8TH5W6jb/71.ts
+#EXTINF:-1,#0 HD
 http://163.172.52.83:8000/live/testapp/testapp/198.ts
-#EXTINF:0,LA 1 HD
+#EXTINF:-1,LA 1 HD
 http://163.172.52.83:8000/live/testapp/testapp/210.ts
-#EXTINF:0,LA 2
+#EXTINF:-1,LA 2
 http://163.172.52.83:8000/live/testapp/testapp/359.ts
-#EXTINF:0,ANTENA 3 HD
+#EXTINF:-1,ANTENA 3 HD
 http://163.172.52.83:8000/live/testapp/testapp/216.ts
-#EXTINF:0,CUATRO HD
+#EXTINF:-1,CUATRO HD
 http://163.172.52.83:8000/live/testapp/testapp/212.ts
-#EXTINF:0,TELECINCO HD
+#EXTINF:-1,TELECINCO HD
 http://163.172.52.83:8000/live/testapp/testapp/200.ts
-#EXTINF:0,LA SEXTA HD
+#EXTINF:-1,LA SEXTA HD
 http://163.172.52.83:8000/live/testapp/testapp/218.ts
-#EXTINF:0,FOX LIFE HD
+#EXTINF:-1,FOX LIFE HD
 http://163.172.52.83:8000/live/testapp/testapp/191.ts
-#EXTINF:0,FOX HD
+#EXTINF:-1,FOX HD
 http://163.172.52.83:8000/live/testapp/testapp/219.ts
-#EXTINF:0,AXN WHITE HD
+#EXTINF:-1,AXN WHITE HD
 http://163.172.52.83:8000/live/testapp/testapp/214.ts
-#EXTINF:0,AXN HD
+#EXTINF:-1,AXN HD
 http://163.172.52.83:8000/live/testapp/testapp/215.ts
-#EXTINF:0,HOLLYWOODHD
+#EXTINF:-1,HOLLYWOODHD
 http://163.172.52.83:8000/live/testapp/testapp/211.ts
-#EXTINF:0,M.ESTRENOSHD
+#EXTINF:-1,M.ESTRENOSHD
 http://163.172.52.83:8000/live/testapp/testapp/203.ts
-#EXTINF:0,M.COMEDIA HD
+#EXTINF:-1,M.COMEDIA HD
 http://163.172.52.83:8000/live/testapp/testapp/204.ts
-#EXTINF:0,M. XTRA HD
+#EXTINF:-1,M. XTRA HD
 http://163.172.52.83:8000/live/testapp/testapp/205.ts
-#EXTINF:0,M. SeriesXtraHD
+#EXTINF:-1,M. SeriesXtraHD
 http://163.172.52.83:8000/live/testapp/testapp/187.ts
-#EXTINF:0,M. SERIES HD
+#EXTINF:-1,M. SERIES HD
 http://163.172.52.83:8000/live/testapp/testapp/188.ts
-#EXTINF:0,M. DCINE HD
+#EXTINF:-1,M. DCINE HD
 http://163.172.52.83:8000/live/testapp/testapp/208.ts
-#EXTINF:0,M. ACCI©N HD
+#EXTINF:-1,M. ACCI©N HD
 http://163.172.52.83:8000/live/testapp/testapp/209.ts
-#EXTINF:0,SYFY HD
+#EXTINF:-1,SYFY HD
 http://163.172.52.83:8000/live/testapp/testapp/201.ts
-#EXTINF:0,TNT HD
+#EXTINF:-1,TNT HD
 http://163.172.52.83:8000/live/testapp/testapp/182.ts
-#EXTINF:0,TCM HD
+#EXTINF:-1,TCM HD
 http://163.172.52.83:8000/live/testapp/testapp/183.ts
-#EXTINF:0,AMC HD
+#EXTINF:-1,AMC HD
 http://163.172.52.83:8000/live/testapp/testapp/217.ts
-#EXTINF:0,FDF
+#EXTINF:-1,FDF
 http://163.172.52.83:8000/live/testapp/testapp/381.ts
-#EXTINF:0,CLAN TVE
+#EXTINF:-1,CLAN TVE
 http://163.172.52.83:8000/live/testapp/testapp/382.ts
-#EXTINF:0,NICKELODEONHD
+#EXTINF:-1,NICKELODEONHD
 http://163.172.52.83:8000/live/testapp/testapp/184.ts
-#EXTINF:0,COSMO HD
+#EXTINF:-1,COSMO HD
 http://163.172.52.83:8000/live/testapp/testapp/194.ts
-#EXTINF:0,COMEDYCENTRALHD
+#EXTINF:-1,COMEDYCENTRALHD
 http://163.172.52.83:8000/live/testapp/testapp/195.ts
-#EXTINF:0,CALLE 13 HD
+#EXTINF:-1,CALLE 13 HD
 http://163.172.52.83:8000/live/testapp/testapp/196.ts
-#EXTINF:0,MEZZO LIVE HD
+#EXTINF:-1,MEZZO LIVE HD
 http://163.172.52.83:8000/live/testapp/testapp/380.ts
-#EXTINF:0,BEIN SPORT HD
+#EXTINF:-1,BEIN SPORT HD
 http://163.172.52.83:8000/live/testapp/testapp/197.ts
-#EXTINF:0,BEIN LALIGA HD
+#EXTINF:-1,BEIN LALIGA HD
 http://163.172.52.83:8000/live/testapp/testapp/213.ts
-#EXTINF:0,LALIGA TV BAR HD
+#EXTINF:-1,LALIGA TV BAR HD
 http://163.172.52.83:8000/live/testapp/testapp/360.ts
-#EXTINF:0,MOVISTAR  PARTIDAZO LIVE SESSION
+#EXTINF:-1,MOVISTAR  PARTIDAZO LIVE SESSION
 http://163.172.52.83:8000/live/testapp/testapp/337.ts
-#EXTINF:0,M.MOTOGPHD
+#EXTINF:-1,M.MOTOGPHD
 http://163.172.52.83:8000/live/testapp/testapp/220.ts
-#EXTINF:0,M.FORMULA1HD
+#EXTINF:-1,M.FORMULA1HD
 http://163.172.52.83:8000/live/testapp/testapp/202.ts
-#EXTINF:0,M. GOLF HD
+#EXTINF:-1,M. GOLF HD
 http://163.172.52.83:8000/live/testapp/testapp/189.ts
-#EXTINF:0,M. F.TBOL HD
+#EXTINF:-1,M. F.TBOL HD
 http://163.172.52.83:8000/live/testapp/testapp/206.ts
-#EXTINF:0,M. DEP 2 HD
+#EXTINF:-1,M. DEP 2 HD
 http://163.172.52.83:8000/live/testapp/testapp/207.ts
-#EXTINF:0,M. DEP 1 HD
+#EXTINF:-1,M. DEP 1 HD
 http://163.172.52.83:8000/live/testapp/testapp/190.ts
-#EXTINF:0,GOL TV
+#EXTINF:-1,GOL TV
 http://163.172.52.83:8000/live/testapp/testapp/357.ts
-#EXTINF:0,R. MADRID TV
+#EXTINF:-1,R. MADRID TV
 http://163.172.52.83:8000/live/testapp/testapp/242.ts
-#EXTINF:0,BARCA TV
+#EXTINF:-1,BARCA TV
 http://163.172.52.83:8000/live/testapp/testapp/259.ts
-#EXTINF:0,EUROSPORT1HD
+#EXTINF:-1,EUROSPORT1HD
 http://163.172.52.83:8000/live/testapp/testapp/192.ts
-#EXTINF:0,EUROSPORT 2
+#EXTINF:-1,EUROSPORT 2
 http://163.172.52.83:8000/live/testapp/testapp/355.ts
-#EXTINF:0,TOROS TV HD
+#EXTINF:-1,TOROS TV HD
 http://163.172.52.83:8000/live/testapp/testapp/379.ts
-#EXTINF:0,BEINLALIGA1
+#EXTINF:-1,BEINLALIGA1
 http://163.172.52.83:8000/live/testapp/testapp/384.ts
-#EXTINF:0,BEINLALIGA2
+#EXTINF:-1,BEINLALIGA2
 http://163.172.52.83:8000/live/testapp/testapp/383.ts
-#EXTINF:0,BEIN MAX 1
+#EXTINF:-1,BEIN MAX 1
 http://163.172.52.83:8000/live/testapp/testapp/386.ts
-#EXTINF:0,BEIN MAX 2
+#EXTINF:-1,BEIN MAX 2
 http://163.172.52.83:8000/live/testapp/testapp/385.ts
-#EXTINF:0,NG WILD HD
+#EXTINF:-1,NG WILD HD
 http://163.172.52.83:8000/live/testapp/testapp/185.ts
-#EXTINF:0,VIAJAR HD
+#EXTINF:-1,VIAJAR HD
 http://163.172.52.83:8000/live/testapp/testapp/199.ts
-#EXTINF:0,NAT GEO HD
+#EXTINF:-1,NAT GEO HD
 http://163.172.52.83:8000/live/testapp/testapp/186.ts
-#EXTINF:0,CAZA Y PESCA HD
+#EXTINF:-1,CAZA Y PESCA HD
 http://163.172.52.83:8000/live/testapp/testapp/348.ts
-#EXTINF:0,BABY TV
+#EXTINF:-1,BABY TV
 http://163.172.52.83:8000/live/testapp/testapp/260.ts
-#EXTINF:0,DISNEY CH HD
+#EXTINF:-1,DISNEY CH HD
 http://163.172.52.83:8000/live/testapp/testapp/193.ts
-#EXTINF:0,24 HORAS
+#EXTINF:-1,24 HORAS
 http://163.172.52.83:8000/live/testapp/testapp/263.ts
-#EXTINF:0,NEOX
+#EXTINF:-1,NEOX
 http://163.172.52.83:8000/live/testapp/testapp/243.ts
-#EXTINF:0,M. Cine Espaæol
+#EXTINF:-1,M. Cine Espaæol
 http://163.172.52.83:8000/live/testapp/testapp/245.ts
-#EXTINF:0,LTC
+#EXTINF:-1,LTC
 http://163.172.52.83:8000/live/testapp/testapp/246.ts
-#EXTINF:0,PARAMOUNT
+#EXTINF:-1,PARAMOUNT
 http://163.172.52.83:8000/live/testapp/testapp/375.ts
-#EXTINF:0,CANAL ODISEA
+#EXTINF:-1,CANAL ODISEA
 http://163.172.52.83:8000/live/testapp/testapp/345.ts
-#EXTINF:0,CANAL DECASA
+#EXTINF:-1,CANAL DECASA
 http://163.172.52.83:8000/live/testapp/testapp/343.ts
-#EXTINF:0,NONSTOPEOPLE
+#EXTINF:-1,NONSTOPEOPLE
 http://163.172.52.83:8000/live/testapp/testapp/373.ts
-#EXTINF:0,MTV ESPA¹A
+#EXTINF:-1,MTV ESPA¹A
 http://163.172.52.83:8000/live/testapp/testapp/244.ts
-#EXTINF:0,HISTORIA
+#EXTINF:-1,HISTORIA
 http://163.172.52.83:8000/live/testapp/testapp/247.ts
-#EXTINF:0,DIVINITY
+#EXTINF:-1,DIVINITY
 http://163.172.52.83:8000/live/testapp/testapp/250.ts
-#EXTINF:0,DISNEY XD
+#EXTINF:-1,DISNEY XD
 http://163.172.52.83:8000/live/testapp/testapp/251.ts
-#EXTINF:0,DISCOVERY
+#EXTINF:-1,DISCOVERY
 http://163.172.52.83:8000/live/testapp/testapp/252.ts
-#EXTINF:0,CRIMEN INVES
+#EXTINF:-1,CRIMEN INVES
 http://163.172.52.83:8000/live/testapp/testapp/253.ts
-#EXTINF:0,CLASSICA
+#EXTINF:-1,CLASSICA
 http://163.172.52.83:8000/live/testapp/testapp/254.ts
-#EXTINF:0,CANAL SUR A.
+#EXTINF:-1,CANAL SUR A.
 http://163.172.52.83:8000/live/testapp/testapp/256.ts
-#EXTINF:0,CANAL PANDA
+#EXTINF:-1,CANAL PANDA
 http://163.172.52.83:8000/live/testapp/testapp/257.ts
-#EXTINF:0,BOING
+#EXTINF:-1,BOING
 http://163.172.52.83:8000/live/testapp/testapp/258.ts
-#EXTINF:0,ARAGON TV
+#EXTINF:-1,ARAGON TV
 http://163.172.52.83:8000/live/testapp/testapp/261.ts
-#EXTINF:0,A&E
+#EXTINF:-1,A&E
 http://163.172.52.83:8000/live/testapp/testapp/262.ts
-#EXTINF:0,C&I
+#EXTINF:-1,C&I
 http://163.172.52.83:8000/live/testapp/testapp/341.ts
-#EXTINF:0,ENERGY
+#EXTINF:-1,ENERGY
 http://163.172.52.83:8000/live/testapp/testapp/352.ts
-#EXTINF:0,SUNDANCE
+#EXTINF:-1,SUNDANCE
 http://163.172.52.83:8000/live/testapp/testapp/393.ts
-#EXTINF:0,NIck JR
+#EXTINF:-1,NIck JR
 http://163.172.52.83:8000/live/testapp/testapp/392.ts
-#EXTINF:0,M. deport
+#EXTINF:-1,M. deport
 http://163.172.52.83:8000/live/testapp/testapp/391.ts
-#EXTINF:0,FOX NEWS
+#EXTINF:-1,FOX NEWS
 http://163.172.52.83:8000/live/testapp/testapp/389.ts
-#EXTINF:0,DISNEY PIXAR
+#EXTINF:-1,DISNEY PIXAR
 http://163.172.52.83:8000/live/testapp/testapp/390.ts
-#EXTINF:0,CANAL ORBE21
+#EXTINF:-1,CANAL ORBE21
 http://163.172.52.83:8000/live/testapp/testapp/388.ts
-#EXTINF:0,CANAL COCINA
+#EXTINF:-1,CANAL COCINA
 http://163.172.52.83:8000/live/testapp/testapp/387.ts
-#EXTINF:0,TAQUILLA_1
+#EXTINF:-1,TAQUILLA_1
 http://163.172.52.83:8000/live/testapp/testapp/86.ts
-#EXTINF:0,TAQUILLA_2
+#EXTINF:-1,TAQUILLA_2
 http://163.172.52.83:8000/live/testapp/testapp/87.ts
-#EXTINF:0,TAQUILLA_3
+#EXTINF:-1,TAQUILLA_3
 http://163.172.52.83:8000/live/testapp/testapp/88.ts
-#EXTINF:0,TAQUILLA_4
+#EXTINF:-1,TAQUILLA_4
 http://163.172.52.83:8000/live/testapp/testapp/89.ts
-#EXTINF:0,TAQUILLA_5
+#EXTINF:-1,TAQUILLA_5
 http://163.172.52.83:8000/live/testapp/testapp/90.ts
-#EXTINF:0,TAQUILLA_6
+#EXTINF:-1,TAQUILLA_6
 http://163.172.52.83:8000/live/testapp/testapp/91.ts
-#EXTINF:0,TAQUILLA_7
+#EXTINF:-1,TAQUILLA_7
 http://163.172.52.83:8000/live/testapp/testapp/92.ts
-#EXTINF:0,TAQUILLA_8
+#EXTINF:-1,TAQUILLA_8
 http://163.172.52.83:8000/live/testapp/testapp/93.ts
-#EXTINF:0,TAQUILLA_9
+#EXTINF:-1,TAQUILLA_9
 http://163.172.52.83:8000/live/testapp/testapp/94.ts
-#EXTINF:0,TAQUILLA_10
+#EXTINF:-1,TAQUILLA_10
 http://163.172.52.83:8000/live/testapp/testapp/95.ts
-#EXTINF:0,TAQUILLA_11
+#EXTINF:-1,TAQUILLA_11
 http://163.172.52.83:8000/live/testapp/testapp/96.ts
-#EXTINF:0,TAQUILLA_12
+#EXTINF:-1,TAQUILLA_12
 http://163.172.52.83:8000/live/testapp/testapp/97.ts
-#EXTINF:0,TAQUILLA_13
+#EXTINF:-1,TAQUILLA_13
 http://163.172.52.83:8000/live/testapp/testapp/98.ts
-#EXTINF:0,TAQUILLA_14
+#EXTINF:-1,TAQUILLA_14
 http://163.172.52.83:8000/live/testapp/testapp/99.ts
-#EXTINF:0,TAQUILLA_15
+#EXTINF:-1,TAQUILLA_15
 http://163.172.52.83:8000/live/testapp/testapp/100.ts
-#EXTINF:0,TAQUILLA_16
+#EXTINF:-1,TAQUILLA_16
 http://163.172.52.83:8000/live/testapp/testapp/101.ts
-#EXTINF:0,TAQUILLA_17
+#EXTINF:-1,TAQUILLA_17
 http://163.172.52.83:8000/live/testapp/testapp/102.ts
-#EXTINF:0,TAQUILLA_18
+#EXTINF:-1,TAQUILLA_18
 http://163.172.52.83:8000/live/testapp/testapp/103.ts
-#EXTINF:0,TAQUILLA_19
+#EXTINF:-1,TAQUILLA_19
 http://163.172.52.83:8000/live/testapp/testapp/104.ts
-#EXTINF:0,TAQUILLA_20
+#EXTINF:-1,TAQUILLA_20
 http://163.172.52.83:8000/live/testapp/testapp/105.ts
-#EXTINF:0,TAQUILLA_21
+#EXTINF:-1,TAQUILLA_21
 http://163.172.52.83:8000/live/testapp/testapp/106.ts
-#EXTINF:0,TAQUILLA_22
+#EXTINF:-1,TAQUILLA_22
 http://163.172.52.83:8000/live/testapp/testapp/107.ts
-#EXTINF:0,TAQUILLA_23
+#EXTINF:-1,TAQUILLA_23
 http://163.172.52.83:8000/live/testapp/testapp/108.ts
-#EXTINF:0,TAQUILLA_24
+#EXTINF:-1,TAQUILLA_24
 http://163.172.52.83:8000/live/testapp/testapp/109.ts
-#EXTINF:0,TAQUILLA_25
+#EXTINF:-1,TAQUILLA_25
 http://163.172.52.83:8000/live/testapp/testapp/110.ts
-#EXTINF:0,TAQUILLA_26
+#EXTINF:-1,TAQUILLA_26
 http://163.172.52.83:8000/live/testapp/testapp/111.ts
-#EXTINF:0,TAQUILLA_27
+#EXTINF:-1,TAQUILLA_27
 http://163.172.52.83:8000/live/testapp/testapp/112.ts
-#EXTINF:0,TAQUILLA_28
+#EXTINF:-1,TAQUILLA_28
 http://163.172.52.83:8000/live/testapp/testapp/113.ts
-#EXTINF:0,TAQUILLA_29
+#EXTINF:-1,TAQUILLA_29
 http://163.172.52.83:8000/live/testapp/testapp/114.ts
-#EXTINF:0,TAQUILLA_30
+#EXTINF:-1,TAQUILLA_30
 http://163.172.52.83:8000/live/testapp/testapp/115.ts
-#EXTINF:0,TAQUILLA_31
+#EXTINF:-1,TAQUILLA_31
 http://163.172.52.83:8000/live/testapp/testapp/116.ts
-#EXTINF:0,TAQUILLA_32
+#EXTINF:-1,TAQUILLA_32
 http://163.172.52.83:8000/live/testapp/testapp/117.ts
-#EXTINF:0,TAQUILLA_33
+#EXTINF:-1,TAQUILLA_33
 http://163.172.52.83:8000/live/testapp/testapp/118.ts
-#EXTINF:0,TAQUILLA_34
+#EXTINF:-1,TAQUILLA_34
 http://163.172.52.83:8000/live/testapp/testapp/119.ts
-#EXTINF:0,TAQUILLA_35
+#EXTINF:-1,TAQUILLA_35
 http://163.172.52.83:8000/live/testapp/testapp/120.ts
-#EXTINF:0,TAQUILLA_36
+#EXTINF:-1,TAQUILLA_36
 http://163.172.52.83:8000/live/testapp/testapp/121.ts
-#EXTINF:0,TAQUILLA_37
+#EXTINF:-1,TAQUILLA_37
 http://163.172.52.83:8000/live/testapp/testapp/122.ts
-#EXTINF:0,TAQUILLA_38
+#EXTINF:-1,TAQUILLA_38
 http://163.172.52.83:8000/live/testapp/testapp/123.ts
-#EXTINF:0,TAQUILLA_39
+#EXTINF:-1,TAQUILLA_39
 http://163.172.52.83:8000/live/testapp/testapp/124.ts
-#EXTINF:0,TAQUILLA_40
+#EXTINF:-1,TAQUILLA_40
 http://163.172.52.83:8000/live/testapp/testapp/125.ts
-#EXTINF:0,SP | DISCOVERY CHANNEL
-http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2650.ts
-#EXTINF:0,SP | DCINE
-http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2651.ts
-#EXTINF:0,SP | Taquilla3
-http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2645.ts
-#EXTINF:0,SP | CANAL SERIES
-http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2655.ts
-#EXTINF:0,SP | CANAL HOLLYWOOD
-http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2656.ts
-#EXTINF:0,SP | CUATRO
-http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2652.ts
-#EXTINF:0,SP | ENERGY
-http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2660.ts
-#EXTINF:0,SP | Antena 3 HD
-http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2659.ts
-#EXTINF:0,SP | MEGA
-http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2664.ts
-#EXTINF:0,SP | Taquilla2
-http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2646.ts
-#EXTINF:0,SP | CANAL+ DEPORTES
-http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2661.ts
-#EXTINF:0,SP | Taquilla1
-http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2647.ts
-#EXTINF:0,SP | CAZA Y PESCA
-http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2653.ts
-#EXTINF:0,SP | CANAL ESTRENOS
-http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2657.ts
-#EXTINF:0,SP | CANAL+ COMEDIA HD
-http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2640.ts
-#EXTINF:0,SP | NOVA
-http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2642.ts
-#EXTINF:0,SP | BEIN SPORT ES
-http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2639.ts
-#EXTINF:0,SP | TVE LA1
-http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2666.ts
-#EXTINF:0,SP | CANAL+ LIGA HD
-http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2663.ts
-#EXTINF:0,SP | NAT GEO WILD
-http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2643.ts
-#EXTINF:0,SP | Taquilla4
-http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2644.ts
+#EXTINF:-1,SP | DISCOVERY CHANNEL
+http://ip156.ip-193-70-116.eu:8080/live/aliguner1/fIZgJmqKp2/2650.ts
+#EXTINF:-1,SP | DCINE
+http://ip156.ip-193-70-116.eu:8080/live/aliguner1/fIZgJmqKp2/2651.ts
+#EXTINF:-1,SP | Taquilla3
+http://ip156.ip-193-70-116.eu:8080/live/aliguner1/fIZgJmqKp2/2645.ts
+#EXTINF:-1,SP | CANAL SERIES
+http://ip156.ip-193-70-116.eu:8080/live/aliguner1/fIZgJmqKp2/2655.ts
+#EXTINF:-1,SP | CANAL HOLLYWOOD
+http://ip156.ip-193-70-116.eu:8080/live/aliguner1/fIZgJmqKp2/2656.ts
+#EXTINF:-1,SP | CUATRO
+http://ip156.ip-193-70-116.eu:8080/live/aliguner1/fIZgJmqKp2/2652.ts
+#EXTINF:-1,SP | ENERGY
+http://ip156.ip-193-70-116.eu:8080/live/aliguner1/fIZgJmqKp2/2660.ts
+#EXTINF:-1,SP | Antena 3 HD
+http://ip156.ip-193-70-116.eu:8080/live/aliguner1/fIZgJmqKp2/2659.ts
+#EXTINF:-1,SP | MEGA
+http://ip156.ip-193-70-116.eu:8080/live/aliguner1/fIZgJmqKp2/2664.ts
+#EXTINF:-1,SP | Taquilla2
+http://ip156.ip-193-70-116.eu:8080/live/aliguner1/fIZgJmqKp2/2646.ts
+#EXTINF:-1,SP | CANAL+ DEPORTES
+http://ip156.ip-193-70-116.eu:8080/live/aliguner1/fIZgJmqKp2/2661.ts
+#EXTINF:-1,SP | Taquilla1
+http://ip156.ip-193-70-116.eu:8080/live/aliguner1/fIZgJmqKp2/2647.ts
+#EXTINF:-1,SP | CAZA Y PESCA
+http://ip156.ip-193-70-116.eu:8080/live/aliguner1/fIZgJmqKp2/2653.ts
+#EXTINF:-1,SP | CANAL ESTRENOS
+http://ip156.ip-193-70-116.eu:8080/live/aliguner1/fIZgJmqKp2/2657.ts
+#EXTINF:-1,SP | CANAL+ COMEDIA HD
+http://ip156.ip-193-70-116.eu:8080/live/aliguner1/fIZgJmqKp2/2640.ts
+#EXTINF:-1,SP | NOVA
+http://ip156.ip-193-70-116.eu:8080/live/aliguner1/fIZgJmqKp2/2642.ts
+#EXTINF:-1,SP | BEIN SPORT ES
+http://ip156.ip-193-70-116.eu:8080/live/aliguner1/fIZgJmqKp2/2639.ts
+#EXTINF:-1,SP | TVE LA1
+http://ip156.ip-193-70-116.eu:8080/live/aliguner1/fIZgJmqKp2/2666.ts
+#EXTINF:-1,SP | CANAL+ LIGA HD
+http://ip156.ip-193-70-116.eu:8080/live/aliguner1/fIZgJmqKp2/2663.ts
+#EXTINF:-1,SP | NAT GEO WILD
+http://ip156.ip-193-70-116.eu:8080/live/aliguner1/fIZgJmqKp2/2643.ts
+#EXTINF:-1,SP | Taquilla4
+http://ip156.ip-193-70-116.eu:8080/live/aliguner1/fIZgJmqKp2/2644.ts
+#EXTINF:-1,SP | CANAL ESTRENOS
+http://5.135.232.194:8080/live/run259/LiRdslrtAU/6923.ts
+#EXTINF:-1,SP | CANAL HOLLYWOOD
+http://5.135.232.194:8080/live/run259/LiRdslrtAU/6912.ts
+#EXTINF:-1,SP | CANAL SERIES
+http://5.135.232.194:8080/live/run259/LiRdslrtAU/6911.ts
+#EXTINF:-1,SP | CANAL+ COMEDIA HD
+http://5.135.232.194:8080/live/run259/LiRdslrtAU/6926.ts
+#EXTINF:-1,SP | Taquilla1
+http://5.135.232.194:8080/live/run259/LiRdslrtAU/6921.ts
+#EXTINF:-1,SP | Taquilla2
+http://5.135.232.194:8080/live/run259/LiRdslrtAU/6918.ts
+#EXTINF:-1,SP | Taquilla3
+http://5.135.232.194:8080/live/run259/LiRdslrtAU/6910.ts
+#EXTINF:-1,SP | Taquilla4
+http://5.135.232.194:8080/live/run259/LiRdslrtAU/6934.ts
+#EXTINF:-1,SP | A&E
+http://5.135.232.194:8080/live/run259/LiRdslrtAU/6931.ts
+#EXTINF:-1,SP | Antena 3 HD
+http://5.135.232.194:8080/live/run259/LiRdslrtAU/6915.ts
+#EXTINF:-1,SP | BEIN SPORT ES
+http://5.135.232.194:8080/live/run259/LiRdslrtAU/6929.ts
+#EXTINF:-1,SP | CAZA Y PESCA
+http://5.135.232.194:8080/live/run259/LiRdslrtAU/6922.ts
+#EXTINF:-1,SP | CUATRO
+http://5.135.232.194:8080/live/run259/LiRdslrtAU/6913.ts
+#EXTINF:-1,SP | DCINE
+http://5.135.232.194:8080/live/run259/LiRdslrtAU/6909.ts
+#EXTINF:-1,SP | ENERGY
+http://5.135.232.194:8080/live/run259/LiRdslrtAU/6914.ts
+#EXTINF:-1,SP | MEGA
+http://5.135.232.194:8080/live/run259/LiRdslrtAU/6916.ts
+#EXTINF:-1,SP | NOVA
+http://5.135.232.194:8080/live/run259/LiRdslrtAU/6928.ts
+#EXTINF:-1,SP | TVE LA1
+http://5.135.232.194:8080/live/run259/LiRdslrtAU/6930.ts
+#EXTINF:-1,SP | DISCOVERY CHANNEL
+http://5.135.232.194:8080/live/run259/LiRdslrtAU/6908.ts
+#EXTINF:-1,SP | NAT GEO WILD
+http://5.135.232.194:8080/live/run259/LiRdslrtAU/6933.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES : MOVISTAR F1 HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1558.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES : MOVISTAR FORMULA 1
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1559.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES : movistar Futbol
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1560.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES : MOVISTAR MOTOGP
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1561.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: 24 Horas
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1571.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: 40 TV
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1570.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: A&E
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1579.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: AMC
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1580.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: AXN HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1581.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: BABY TV
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/23.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: BARCA TV
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1569.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: beIN LA Liga FHD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/221.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: beIN LaLIga 1 (event only)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1577.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: beIN Laliga 1 HD Backup
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/220.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: beIN LaLIga 2 (event only)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1576.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: beIN LaLIga 3 (event only)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1575.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Bein Liga HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1582.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Bein Sport HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1583.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Boing
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1584.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Canal  ESTRENOS HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1612.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: CANAL COCINA
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1585.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Canal De Las Estrellas
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1565.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: CANAL DECASA
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1586.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Canal SERIES HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1587.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Caza y pesca
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1588.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Clan Tve
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1589.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1568.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: COSMO HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1590.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Crimen Investigation
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1563.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: DISCOVERY
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1622.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1623.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: DISNEY XD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1625.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: DIVINITY
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1591.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Energy
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1574.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: EUROSPORT 1
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1573.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: EUROSPORT 2
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1572.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: FDF
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1592.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: FOX HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1626.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: GOL Tv
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1593.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1629.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: IBERALIA
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1594.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: LA 2 HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1595.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: La Liga BAR HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1596.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: MEGA
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1632.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Movistar Partidazo HD (event only)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/177.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: MTV ESPANA
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1562.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: NEOX
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1597.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: NICKELODEON HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1598.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Nonstop People
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1567.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: NOVA
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1599.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: ODISEA HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1600.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: PANDA
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1601.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Paramount
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1564.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Real Madrid Channel
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/839.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: SYFY
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1602.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: TNT
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1603.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:ANTENA 3 HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1604.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:AXN WHITE HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1605.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:CALLE 13 HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1606.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:CANAL  ACTION HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1607.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  COMEDIA HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1608.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  DCINE HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1609.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  DEPORTES 2 HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1610.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  DEPORTES HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1611.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  FUTBOL HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1613.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  GOLF HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1614.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  LIGA 2 HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1615.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  LIGA HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1616.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  SERIES XTRA HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1617.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  TOROS HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1618.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  XTRA HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1619.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:CUATRO HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1620.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:DISCOVERY CHANNEL HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1621.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:DISNEY JUNIOR
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1624.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:FOX LIFE HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1627.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:HISTORIA
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1628.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:LA 1 HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1630.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:LA SEXTA HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1631.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:NAT GEO WILD HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1633.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:NATIONAL GEOGRAPHIC HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1634.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:NICK Jr
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1635.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:TCM HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1636.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:TELECINCO HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1637.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:TELEDEPORTE HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1638.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:VIAJAR HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1639.ts
