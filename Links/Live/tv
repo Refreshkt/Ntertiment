@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1, La 1
+http://hlsackdn_gl7-lh.akamaihd.net/i/hlsdvrlive_1@566874/master.m3u8
+
+#EXTINF:-1, La 2
+http://hlsackdn_gl0-lh.akamaihd.net/i/hlslive_1@439422/master.m3u8
+
+#EXTINF:-1, TDP
+http://hlsackdn_gl1-lh.akamaihd.net/i/hlsdvrlive_1@137561/master.m3u8
+
+#EXTINF:-1, 24H
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
+
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+
+#EXTINF:-1, 
