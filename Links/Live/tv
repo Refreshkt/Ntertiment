@@ -24,6 +24,9 @@ http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE
 #EXTINF:-1, Telecinco
 http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b.m3u8
 
+#EXTINF:-1, Telecinco
+http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/ZjdDVsNTE6AGr8xEgww56vHTV42Lo1Sz/cn/64a4314853d144169ff33a9e4532ddff.m3u8
+
 #EXTINF:-1, La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8
 
