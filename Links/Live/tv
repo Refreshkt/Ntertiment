@@ -16,6 +16,9 @@ http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8
 
 #EXTINF:-1, Cuatro
+http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/NmbWM5YjE6LAH8o-VL3vr3hw3JqSTnRU/cn/fb3d6852c1ac44c982aa727fe9e791cd.m3u8
+
+#EXTINF:-1, Cuatro
 http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_4.m3u8
 
 #EXTINF:-1, Telecinco
@@ -26,6 +29,9 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8
 
 #EXTINF:-1, Divinity
 http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/IybDNyYTE6j7PZaKerX9iKFSCuctjf5B/cn/95d3fccb2d6f4ad6b09d23e7c67d3acf_1.m3u8
+
+#EXTINF:-1, FDF
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/5vMGFjYjE6FW20QNvfFor1J8AiF0JAyp/cn/73742da67a5947919a8bb82035fa9224_1.m3u8
 
 #EXTINF:-1, FDF
 http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/loYTNlYjE6KFUGlp_a0YvbscmkxBie8v/cn/30aa9e379dfa4815ba6d36cbb70fc254.m3u8
@@ -48,5 +54,9 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1, Nova
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 
+#EXTINF:-1, BeMad
+http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/9oczVsNTE66uaerrrQhhZZ2KqsRPyxAa/cn/a8ed7dadb9984eb59f16c572caa62cb0.m3u8
+
 #EXTINF:-1, TV3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
+
