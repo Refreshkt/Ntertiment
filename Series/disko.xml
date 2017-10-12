@@ -1,0 +1,43 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<fanart>https://s5.postimg.org/lvxb3577r/tv_digital_0-890x480.jpg</fanart>
+</item>
+<item>
+<title> La Familia Addams  </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>  [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://es.web.img2.acsta.net/c_300_300/pictures/17/08/18/14/42/278608.jpg</thumbnail>
+		<fanart>https://s5.postimg.org/lvxb3577r/tv_digital_0-890x480.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/la-familia-addams-serie-tv-74254/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/naredo/la-familia-addams-serie-tv-74254/list,1,3</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://es.web.img2.acsta.net/c_300_300/pictures/17/08/18/14/42/278608.jpg</thumbnail>
+<fanart>https://s5.postimg.org/lvxb3577r/tv_digital_0-890x480.jpg</fanart>
+</item>
