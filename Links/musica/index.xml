@@ -18,13 +18,22 @@
     <fanart>http://i2.wp.com/silverlakecountryclub.net/wp-content/uploads/2017/07/Music.jpg?resize=403%2C298&ssl=1</fanart>
     <externallink>https://raw.githubusercontent.com/Refreshkt/Ntertiment/master/Links/musica/70_80_90/remember.m3u</externallink>
   </channel>
+
+  <channel>
+    <name>90's</name>
+    <info>Música de los 90</info>
+    <thumbnail>https://cdn.shopify.com/s/files/1/0971/5718/articles/90.jpg?v=1475500313</thumbnail>
+    <fanart>https://i2.wp.com/silverlakecountryclub.net/wp-content/uploads/2017/07/Music.jpg?resize=403%2C298&ssl=1</fanart>
+    <externallink>https://raw.githubusercontent.com/Refreshkt/Ntertiment/master/Links/musica/90/remember90.m3u</externallink>
+  </channel>
   
   <channel>
     <name>Acid</name>
     <info>Música disco estilo acid</info>
     <thumbnail>http://evasee.com/files/images/uploads/2010/03/acid-washed-logo-evasee.jpg</thumbnail>
     <fanart>https://i2.wp.com/silverlakecountryclub.net/wp-content/uploads/2017/07/Music.jpg?resize=403%2C298&ssl=1</fanart>
-    <externallinkhttp://raw.githubusercontent.com/Refreshkt/Ntertiment/master/Links/musica/Acid/acid.m3u</externallink>
+    <externallink>https://raw.githubusercontent.com/Refreshkt/Ntertiment/master/Links/musica/Acid/acid.m3u</externallink>
   </channel>
+  
   
 </channels>
