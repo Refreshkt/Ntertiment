@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<channels>
+  <channels_info> <!-- this is optional -->
+    <title>Música</title> <!-- if channels_info, a title is required, other elements are optional -->
+    <genre>Todos</genre>
+    <description>Todo tipo de música</description>
+    <thumbnail>https://cdn.pixabay.com/photo/2014/04/03/10/07/jukebox-309885_960_720.png</thumbnail>
+    <fanart>https://i2.wp.com/silverlakecountryclub.net/wp-content/uploads/2017/07/Music.jpg?resize=403%2C298&ssl=1</fanart>
+    <date>2017</date>
+    <credits>No almacenamos contenido solo lo enlazamos</credits>
+  </channels_info>
+  
+  <channel>
+    <name>70's, 80's y 90's</name>
+    <info>Varios éxitos de los 70, 80 y 90</info>
+    <thumbnail>https://image.freepik.com/vector-gratis/musica-de-fondo-retro-con-vinilo_1051-940.jpg</thumbnail>
+    <fanart>http://i2.wp.com/silverlakecountryclub.net/wp-content/uploads/2017/07/Music.jpg?resize=403%2C298&ssl=1</fanart>
+    <externallink>https://raw.githubusercontent.com/Refreshkt/Ntertiment/master/Links/musica/70_80_90/remember.m3u</externallink>
+  </channel>
+  
+  <channel>
+    <name>Acid</name>
+    <info>Música disco estilo acid</info>
+    <thumbnail>http://evasee.com/files/images/uploads/2010/03/acid-washed-logo-evasee.jpg</thumbnail>
+    <fanart>https://i2.wp.com/silverlakecountryclub.net/wp-content/uploads/2017/07/Music.jpg?resize=403%2C298&ssl=1</fanart>
+    <externallinkhttp://raw.githubusercontent.com/Refreshkt/Ntertiment/master/Links/musica/Acid/acid.m3u</externallink>
+  </channel>
+  
+</channels>
