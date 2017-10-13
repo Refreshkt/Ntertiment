@@ -14,8 +14,24 @@
     <name>Twin Peaks</name>
     <info>Temporada 3</info>
     <thumbnail>http://static4.businessinsider.com/image/5874a7fbee14b6a47b8b478c-480/twin-peaks-showtime.jpg</thumbnail>
-    <fanart>http://40.media.tumblr.com/tumblr_maeqehjSs21r4rbfeo1_500.png</fanart>
-
+    <fanart>https://s5.postimg.org/lvxb3577r/tv_digital_0-890x480.jpg</fanart>
+    <externallink>http://raw.githubusercontent.com/Refreshkt/Ntertiment/master/Links/twinpeaks/twinpeaks.m3u</externallink>
+  </channel>
+	
+  <channel>
+    <name>Breaking Bad</name>
+    <inof>Breaking Bad todas las temporadas</info>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDNhNzhkNDctOTlmOS00NWNmLWEyODQtNWMxM2UzYmJiNGMyXkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+    <fanart>https://s5.postimg.org/lvxb3577r/tv_digital_0-890x480.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/Refreshkt/Ntertiment/master/Series/breakbad.xml</externallink>
+  </channel>
+	
+  <channel>
+    <name>La familia Addams</name>
+    <inof>Serie retro en blanco y negro</info>
+    <thumbnail>http://es.web.img2.acsta.net/c_300_300/pictures/17/08/18/14/42/278608.jpg</thumbnail>
+    <fanart>https://s5.postimg.org/lvxb3577r/tv_digital_0-890x480.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/Refreshkt/Ntertiment/master/Series/disko.xml</externallink>
   </channel>
 	
 </channels>
