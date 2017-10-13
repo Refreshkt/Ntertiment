@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<fanart>http://i.diskokosmiko.mx/images/coverPhoto/c59d12e6-f539-4097-aadb-1b3310766e44</fanart>
+<fanart>https://www.kaptest.com/blog/bar-exam-insider/wp-content/uploads/sites/25/2016/06/Breaking-Bar-Nick-F.png</fanart>
 </item>
 <item>
 <title> Breaking Bad </title>
@@ -12,7 +12,7 @@
         <title>  [makelist.param3]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDNhNzhkNDctOTlmOS00NWNmLWEyODQtNWMxM2UzYmJiNGMyXkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
-		<fanart>http://i.diskokosmiko.mx/images/coverPhoto/c59d12e6-f539-4097-aadb-1b3310766e44</fanart>
+		<fanart>https://www.kaptest.com/blog/bar-exam-insider/wp-content/uploads/sites/25/2016/06/Breaking-Bar-Nick-F.png</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/chorretedebua/breaking-bad-42060/list,1,3</page>
@@ -38,5 +38,5 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDNhNzhkNDctOTlmOS00NWNmLWEyODQtNWMxM2UzYmJiNGMyXkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://i.diskokosmiko.mx/images/coverPhoto/c59d12e6-f539-4097-aadb-1b3310766e44</fanart>
+<fanart>https://www.kaptest.com/blog/bar-exam-insider/wp-content/uploads/sites/25/2016/06/Breaking-Bar-Nick-F.png</fanart>
 </item>
