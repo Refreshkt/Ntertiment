@@ -21,6 +21,16 @@
 </item>
 
 <item>
+<title>Pelis</title>
+<link>http://ignorame</link>
+<thumbnail>https://pbs.twimg.com/profile_images/679720989610016768/U3kSg_dh.jpg</thumbnail>
+<fanart>http://cdn3.computerhoy.com/sites/computerhoy.com/files/styles/fullcontent/public/rankings/peliculas-semana-santa.jpg?itok=GKnrBl5J</fanart>
+<externallink>https://raw.githubusercontent.com/Refreshkt/Ntertiment/master/flines/pelis.xml</externallink>
+
+<info>Series de ayer y hoy</info>
+</item>
+
+<item>
 <title>Series</title>
 <link>http://ignorame</link>
 <thumbnail>http://www.iconexperience.com/_img/o_collection_png/green_dark_grey/512x512/plain/tv.png</thumbnail>
