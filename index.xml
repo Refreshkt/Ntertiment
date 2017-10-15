@@ -50,3 +50,14 @@
 <info>Todo tipo de música para disfrutar ahora</info>
 </item>
 
+<item>
+<title>Alfre</title>
+<link>http://ignorame</link>
+<thumbnail>https://pbs.twimg.com/profile_images/679720989610016768/U3kSg_dh.jpg</thumbnail>
+<fanart>http://cdn3.computerhoy.com/sites/computerhoy.com/files/styles/fullcontent/public/rankings/peliculas-semana-santa.jpg?itok=GKnrBl5J</fanart>
+<externallink>https://raw.githubusercontent.com/Refreshkt/Ntertiment/master/flines/alfred.xml
+</externallink>
+
+<info>Prueba Alfred</info>
+</item>
+
