@@ -12,7 +12,7 @@
 <link>$doregex[makelist]</link>
 ]]></listrepeat>
 <expres>href="(.*?)/">(.*?)/<</expres>
-<page>http://lavapies.linuxinthenight.com/peliculas/</page>
+<page>http://iao.vision/share/movies/</page>
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
@@ -23,10 +23,10 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[makelist.param2] </title>
-<link>http://lavapies.linuxinthenight.com/peliculas/[makelist2.param1]/[makelist.param1]</link>
+<link>http://iao.vision/share/movies/[makelist2.param1]/[makelist.param1]</link>
 ]]></listrepeat>
 <expres>href="(.*?)">(.*?)<</expres>
-<page>http://lavapies.linuxinthenight.com/peliculas/[makelist2.param1]/</page>
+<page>http://iao.vision/share/movies/[makelist2.param1]/</page>
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
