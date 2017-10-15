@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[B][COLOR yellow]  Películas xml [/COLOR][/B]</title>
+<link>$doregex[makelist2]</link>
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan] [makelist2.param2][/COLOR][/B] </title>
+<link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres>href="(.*?)/">(.*?)/<</expres>
+<page>http://lavapies.linuxinthenight.com/peliculas/alfred_hitchcock/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2] </title>
+<link>http://lavapies.linuxinthenight.com/peliculas/alfred_hitchcock/[makelist2.param1]/[makelist.param1]</link>
+]]></listrepeat>
+<expres>href="(.*?)">(.*?)<</expres>
+<page>http://lavapies.linuxinthenight.com/peliculas/alfred_hitchcock/[makelist2.param1]/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://cdn4.iconfinder.com/data/icons/technology-2/100/technology_internet_communications21-512.png</thumbnail><fanart>http://legionworldtv.com/master/app/Addons/GoldenTV/fanart.jpg</fanart>
+</item>
