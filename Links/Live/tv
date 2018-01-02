@@ -19,10 +19,7 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8
 https://dai.google.com/linear/hls/p/event/2DbwX2JMQvef-4YCGEtRkQ/stream/ca472d98-cafc-4fa2-92e3-27360a097732:BRU/variant/55fab65b92e5624bc6651ff5ec9f2fc3/bandwidth/2564000.m3u8
 
 #EXTINF:-1, Telecinco
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b.m3u8
-
-#EXTINF:-1, Telecinco
-http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/ZjdDVsNTE6AGr8xEgww56vHTV42Lo1Sz/cn/64a4314853d144169ff33a9e4532ddff.m3u8
+https://dai.google.com/linear/hls/p/event/XqcS7SpLTLWIo_QetmAfnw/stream/928feb31-c3ed-47d8-9f41-1b215fec4141:BRU/variant/12c70536e2e0db9d3dd8df66e0d3c496/bandwidth/2564000.m3u8
 
 #EXTINF:-1, La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8
