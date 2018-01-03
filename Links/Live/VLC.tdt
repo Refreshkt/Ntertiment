@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Lista de reproducción</title>
+	<trackList>
+		<track>
+			<location>http://hlsackdn_gl7-lh.akamaihd.net/i/hlsdvrlive_1@566874/master.m3u8</location>
+			<title> La 1</title>
+			<image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://hlsackdn_gl0-lh.akamaihd.net/i/hlslive_1@439422/master.m3u8</location>
+			<title> La 2</title>
+            <image>https://upload.wikimedia.org/wikipedia/commons/f/f3/Se15.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://hlsackdn_gl1-lh.akamaihd.net/i/hlsdvrlive_1@137561/master.m3u8</location>
+			<title> TDP</title>
+            <image>https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/270px-Tve_teledeporte.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8</location>
+			<title> 24H</title>
+            <image>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/150px-Logo_TVE-24h.svg.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8</location>
+			<title> A3</title>
+            <image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/105px-Antena_3_%282017%29.svg.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://dai.google.com/linear/hls/p/event/2DbwX2JMQvef-4YCGEtRkQ/stream/4232ce02-ddb0-4364-8f27-ee53ed932c31:BRU/variant/55fab65b92e5624bc6651ff5ec9f2fc3/bandwidth/2564000.m3u8</location>
+			<title> Cuatro</title>
+            <image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/250px-Cuatro.svg.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://dai.google.com/linear/hls/p/event/XqcS7SpLTLWIo_QetmAfnw/stream/23e5ec3a-30f5-4981-9a03-544595738b4b:BRU/variant/12c70536e2e0db9d3dd8df66e0d3c496/bandwidth/2564000.m3u8</location>
+			<title> Telecinco</title>
+            <image>https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Telecinco_2012.png/160px-Telecinco_2012.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8</location>
+			<title> La Sexta</title>
+            <image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/68px-La_Sexta_%28A3M%29.svg.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8</location>
+			<title> Divinity</title>
+            <image>https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Divinity_2012.png/160px-Divinity_2012.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8</location>
+			<title> FDF</title>
+            <image>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/160px-FDF_2012_Large.svg.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8</location>
+			<title> Boing</title>
+            <image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/90px-Boing.svg.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8</location>
+			<title> Energy</title>
+            <image>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/160px-Energy.svg.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</location>
+			<title> A3 Series</title>
+            <image>https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/80px-AtreseriesLogo.svg.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</location>
+			<title> Mega</title>
+            <image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/MEGA.png/100px-MEGA.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</location>
+			<title> Neox</title>
+            <image>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Logoneoxamarillo.gif/100px-Logoneoxamarillo.gif</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</location>
+			<title> Nova</title>
+            <image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Nova_logo_2010.png/100px-Nova_logo_2010.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8</location>
+			<title> BeMad</title>
+            <image>https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/125px-Be_Mad_TV.svg.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8</location>
+			<title> TV3</title>
+            <image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/80px-TV3.svg.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+	</extension>
+</playlist>
