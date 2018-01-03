@@ -16,10 +16,10 @@ http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8
 
 #EXTINF:-1, Cuatro
-https://dai.google.com/linear/hls/p/event/2DbwX2JMQvef-4YCGEtRkQ/stream/ca472d98-cafc-4fa2-92e3-27360a097732:BRU/variant/55fab65b92e5624bc6651ff5ec9f2fc3/bandwidth/2564000.m3u8
+https://dai.google.com/linear/hls/p/event/2DbwX2JMQvef-4YCGEtRkQ/stream/4232ce02-ddb0-4364-8f27-ee53ed932c31:BRU/variant/55fab65b92e5624bc6651ff5ec9f2fc3/bandwidth/2564000.m3u8
 
 #EXTINF:-1, Telecinco
-https://dai.google.com/linear/hls/p/event/XqcS7SpLTLWIo_QetmAfnw/stream/928feb31-c3ed-47d8-9f41-1b215fec4141:BRU/variant/12c70536e2e0db9d3dd8df66e0d3c496/bandwidth/2564000.m3u8
+https://dai.google.com/linear/hls/p/event/XqcS7SpLTLWIo_QetmAfnw/stream/23e5ec3a-30f5-4981-9a03-544595738b4b:BRU/variant/12c70536e2e0db9d3dd8df66e0d3c496/bandwidth/2564000.m3u8
 
 #EXTINF:-1, La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8
