@@ -6,51 +6,51 @@ http://hlsackdn_gl7-lh.akamaihd.net/i/hlsdvrlive_1@566874/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Se15.png", La 2
 http://hlsackdn_gl0-lh.akamaihd.net/i/hlslive_1@439422/master.m3u8
 
-#EXTINF:-1, TDP
+#EXTINF:-1 tvg-logo="", TDP
 http://hlsackdn_gl1-lh.akamaihd.net/i/hlsdvrlive_1@137561/master.m3u8
 
-#EXTINF:-1, 24H
+#EXTINF:-1 tvg-logo=", 24H
 http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
 
-#EXTINF:-1, A3
+#EXTINF:-1 tvg-logo=", A3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8
 
-#EXTINF:-1, Cuatro
+#EXTINF:-1 tvg-logo=", Cuatro
 https://dai.google.com/linear/hls/p/event/2DbwX2JMQvef-4YCGEtRkQ/stream/4232ce02-ddb0-4364-8f27-ee53ed932c31:BRU/variant/55fab65b92e5624bc6651ff5ec9f2fc3/bandwidth/2564000.m3u8
 
-#EXTINF:-1, Telecinco
+#EXTINF:-1 tvg-logo=", Telecinco
 https://dai.google.com/linear/hls/p/event/XqcS7SpLTLWIo_QetmAfnw/stream/23e5ec3a-30f5-4981-9a03-544595738b4b:BRU/variant/12c70536e2e0db9d3dd8df66e0d3c496/bandwidth/2564000.m3u8
 
-#EXTINF:-1, La Sexta
+#EXTINF:-1 tvg-logo=", La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8
 
-#EXTINF:-1, Divinity
+#EXTINF:-1 tvg-logo=", Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 
-#EXTINF:-1, FDF
+#EXTINF:-1 tvg-logo=", FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 
-#EXTINF:-1, Boing
+#EXTINF:-1 tvg-logo=", Boing
 https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
 
-#EXTINF:-1, Energy
+#EXTINF:-1 tvg-logo=", Energy
 https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
 
-#EXTINF:-1, A3 Series
+#EXTINF:-1 tvg-logo=", A3 Series
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
-#EXTINF:-1, Mega
+#EXTINF:-1 tvg-logo=", Mega
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 
-#EXTINF:-1, Neox
+#EXTINF:-1 tvg-logo=", Neox
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 
-#EXTINF:-1, Nova
+#EXTINF:-1 tvg-logo=", Nova
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 
-#EXTINF:-1, BeMad
+#EXTINF:-1 tvg-logo=", BeMad
 https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
 
-#EXTINF:-1, TV3
+#EXTINF:-1 tvg-logo=", TV3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
 
