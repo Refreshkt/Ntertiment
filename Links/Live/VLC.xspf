@@ -51,7 +51,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://dai.google.com/linear/hls/p/event/XqcS7SpLTLWIo_QetmAfnw/stream/23e5ec3a-30f5-4981-9a03-544595738b4b:BRU/variant/12c70536e2e0db9d3dd8df66e0d3c496/bandwidth/2564000.m3u8</location>
+			<location>https://dai.google.com/linear/hls/p/event/XqcS7SpLTLWIo_QetmAfnw/stream/20ea958e-f79b-47ab-98b6-5213739e9bdb:BRU/variant/12c70536e2e0db9d3dd8df66e0d3c496/bandwidth/2564000.m3u8</location>
 			<title> Telecinco</title>
             <image>https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Telecinco_2012.png/160px-Telecinco_2012.png</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
