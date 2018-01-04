@@ -43,7 +43,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://dai.google.com/linear/hls/p/event/2DbwX2JMQvef-4YCGEtRkQ/stream/4232ce02-ddb0-4364-8f27-ee53ed932c31:BRU/variant/55fab65b92e5624bc6651ff5ec9f2fc3/bandwidth/2564000.m3u8</location>
+			<location>https://dai.google.com/linear/hls/p/event/2DbwX2JMQvef-4YCGEtRkQ/stream/be1c5058-4f04-4e62-a34e-a8045087c6c4:BRU/variant/55fab65b92e5624bc6651ff5ec9f2fc3/bandwidth/2564000.m3u8</location>
 			<title> Cuatro</title>
             <image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/250px-Cuatro.svg.png</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
