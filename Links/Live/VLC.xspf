@@ -151,7 +151,7 @@
 			<title>Paramount</title>
             <image>https://upload.wikimedia.org/wikipedia/commons/7/77/Paramount_logo_1914.jpg</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>17</vlc:id>
+				<vlc:id>18</vlc:id>
 			</extension>
 		</track>
 	</trackList>
@@ -174,5 +174,6 @@
 			<vlc:item tid="15"/>
 			<vlc:item tid="16"/>
 			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
 	</extension>
 </playlist>
