@@ -5,6 +5,7 @@
 		<track>
 			<location>acestream://c9d205179d4ecc08c0f3b581dd47997d7ab3da1a</location>
 			<title>Sucker Punch</title>
+			<image>http://www.panicposters.com/media/catalog/product/cache/1/image/f63dc5ec28f3175f8a7f615bd217eb71/f/p/fp2539-sucker-punch-sweet-pea-poster.jpg</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
 			</extension>
