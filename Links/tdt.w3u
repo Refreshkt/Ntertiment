@@ -1,0 +1,104 @@
+{
+	"author": "PanxoSpam.",
+	"name": "TDT",
+	"url": "https://encuentratelavida.blogspot.com.es/",
+	"stations": [
+		{
+			"name": "TVE 1",
+			"image": "https://lh3.googleusercontent.com/-2h2nkI_UC2w/VwZUQhGnJEI/AAAAAAAABaY/t_feq46yKawxYUNbo_dLJdMzVDT063oBA/h120/es_tve_1.png",
+			"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/10.ts",
+			"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+		},
+		{
+			"name": "TVE 2",
+			"image": "https://lh3.googleusercontent.com/-z_vnkRoCbQ4/VwZN_sYnvGI/AAAAAAAABZo/oQVGVRitpGYqOOBZyZbaamWYcrd-LfVBw/h120/es_tve_2.png",
+			"url":"http://livesports.pw/embedn.php?file=tvdostelefive&width=658&height=400",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+			"isHost": true
+		},
+		{
+			"name": "ANTENA 3",
+			"image": "https://lh3.googleusercontent.com/-oj2QAm-Yt6o/VwZF43nP9cI/AAAAAAAABYk/8da6XwxzznsYWqODeui0zm2GCXZhJWQpw/h120/es%2Bantena%2B3.png",
+			"url": "http://www.androidaldia.es/2018/02/antena-3.html",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+			"embed" : true    
+		},
+		{
+			"name": "CUATRO",
+			"image": "https://lh3.googleusercontent.com/-kvuQNLEAAoo/VwZF6Ke6QuI/AAAAAAAABZA/9yK0r7-v1pgpUHnwrVJfHngz59bLOexIA/h120/es_cuatro.png",
+			"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/12.ts",
+			"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+		},
+		{
+			"name": "Telecinco",
+			"image": "https://lh3.googleusercontent.com/-GQSuOllphD4/VwZF6RgsdoI/AAAAAAAABZI/4N3S37eyc4sRQxgtn9CoeFbk_2nM5liuACKgB/w140-h73-p/es_telecinco.png",
+			"url": "http://www.androidaldia.es/2018/02/telecinco.html",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+			"embed" : true
+		},
+		{
+			"name": "LA SEXTA",
+			"image": "https://lh3.googleusercontent.com/-2p8HPlFqIrM/VwZHRXm7dzI/AAAAAAAABZU/Jl95Wa4BoMISKOvD7om2dV26w8eDzp0KA/h120/es_la_sexta.png",
+			"url": "http://www.androidaldia.es/2018/02/la-sexta.html",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+			"embed" : true    
+		},
+		{
+			"name": "Be Mad",
+			"image": "https://lh3.googleusercontent.com/-gg2V7kn-zXU/VzyAZUNOCpI/AAAAAAAABn8/lW3ALbwY-zsJo1WJ1RSnmPyN33nfJ6G6wCLcB/h120/es_BE_MAD.png",
+			"url": "http://vergol.com/live/bemad.php",
+			"referer" : "http://verdirectotv.com/",
+			"isHost" : "true"
+		},
+		{
+			"name": "DKISS",
+			"image": "https://lh3.googleusercontent.com/-OR4Luu68_C8/Wj1dBQR6d0I/AAAAAAAAC9s/Yc3VtwMFtoo-SX283jXYB1cwDUXaE_BQwCLcBGAs/h120/es_Dkiss.png",
+			"url": "http://vercanalestv.com/tv/nacionales/dkiss.html", 
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+			"isHost": "true"
+		},
+		{
+			"name": "A3SERIES HD",
+			"image": "https://lh3.googleusercontent.com/-_bYMIklUg9Y/Vxs4doV1oNI/AAAAAAAABfA/5RYzv7kcI2sz56XSym1V4w4IakCZMYlZACLcB/h120/es_atreseries.png",
+			"url": "http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8"
+		},
+		{
+			"name": "NEOX",
+			"image": "https://lh3.googleusercontent.com/-DUucDOIkTrg/VwbXC5red6I/AAAAAAAABcM/AwH40cJNh1gIeoP-qpRkEf3R6lge2FPcw/h120/es_neox.png",
+			"url": "http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on"
+		},
+		{
+			"name": "Mega",
+			"image": "https://lh3.googleusercontent.com/-gGMSN6v0bZc/VzyBah8YlgI/AAAAAAAABoI/fknMWqlXRrgWaYgNn24Gj1Ypmo7sGsH1QCLcB/h120/es_MEGA.png",
+			"url": "http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-p.m3u8?sd=10&rebase=on"
+		},
+		{
+			"name": "Divinity",
+			"image": "https://lh3.googleusercontent.com/-ywhKOs5BFlM/VzyCKwTLd1I/AAAAAAAABoQ/SNYham2MCVE1XF_xD4c1yueJquKE2YE6wCLcB/h120/es_DIVINITY.png",
+			"url": "http://vercanalestv.com/tv/nacionales/divinity.html", 
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+			"isHost" : true  
+		},
+		{
+			"name": "A&E",
+			"image": "https://lh3.googleusercontent.com/-z4byNrxBBss/Wj1emrsNaqI/AAAAAAAAC98/ZVGoLVF8vFABDbqwkkdsIfCJn3Bs4GhWACLcBGAs/h120/es_A%2526E.png",
+			"url": "http://livesports.pw/embedn.php?file=anadetelefive&width=650&height=400", 
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+			"isHost" : true  
+			}, 
+		{
+			"name": "TEN",
+			"image": "",
+			"url": "http://vercanalestv.com/tv/nacionales/ten.html", 
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+			"isHost" : true  
+		},
+		{
+			"name": "Energy ",
+			"image": "https://lh3.googleusercontent.com/-Et9AAVQTo3s/VzyCqM9bBSI/AAAAAAAABoU/i6pdEYsgaR0NtJkx_FF6xgHNHlUD7K1hACLcB/h120/es_ENERGY.png",
+			"url": "http://vercanalestv.com/tv/nacionales/energy.html", 
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+			"isHost" : true  
+		}
+	]
+}
