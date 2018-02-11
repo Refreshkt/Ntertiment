@@ -1,4 +1,130 @@
 #EXTM3U
 
-#EXTINF:-1, ListTVProApp
-http://qapps.newgooder.com/plugintv/ListTVProApp7.m3u
+#EXTINF:-1, La 1 HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/10.ts
+
+#EXTINF:-1, Antena 3 HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/11.ts
+
+#EXTINF:-1, Cuatro HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/12.ts
+
+#EXTINF:-1, Movistar Series HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/32.ts
+
+#EXTINF:-1, Movistar Series Xtra HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/33.ts
+
+#EXTINF:-1, Fox HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/34.ts
+
+#EXTINF:-1, Axn HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/36.ts
+
+#EXTINF:-1, Axn White 
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/43.ts
+
+#EXTINF:-1, Tnt HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/39.ts
+
+#EXTINF:-1, Calle 13
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://dragonsfeelbuscalaengoogleplayy.applive.online/live/vercalltreesb62be937cb974/index.m3u8
+
+#EXTINF:-1, Cosmos HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/38.ts
+
+#EXTINF:-1, Mtv HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/40.ts
+
+#EXTINF:-1, 0 HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/1.ts
+
+#EXTINF:-1, Movistar Estrenos HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/2.ts
+
+#EXTINF:-1, Movistar Xtra HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/6.ts
+
+#EXTINF:-1, Movistar Accion HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/4.ts
+
+#EXTINF:-1, Movistar Comedia HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/5.ts
+
+#EXTINF:-1, Movistar Dcine HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/3.ts
+
+#EXTINF:-1, Hollywood HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/7.ts
+
+#EXTINF:-1, Gol HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/16.ts
+
+#EXTINF:-1, Movistar Futbol HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/19.ts
+
+#EXTINF:-1, Eurosport 1 HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/25.ts
+
+#EXTINF:-1, Barsa TV HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/24.ts
+
+#EXTINF:-1, Movistar Formula 1 HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/21.ts
+
+#EXTINF:-1, Movistar MotoGP HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/20.ts
+
+#EXTINF:-1, Movistar Golf HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/23.ts
+
+#EXTINF:-1, Caza y Pesca HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/31.ts
+
+#EXTINF:-1, Toros Tv HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/22.ts
+
+#EXTINF:-1, National Geographic HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/26.ts
+
+#EXTINF:-1, National Wild HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/27.ts
+
+#EXTINF:-1, Nickelodeon HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/44.ts
+
+#EXTINF:-1, Disney Jr.
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/42.ts
+
