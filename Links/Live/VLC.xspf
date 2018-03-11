@@ -91,7 +91,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8</location>
+			<location>https://mdslivehls-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8</location>
 			<title> Energy</title>
             <image>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/160px-Energy.svg.png</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
