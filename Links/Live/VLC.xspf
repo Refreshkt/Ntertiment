@@ -3,7 +3,7 @@
 	<title>Lista de reproducción</title>
 	<trackList>
 		<track>
-			<location>http://hlsackdn_gl7-lh.akamaihd.net/i/hlsdvrlive_1@566874/master.m3u8</location>
+			<location>http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8</location>
 			<title> La 1</title>
 			<image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -43,7 +43,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://dai.google.com/linear/hls/p/event/2DbwX2JMQvef-4YCGEtRkQ/stream/4232ce02-ddb0-4364-8f27-ee53ed932c31:BRU/variant/55fab65b92e5624bc6651ff5ec9f2fc3/bandwidth/2564000.m3u8</location>
+			<location>https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8</location>
 			<title> Cuatro</title>
             <image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/250px-Cuatro.svg.png</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -51,7 +51,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://dai.google.com/linear/hls/p/event/XqcS7SpLTLWIo_QetmAfnw/stream/23e5ec3a-30f5-4981-9a03-544595738b4b:BRU/variant/12c70536e2e0db9d3dd8df66e0d3c496/bandwidth/2564000.m3u8</location>
+			<location>https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8</location>
 			<title> Telecinco</title>
             <image>https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Telecinco_2012.png/160px-Telecinco_2012.png</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -59,7 +59,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8</location>
+			<location>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</location>
 			<title> La Sexta</title>
             <image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/68px-La_Sexta_%28A3M%29.svg.png</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
