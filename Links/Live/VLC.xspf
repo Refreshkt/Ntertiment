@@ -131,7 +131,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8</location>
+			<location>https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8</location>
 			<title> BeMad</title>
             <image>https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/125px-Be_Mad_TV.svg.png</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
