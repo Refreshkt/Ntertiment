@@ -159,7 +159,7 @@
 			<title> Movistar Acción HD</title>
             <image>https://static.iptv-epg.com/es/MovistarAccion.es.png</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>20</vlc:id>
+				<vlc:id>19</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -175,7 +175,7 @@
 			<title> Movistar DCine</title>
             <image>https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-dcine.jpg.pagespeed.ic.DzQlzbJjsO.jpg</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>20</vlc:id>
+				<vlc:id>21</vlc:id>
 			</extension>
 		</track>
 	</trackList>
@@ -199,8 +199,8 @@
 			<vlc:item tid="16"/>
 			<vlc:item tid="17"/>
 			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
 			<vlc:item tid="20"/>
 			<vlc:item tid="21"/>
-			<vlc:item tid="22"/>
 	</extension>
 </playlist>
