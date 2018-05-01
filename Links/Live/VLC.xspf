@@ -35,7 +35,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8</location>
+			<location>https://atresplayerp-i.akamaized.net/geoantena3mpp/bitrate_4.m3u8</location>
 			<title> A3</title>
             <image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/105px-Antena_3_%282017%29.svg.png</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -59,7 +59,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</location>
+			<location>https://atresplayerp-i.akamaized.net/lasextampp/master.m3u8</location>
 			<title> La Sexta</title>
             <image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/68px-La_Sexta_%28A3M%29.svg.png</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -83,7 +83,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8</location>
+			<location>https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8</location>
 			<title> Boing</title>
             <image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/90px-Boing.svg.png</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -115,7 +115,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</location>
+			<location>https://atresplayerp-i.akamaized.net/geoneoxmpp/master.m3u8</location>
 			<title> Neox</title>
             <image>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Logoneoxamarillo.gif/100px-Logoneoxamarillo.gif</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
