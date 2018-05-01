@@ -155,9 +155,25 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?system=webgol&amp;stream=webgol_gol24h&amp;token=7eb39c85443093d5533b4eb4bf4a56fc&amp;expire=5a58df64</location>
-			<title> Gol</title>
-            <image>https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/200px-Gol.svg.png</image>
+			<location>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8</location>
+			<title> Movistar Acción HD</title>
+            <image>https://static.iptv-epg.com/es/MovistarAccion.es.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8</location>
+			<title> Movistar Comedia HD</title>
+            <image>https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-comedia.jpg.pagespeed.ic.zZUxRAcn7e.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8</location>
+			<title> Movistar DCine</title>
+            <image>https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-dcine.jpg.pagespeed.ic.DzQlzbJjsO.jpg</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>20</vlc:id>
 			</extension>
@@ -184,5 +200,7 @@
 			<vlc:item tid="17"/>
 			<vlc:item tid="18"/>
 			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
 	</extension>
 </playlist>
