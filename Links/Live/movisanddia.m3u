@@ -1,0 +1,84 @@
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2h2nkI_UC2w/VwZUQhGnJEI/AAAAAAAABaY/t_feq46yKawxYUNbo_dLJdMzVDT063oBA/h120/es_tve_1.png", TVE 1
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/10.ts
+
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-kvuQNLEAAoo/VwZF6Ke6QuI/AAAAAAAABZA/9yK0r7-v1pgpUHnwrVJfHngz59bLOexIA/h120/es_cuatro.png", CUATRO
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/12.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-725-ckmEo6k/V6ihMDoS8AI/AAAAAAAAB8k/K-gRnoz6wiU2bOFXEelFIrcN-Gl7LCICQCLcB/h120/es_movistar_SERIES.png", Movistar Series
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git 
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/32.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-725-ckmEo6k/V6ihMDoS8AI/AAAAAAAAB8k/K-gRnoz6wiU2bOFXEelFIrcN-Gl7LCICQCLcB/h120/es_movistar_SERIES.png", Movistar Series Xtra
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git 
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/33.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dcorpX9BSnc/VzzSRNjlAGI/AAAAAAAABrg/eDJ5pDsDIB0IlYOHeTFCalTucCTgjc-NgCEw/w140-h73-p/es_fox.png", FOX
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/34.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dcorpX9BSnc/VzzSRNjlAGI/AAAAAAAABrg/eDJ5pDsDIB0IlYOHeTFCalTucCTgjc-NgCEw/w140-h73-p/es_fox.png", FOX LIFE
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/35.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-scbt4mT2GBc/VzzLU6xhN-I/AAAAAAAABqg/wUIV7XfrqJY-ar7CM-JYFhetbU2QSsvuQCEw/w140-h73-p/es_axn.png", AXN
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/36.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b3Eqcvzofyw/VzzQtuIKu4I/AAAAAAAABrQ/dGwNypFqDGc3rL-DwL8T1qBjFO3VaYYLwCEw/w140-h73-p/es_axn_white.png", AXN White
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git 
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/37.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1cfqIzzgTPs/VzzRElIW4DI/AAAAAAAABrY/yvZ6DSy4dS8VVmc6QZPlIZ5ThRoM7w8iACEw/w140-h73-p/es_syfy.png", Syfy
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git 
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/8.ts
+
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-l6oNGC-VNTk/V0G6-#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",2cZ6GI/AAAAAAAABus/vCAXGbsiwP0KBpcaHtpcY563n9Jd3YsSgCLcB/h120/es_MOTOGP.png", MotoGP
+
+
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/20.ts
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4bKvC8JT6io/V0G7xr3XXLI/AAAAAAAABu4/Q0hc5IFR4sQUBUjl_1PeOGMYday1ZxhMQCLcB/h120/es_EUROSPORT.png", Eurosport 1
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git 
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/25.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-RDOV0lBpQ-8/V_Oke66PXkI/AAAAAAAACL8/XtJmV3Fte4gdIWa0vTHAnmJkuG7L0S3bQCEwYBhgL/w140-h73-p/es_DISCOVERY.png", DISCOVERY CHANNEL
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git 
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/28.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xgWM7tjp6Sw/Wj49TwVpUpI/AAAAAAAADAE/5qZr223xebgbHMTZkNksrAGFUxKW_NROACLcBGAs/h120/es_national.png", NATIONAL GEOGRAPHIC HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git 
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/26.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-A2N_U4w3PBg/VwbWcLJz1-I/AAAAAAAABcQ/0rvZx0jh-yA1US121hUPHHTWgpGMsVFPQCEwYBhgL/w140-h73-p/es_nat_geo.png", NAT GEO WILD HD
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git 
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/27.ts
+
