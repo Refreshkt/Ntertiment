@@ -35,7 +35,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://atresplayerp-i.akamaized.net/geoantena3mpp/bitrate_4.m3u8</location>
+			<location>https://atresplayerp-i.akamaized.net/antena3mpp/master.m3u8</location>
 			<title> A3</title>
             <image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/105px-Antena_3_%282017%29.svg.png</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -59,7 +59,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://atresplayerp-i.akamaized.net/lasextampp/master.m3u8</location>
+			<location>https://livepull1.secure.footprint.net/geolasextampp/master.m3u8</location>
 			<title> La Sexta</title>
             <image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/68px-La_Sexta_%28A3M%29.svg.png</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -99,7 +99,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</location>
+			<location>https://livepull1.secure.footprint.net/geoa3seriesmpp/bitrate_3.m3u8</location>
 			<title> A3 Series</title>
             <image>https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/80px-AtreseriesLogo.svg.png</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -107,7 +107,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</location>
+			<location>https://livepull1.secure.footprint.net/geomegampp/bitrate_3.m3u8</location>
 			<title> Mega</title>
             <image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/MEGA.png/100px-MEGA.png</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -115,7 +115,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://atresplayerp-i.akamaized.net/geoneoxmpp/master.m3u8</location>
+			<location>https://livepull1.secure.footprint.net/geoneoxmpp/bitrate_3.m3u8</location>
 			<title> Neox</title>
             <image>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Logoneoxamarillo.gif/100px-Logoneoxamarillo.gif</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -123,7 +123,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</location>
+			<location>https://livepull1.secure.footprint.net/geonovampp/bitrate_3.m3u8</location>
 			<title> Nova</title>
             <image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Nova_logo_2010.png/100px-Nova_logo_2010.png</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
