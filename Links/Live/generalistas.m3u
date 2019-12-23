@@ -1,0 +1,104 @@
+#EXTM3U
+
+
+#EXTINF:-1, La 1 HD
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
+
+#EXTINF:-1, La 1 HD
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@584097/master.m3u8
+
+#EXTINF:-1, La 2 HD
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
+
+#EXTINF:-1, La 2 HD
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@584099/master.m3u8
+
+#EXTINF:-1, Antena 3 HD
+https://livestartover.atresmedia.com/antena3/master.m3u8
+
+#EXTINF:-1, Antena 3 HD
+https://livestartover.atresmedia.com/geoantena3/master.m3u8
+
+#EXTINF:-1, Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
+
+#EXTINF:-1, Cuatro HD
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+
+#EXTINF:-1, Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
+
+#EXTINF:-1, Telecinco HD
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+
+#EXTINF:-1, laSexta HD
+https://livestartover.atresmedia.com/lasexta/master.m3u8
+
+#EXTINF:-1, laSexta HD
+https://livestartover.atresmedia.com/geolasexta/master.m3u8
+
+#EXTINF:-1, Neox HD
+https://livestartover.atresmedia.com/neox/master.m3u8
+
+#EXTINF:-1, Neox HD
+https://livestartover.atresmedia.com/geoneox/master.m3u8
+
+#EXTINF:-1, Nova HD
+https://livestartover.atresmedia.com/nova/master.m3u8
+
+#EXTINF:-1, Nova HD
+https://livestartover.atresmedia.com/geonova/master.m3u8
+
+#EXTINF:-1, Mega HD
+https://livestartover.atresmedia.com/mega/master.m3u8
+
+#EXTINF:-1, Mega HD
+https://livestartover.atresmedia.com/geomega/master.m3u8
+
+#EXTINF:-1, Atreseries HD
+https://livestartover.atresmedia.com/a3series/master.m3u8
+
+#EXTINF:-1, Atreseries HD
+https://livestartover.atresmedia.com/geoa3series/master.m3u8
+
+#EXTINF:-1, FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8
+
+#EXTINF:-1, FDF HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
+#EXTINF:-1, Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_2.m3u8
+
+#EXTINF:-1, Energy HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+
+#EXTINF:-1, Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
+
+#EXTINF:-1, Divinity HD
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:-1, Be Mad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
+
+#EXTINF:-1, Be Mad HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
+#EXTINF:-1, Paramount Network
+https://paramount-live.flumotion.com/live/playlist.m3u8
+
+#EXTINF:-1, TRECE
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
+
+#EXTINF:-1, DKISS HD
+http://kissfm-cires21-video.secure.footprint.net/dkiss/master.m3u8
+
+#EXTINF:-1, mtmad 24h HD
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+
+#EXTINF:-1, playz HD
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins4_lv3_aosv4_gl0/ins4_lv3_aosv4_gl0.isml/master.m3u8
+
+#EXTINF:-1, playz HD
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins5_lv3_aosv4_gl0/ins5_lv3_aosv4_gl0.isml/master.m3u8
