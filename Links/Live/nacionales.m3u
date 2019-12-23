@@ -1,0 +1,116 @@
+#EXTM3U
+
+
+#EXTINF:-1,#0
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo4.mitopo.me/live/plus1/index.m3u8?token=d08Gx0DBtg1vz2pZ3Tw7ZQ&expires=1577211072
+
+#EXTINF:-1,fox
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://petopa151.caraponi.me/live/fox/index.m3u8?token=X6BfoqQ2Gz0gLSUAUz71SQ&expires=1577211072
+
+#EXTINF:-1,tnt
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo6.mitopo.me/live/tnt/index.m3u8?token=QGPG9Bzkoj1tBCMUMnzQDg&expires=1577211072
+
+#EXTINF:-1,axn
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo3.mitopo.me/live/axn/index.m3u8?token=hdlB6RashOufP8LCTwMqaw&expires=1577211072
+
+#EXTINF:-1,syfy
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo8.mitopo.me/live/syfy/index.m3u8?token=xz3TRDouNYfX1EMVcMdbEg&expires=1577211072
+
+#EXTINF:-1,calle13
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo4.mitopo.me/live/calle13/index.m3u8?token=Bnvvt5bRCS-96ueGTSC9_A&expires=1577211072
+
+#EXTINF:-1,dark
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://pico11.pedromo.me/live/dark/index.m3u8?token=uPzsKhWiIDxak8TP_zsqCw&expires=1577211072
+
+#EXTINF:-1,hollywood
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo4.mitopo.me/live/hollywood/index.m3u8?token=dB8GNc9iMWpgBY4im1ox5A&expires=1577211072
+
+#EXTINF:-1,movistar-accion
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo2.mitopo.me/live/plusaccion/index.m3u8?token=4B_e7OsCACqQ3h_fvRbcqw&expires=1577211072
+
+#EXTINF:-1,movistar-comedia
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo2.mitopo.me/live/comedia/index.m3u8?token=ZiwcHr9CUuATjlHTiS-xXw&expires=1577211072
+
+#EXTINF:-1,movistar-disney
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo2.mitopo.me/live/plusdisney/index.m3u8?token=nhqCjikizBIaDYnogo-ofA&expires=1577211073
+
+#EXTINF:-1,movistar-drama
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo2.mitopo.me/live/dcine/index.m3u8?token=Cw7fxNuALZfZM6tzpoqISg&expires=1577211073
+
+#EXTINF:-1,movistar-estrenos
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://petopa152.caraponi.me/live/plusestrenos/index.m3u8?token=jmixclDhW7hW6JIzyzLeig&expires=1577211073
+
+#EXTINF:-1,movistar-seriesmania
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://petopa151.caraponi.me/live/seriesmania/index.m3u8?token=oU04W4nnn6sjvmK3rQ287Q&expires=1577211073
+
+#EXTINF:-1,movistar-series
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://petopa151.caraponi.me/live/plusseries/index.m3u8?token=mJ2XwAQbixGekVm0UxoyRw&expires=1577211073
+
+#EXTINF:-1,amc
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo8.mitopo.me/live/amc/index.m3u8?token=3Cl2LfxsoL-JzXudZJBZEg&expires=1577211073
+
+#EXTINF:-1,mtv
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo2.mitopo.me/live/mtv/index.m3u8?token=YQM4UFRCOyjG2bvaFkrUdg&expires=1577211073
+
+#EXTINF:-1,tcm
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo7.mitopo.me/live/tcm/index.m3u8?token=PzMGk-Jz2LmDpsH_he9qYw&expires=1577211073
+
+#EXTINF:-1,foxlife
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo3.mitopo.me/live/foxlife/index.m3u8?token=61icmUXA6elP0LYvS7U5Uw&expires=1577211073

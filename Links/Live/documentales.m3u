@@ -1,0 +1,56 @@
+#EXTM3U
+
+
+#EXTINF:-1,blaze
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo4.mitopo.me/live/blaze/index.m3u8?token=RNryy6O5UcU4dNrwN3xlsA&expires=1577211041
+
+#EXTINF:-1,canal-cocina
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo4.mitopo.me/live/cocina/index.m3u8?token=_xR63qz-WX9JlpSJvljFNw&expires=1577211041
+
+#EXTINF:-1,ci
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo7.mitopo.me/live/ci/index.m3u8?token=NV0pWOVm02Beml8rYHwlMA&expires=1577211041
+
+#EXTINF:-1,discovery-channel
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo5.mitopo.me/live/discovery/index.m3u8?token=RxSORb9fUvmLkJ3XRmVF1g&expires=1577211041
+
+#EXTINF:-1,dmax
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://petopa152.caraponi.me/live/dmax/index.m3u8?token=MKXrar3MAt9BnuUHIFslzQ&expires=1577211041
+
+#EXTINF:-1,historia
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo4.mitopo.me/live/historia/index.m3u8?token=6A1ocYi2BALkpiMmUyo9mQ&expires=1577211041
+
+#EXTINF:-1,national-geo
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo3.mitopo.me/live/nationalgeo/index.m3u8?token=w9jRzxq39UIuzUwlrHB5Rg&expires=1577211041
+
+#EXTINF:-1,national-wild
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo8.mitopo.me/live/nationalwild/index.m3u8?token=KmVgjD7wfoEL6qgkPTkqYA&expires=1577211041
+
+#EXTINF:-1,odisea
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+
+https://grifo5.mitopo.me/live/odisea/index.m3u8?token=lS9zZaVdGRQTNvHGfi1HRw&expires=1577211041
